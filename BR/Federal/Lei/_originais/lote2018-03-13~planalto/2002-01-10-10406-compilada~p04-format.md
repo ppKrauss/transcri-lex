@@ -33,25 +33,22 @@ concepção, os direitos do nascituro.
 incapazes de exercer pessoalmente os atos da vida civil os menores de 16
 (dezesseis) anos.
 
-I - [(Revogado)](#);
+**I** - [(Revogado)](#);
 
-II -
-[(Revogado)](#);
+**II** - [(Revogado)](#);
 
-III -
-[(Revogado)](#).
+**III** - [(Revogado)](#).
 
 **Art. 4º**. São incapazes,
 relativamente a certos atos ou à maneira de os exercer:
 
-I - os maiores de dezesseis e menores de dezoito anos;
+**I** - os maiores de dezesseis e menores de dezoito anos;
 
-II - os ébrios habituais e os viciados em tóxico;
+**II** - os ébrios habituais e os viciados em tóxico;
 
-III - aqueles que, por causa transitória ou permanente, não puderem
-exprimir sua vontade;
+**III** - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade;
 
-IV - os pródigos.
+**IV** - os pródigos.
 
 **Parágrafo único.** A capacidade dos indígenas será regulada por
 legislação especial.
@@ -62,18 +59,18 @@ todos os atos da vida civil.
 
 **Parágrafo único.** Cessará, para os menores, a incapacidade:
 
-I - pela concessão dos pais, ou de um deles na falta do outro, mediante
+**I** - pela concessão dos pais, ou de um deles na falta do outro, mediante
 instrumento público, independentemente de homologação judicial, ou por
 sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos
 completos;
 
-II - pelo casamento;
+**II** - pelo casamento;
 
-III - pelo exercício de emprego público efetivo;
+**III** - pelo exercício de emprego público efetivo;
 
-IV - pela colação de grau em curso de ensino superior;
+**IV** - pela colação de grau em curso de ensino superior;
 
-V - pelo estabelecimento civil ou comercial, ou pela existência de
+**V** - pelo estabelecimento civil ou comercial, ou pela existência de
 relação de emprego, desde que, em função deles, o menor com dezesseis
 anos completos tenha economia própria.
 
@@ -84,10 +81,10 @@ casos em que a lei autoriza a abertura de sucessão definitiva.
 **Art. 7º**. Pode ser declarada a
 morte presumida, sem decretação de ausência:
 
-I - se for extremamente provável a morte de quem estava em perigo de
+**I** - se for extremamente provável a morte de quem estava em perigo de
 vida;
 
-II - se alguém, desaparecido em campanha ou feito prisioneiro, não for
+**II** - se alguém, desaparecido em campanha ou feito prisioneiro, não for
 encontrado até dois anos após o término da guerra.
 
 **Parágrafo único.** A declaração da morte presumida, nesses casos, somente
@@ -102,24 +99,24 @@ simultaneamente mortos.
 **Art. 9º**. Serão registrados em
 registro público:
 
-I - os nascimentos, casamentos e óbitos;
+**I** - os nascimentos, casamentos e óbitos;
 
-II - a emancipação por outorga dos pais ou por sentença do juiz;
+**II** - a emancipação por outorga dos pais ou por sentença do juiz;
 
-III - a interdição por incapacidade absoluta ou relativa;
+**III** - a interdição por incapacidade absoluta ou relativa;
 
-IV - a sentença declaratória de ausência e de morte presumida.
+**IV** - a sentença declaratória de ausência e de morte presumida.
 
 **Art. 10**. Far-se-á averbação em registro público:
 
-I - das sentenças que decretarem a nulidade ou anulação do casamento, o
+**I** - das sentenças que decretarem a nulidade ou anulação do casamento, o
 divórcio, a separação judicial e o restabelecimento da sociedade
 conjugal;
 
-II - dos atos judiciais ou extrajudiciais que declararem ou reconhecerem
+**II** - dos atos judiciais ou extrajudiciais que declararem ou reconhecerem
 a filiação;
 
-III -          [(Revogado pela Lei nº 12.010, de
+**III** - [(Revogado pela Lei nº 12.010, de
 2009)](#)
 
 #### CAPÍTULO II - DOS DIREITOS DA PERSONALIDADE
@@ -224,14 +221,14 @@ provisoriamente a sucessão.
 **Art. 27**. Para o efeito previsto no artigo anterior, somente se
 consideram interessados:
 
-I - o cônjuge não separado judicialmente;
+**I** - o cônjuge não separado judicialmente;
 
-II - os herdeiros presumidos, legítimos ou testamentários;
+**II** - os herdeiros presumidos, legítimos ou testamentários;
 
-III - os que tiverem sobre os bens do ausente direito dependente de sua
+**III** - os que tiverem sobre os bens do ausente direito dependente de sua
 morte;
 
-IV - os credores de obrigações vencidas e não pagas.
+**IV** - os credores de obrigações vencidas e não pagas.
 
 **Art. 28**. A sentença que determinar a abertura da sucessão provisória só
 produzirá efeito cento e oitenta dias depois de publicada pela imprensa;
@@ -332,15 +329,15 @@ externo, e de direito privado.
 
 **Art. 41**. São pessoas jurídicas de direito público interno:
 
-I - a União;
+**I** - a União;
 
-II - os Estados, o Distrito Federal e os Territórios;
+**II** - os Estados, o Distrito Federal e os Territórios;
 
-III - os Municípios;
+**III** - os Municípios;
 
-IV - as autarquias, inclusive as associações públicas;
+**IV** - as autarquias, inclusive as associações públicas;
 
-V - as demais entidades de caráter público criadas por lei.
+**V** - as demais entidades de caráter público criadas por lei.
 
 **Parágrafo único.** Salvo disposição em contrário, as pessoas jurídicas de
 direito público, a que se tenha dado estrutura de direito privado,
@@ -358,17 +355,17 @@ se houver, por parte destes, culpa ou dolo.
 
 **Art. 44**. São pessoas jurídicas de direito privado:
 
-I - as associações;
+**I** - as associações;
 
-II - as sociedades;
+**II** - as sociedades;
 
-III - as fundações.
+**III** - as fundações.
 
-IV - as organizações religiosas;
+**IV** - as organizações religiosas;
 
-V - os partidos políticos.
+**V** - os partidos políticos.
 
-VI - as empresas individuais de responsabilidade limitada.
+**VI** - as empresas individuais de responsabilidade limitada.
 
 **§ 1º** São livres a criação, a
 organização, a estruturação interna e o funcionamento das organizações
@@ -396,22 +393,22 @@ contado o prazo da publicação de sua inscrição no registro.
 
 **Art. 46**. O registro declarará:
 
-I - a denominação, os fins, a sede, o tempo de duração e o fundo social,
+**I** - a denominação, os fins, a sede, o tempo de duração e o fundo social,
 quando houver;
 
-II - o nome e a individualização dos fundadores ou instituidores, e dos
+**II** - o nome e a individualização dos fundadores ou instituidores, e dos
 diretores;
 
-III - o modo por que se administra e representa, ativa e passivamente,
+**III** - o modo por que se administra e representa, ativa e passivamente,
 judicial e extrajudicialmente;
 
-IV - se o ato constitutivo é reformável no tocante à administração, e de
+**IV** - se o ato constitutivo é reformável no tocante à administração, e de
 que modo;
 
-V - se os membros respondem, ou não, subsidiariamente, pelas obrigações
+**V** - se os membros respondem, ou não, subsidiariamente, pelas obrigações
 sociais;
 
-VI - as condições de extinção da pessoa jurídica e o destino do seu
+**VI** - as condições de extinção da pessoa jurídica e o destino do seu
 patrimônio, nesse caso.
 
 **Art. 47**. Obrigam a pessoa jurídica os atos dos administradores,
@@ -463,21 +460,21 @@ recíprocos.
 
 **Art. 54**. Sob pena de nulidade, o estatuto das associações conterá:
 
-I - a denominação, os fins e a sede da associação;
+**I** - a denominação, os fins e a sede da associação;
 
-II - os requisitos para a admissão, demissão e exclusão dos associados;
+**II** - os requisitos para a admissão, demissão e exclusão dos associados;
 
-III - os direitos e deveres dos associados;
+**III** - os direitos e deveres dos associados;
 
-IV - as fontes de recursos para sua manutenção;
+**IV** - as fontes de recursos para sua manutenção;
 
-V – o modo de constituição e de funcionamento dos órgãos
+**V** - o modo de constituição e de funcionamento dos órgãos
 deliberativos;
 
-VI - as condições para a alteração das disposições estatutárias e para a
+**VI** - as condições para a alteração das disposições estatutárias e para a
 dissolução.
 
-VII – a forma de gestão administrativa e de aprovação das respectivas
+**VII** - a forma de gestão administrativa e de aprovação das respectivas
 contas.
 
 **Art. 55**. Os associados devem ter iguais direitos, mas o estatuto poderá
@@ -504,9 +501,9 @@ e pela forma previstos na lei ou no estatuto.
 
 **Art. 59**. Compete privativamente à assembléia geral:
 
-I – destituir os administradores;
+**I** - destituir os administradores;
 
-II – alterar o estatuto.
+**II** - alterar o estatuto.
 
 **Parágrafo único.** Para as deliberações a que se referem os incisos I e II
 deste artigo é exigido deliberação da assembléia especialmente convocada
@@ -546,30 +543,30 @@ administrá-la.
 **Parágrafo único.** A fundação somente poderá constituir-se para fins
 de:
 
-I – assistência social;
+**I** - assistência social;
 
-II – cultura, defesa e conservação do patrimônio histórico e
+**II** - cultura, defesa e conservação do patrimônio histórico e
 artístico;
 
-III – educação;
+**III** - educação;
 
-IV – saúde;
+**IV** - saúde;
 
-V – segurança alimentar e nutricional;
+**V** - segurança alimentar e nutricional;
 
-VI – defesa, preservação e conservação do meio ambiente e promoção do
+**VI** - defesa, preservação e conservação do meio ambiente e promoção do
 desenvolvimento sustentável;
 
-VII – pesquisa científica, desenvolvimento de tecnologias alternativas,
+**VII** - pesquisa científica, desenvolvimento de tecnologias alternativas,
 modernização de sistemas de gestão, produção e divulgação de informações
 e conhecimentos técnicos e científicos;
 
-VIII – promoção da ética, da cidadania, da democracia e dos direitos
+**VIII** - promoção da ética, da cidadania, da democracia e dos direitos
 humanos;
 
-IX – atividades religiosas; e
+**IX** - atividades religiosas; e
 
-X – (VETADO).
+**X** - (VETADO).
 
 **Art. 63**. Quando insuficientes para constituir a fundação, os bens a ela
 destinados serão, se de outro modo não dispuser o instituidor,
@@ -603,12 +600,12 @@ Ministério Público.
 **Art. 67**. Para que se possa alterar o estatuto da fundação é mister que a
 reforma:
 
-I - seja deliberada por dois terços dos competentes para gerir e
+**I** - seja deliberada por dois terços dos competentes para gerir e
 representar a fundação;
 
-II - não contrarie ou desvirtue o fim desta;
+**II** - não contrarie ou desvirtue o fim desta;
 
-III – seja aprovada pelo órgão do Ministério Público no prazo máximo de
+**III** - seja aprovada pelo órgão do Ministério Público no prazo máximo de
 45 (quarenta e cinco) dias, findo o qual ou no caso de o Ministério
 Público a denegar, poderá o juiz supri-la, a requerimento do
 interessado.
@@ -653,13 +650,13 @@ acompanharem.
 
 **Art. 75**. Quanto às pessoas jurídicas, o domicílio é:
 
-I - da União, o Distrito Federal;
+**I** - da União, o Distrito Federal;
 
-II - dos Estados e Territórios, as respectivas capitais;
+**II** - dos Estados e Territórios, as respectivas capitais;
 
-III - do Município, o lugar onde funcione a administração municipal;
+**III** - do Município, o lugar onde funcione a administração municipal;
 
-IV - das demais pessoas jurídicas, o lugar onde funcionarem as
+**IV** - das demais pessoas jurídicas, o lugar onde funcionarem as
 respectivas diretorias e administrações, ou onde elegerem domicílio
 especial no seu estatuto ou atos constitutivos.
 
@@ -705,16 +702,16 @@ ou artificialmente.
 
 **Art. 80**. Consideram-se imóveis para os efeitos legais:
 
-I - os direitos reais sobre imóveis e as ações que os asseguram;
+**I** - os direitos reais sobre imóveis e as ações que os asseguram;
 
-II - o direito à sucessão aberta.
+**II** - o direito à sucessão aberta.
 
 **Art. 81**. Não perdem o caráter de imóveis:
 
-I - as edificações que, separadas do solo, mas conservando a sua
+**I** - as edificações que, separadas do solo, mas conservando a sua
 unidade, forem removidas para outro local;
 
-II - os materiais provisoriamente separados de um prédio, para nele se
+**II** - os materiais provisoriamente separados de um prédio, para nele se
 reempregarem.
 
 ##### Seção II - Dos Bens Móveis
@@ -725,11 +722,11 @@ econômico-social.
 
 **Art. 83**. Consideram-se móveis para os efeitos legais:
 
-I - as energias que tenham valor econômico;
+**I** - as energias que tenham valor econômico;
 
-II - os direitos reais sobre objetos móveis e as ações correspondentes;
+**II** - os direitos reais sobre objetos móveis e as ações correspondentes;
 
-III - os direitos pessoais de caráter patrimonial e respectivas ações.
+**III** - os direitos pessoais de caráter patrimonial e respectivas ações.
 
 **Art. 84**. Os materiais destinados a alguma construção, enquanto não forem
 empregados, conservam sua qualidade de móveis; readquirem essa qualidade
@@ -807,14 +804,14 @@ particulares, seja qual for a pessoa a que pertencerem.
 
 **Art. 99**. São bens públicos:
 
-I - os de uso comum do povo, tais como rios, mares, estradas, ruas e
+**I** - os de uso comum do povo, tais como rios, mares, estradas, ruas e
 praças;
 
-II - os de uso especial, tais como edifícios ou terrenos destinados a
+**II** - os de uso especial, tais como edifícios ou terrenos destinados a
 serviço ou estabelecimento da administração federal, estadual,
 territorial ou municipal, inclusive os de suas autarquias;
 
-III - os dominicais, que constituem o patrimônio das pessoas jurídicas
+**III** - os dominicais, que constituem o patrimônio das pessoas jurídicas
 de direito público, como objeto de direito pessoal, ou real, de cada uma
 dessas entidades.
 
@@ -843,11 +840,11 @@ pertencerem.
 
 **Art. 104**. A validade do negócio jurídico requer:
 
-I - agente capaz;
+**I** - agente capaz;
 
-II - objeto lícito, possível, determinado ou determinável;
+**II** - objeto lícito, possível, determinado ou determinável;
 
-III - forma prescrita ou não defesa em lei.
+**III** - forma prescrita ou não defesa em lei.
 
 **Art. 105**. A incapacidade relativa de uma das partes não pode ser
 invocada pela outra em benefício próprio, nem aproveita aos
@@ -932,12 +929,12 @@ sujeitarem ao puro arbítrio de uma das partes.
 
 **Art. 123**. Invalidam os negócios jurídicos que lhes são subordinados:
 
-I - as condições física ou juridicamente impossíveis, quando
+**I** - as condições física ou juridicamente impossíveis, quando
 suspensivas;
 
-II - as condições ilícitas, ou de fazer coisa ilícita;
+**II** - as condições ilícitas, ou de fazer coisa ilícita;
 
-III - as condições incompreensíveis ou contraditórias.
+**III** - as condições incompreensíveis ou contraditórias.
 
 **Art. 124**. Têm-se por inexistentes as condições impossíveis, quando
 resolutivas, e as de não fazer coisa impossível.
@@ -1022,14 +1019,14 @@ pessoa de diligência normal, em face das circunstâncias do negócio.
 
 **Art. 139**. O erro é substancial quando:
 
-I - interessa à natureza do negócio, ao objeto principal da declaração,
+**I** - interessa à natureza do negócio, ao objeto principal da declaração,
 ou a alguma das qualidades a ele essenciais;
 
-II - concerne à identidade ou à qualidade essencial da pessoa a quem se
+**II** - concerne à identidade ou à qualidade essencial da pessoa a quem se
 refira a declaração de vontade, desde que tenha influído nesta de modo
 relevante;
 
-III - sendo de direito e não implicando recusa à aplicação da lei, for o
+**III** - sendo de direito e não implicando recusa à aplicação da lei, for o
 motivo único ou principal do negócio jurídico.
 
 **Art. 140**. O falso motivo só vicia a declaração de vontade quando
@@ -1179,20 +1176,20 @@ invalidade importará somente na anulação da preferência ajustada.
 
 **Art. 166**. É nulo o negócio jurídico quando:
 
-I - celebrado por pessoa absolutamente incapaz;
+**I** - celebrado por pessoa absolutamente incapaz;
 
-II - for ilícito, impossível ou indeterminável o seu objeto;
+**II** - for ilícito, impossível ou indeterminável o seu objeto;
 
-III - o motivo determinante, comum a ambas as partes, for ilícito;
+**III** - o motivo determinante, comum a ambas as partes, for ilícito;
 
-IV - não revestir a forma prescrita em lei;
+**IV** - não revestir a forma prescrita em lei;
 
-V - for preterida alguma solenidade que a lei considere essencial para a
+**V** - for preterida alguma solenidade que a lei considere essencial para a
 sua validade;
 
-VI - tiver por objetivo fraudar lei imperativa;
+**VI** - tiver por objetivo fraudar lei imperativa;
 
-VII - a lei taxativamente o declarar nulo, ou proibir-lhe a prática, sem
+**VII** - a lei taxativamente o declarar nulo, ou proibir-lhe a prática, sem
 cominar sanção.
 
 **Art. 167**. É nulo o negócio jurídico simulado, mas subsistirá o que se
@@ -1201,13 +1198,13 @@ dissimulou, se válido for na substância e na forma.
 **§ 1º** Haverá simulação nos
 negócios jurídicos quando:
 
-I - aparentarem conferir ou transmitir direitos a pessoas diversas
+**I** - aparentarem conferir ou transmitir direitos a pessoas diversas
 daquelas às quais realmente se conferem, ou transmitem;
 
-II - contiverem declaração, confissão, condição ou cláusula não
+**II** - contiverem declaração, confissão, condição ou cláusula não
 verdadeira;
 
-III - os instrumentos particulares forem antedatados, ou pós-datados.
+**III** - os instrumentos particulares forem antedatados, ou pós-datados.
 
 **§ 2º** Ressalvam-se os direitos
 de terceiros de boa-fé em face dos contraentes do negócio jurídico
@@ -1232,9 +1229,9 @@ supor que o teriam querido, se houvessem previsto a nulidade.
 **Art. 171**. Além dos casos expressamente declarados na lei, é anulável o
 negócio jurídico:
 
-I - por incapacidade relativa do agente;
+**I** - por incapacidade relativa do agente;
 
-II - por vício resultante de erro, dolo, coação, estado de perigo, lesão
+**II** - por vício resultante de erro, dolo, coação, estado de perigo, lesão
 ou fraude contra credores.
 
 **Art. 172**. O negócio anulável pode ser confirmado pelas partes, salvo
@@ -1261,12 +1258,12 @@ solidariedade ou indivisibilidade.
 **Art. 178**. É de quatro anos o prazo de decadência para pleitear-se a
 anulação do negócio jurídico, contado:
 
-I - no caso de coação, do dia em que ela cessar;
+**I** - no caso de coação, do dia em que ela cessar;
 
-II - no de erro, dolo, fraude contra credores, estado de perigo ou
+**II** - no de erro, dolo, fraude contra credores, estado de perigo ou
 lesão, do dia em que se realizou o negócio jurídico;
 
-III - no de atos de incapazes, do dia em que cessar a incapacidade.
+**III** - no de atos de incapazes, do dia em que cessar a incapacidade.
 
 **Art. 179**. Quando a lei dispuser que determinado ato é anulável, sem
 estabelecer prazo para pleitear-se a anulação, será este de dois anos, a
@@ -1310,10 +1307,10 @@ econômico ou social, pela boa-fé ou pelos bons costumes.
 
 **Art. 188**. Não constituem atos ilícitos:
 
-I - os praticados em legítima defesa ou no exercício regular de um
+**I** - os praticados em legítima defesa ou no exercício regular de um
 direito reconhecido;
 
-II - a deterioração ou destruição da coisa alheia, ou a lesão a pessoa,
+**II** - a deterioração ou destruição da coisa alheia, ou a lesão a pessoa,
 a fim de remover perigo iminente.
 
 **Parágrafo único.** No caso do inciso II, o ato será legítimo somente
@@ -1356,31 +1353,31 @@ contra o seu sucessor.
 
 **Art. 197**. Não corre a prescrição:
 
-I - entre os cônjuges, na constância da sociedade conjugal;
+**I** - entre os cônjuges, na constância da sociedade conjugal;
 
-II - entre ascendentes e descendentes, durante o poder familiar;
+**II** - entre ascendentes e descendentes, durante o poder familiar;
 
-III - entre tutelados ou curatelados e seus tutores ou curadores,
+**III** - entre tutelados ou curatelados e seus tutores ou curadores,
 durante a tutela ou curatela.
 
 **Art. 198**. Também não corre a prescrição:
 
-I - contra os incapazes de que trata o art.
+**I** - contra os incapazes de que trata o art.
 3º;
 
-II - contra os ausentes do País em serviço público da União, dos Estados
+**II** - contra os ausentes do País em serviço público da União, dos Estados
 ou dos Municípios;
 
-III - contra os que se acharem servindo nas Forças Armadas, em tempo de
+**III** - contra os que se acharem servindo nas Forças Armadas, em tempo de
 guerra.
 
 **Art. 199**. Não corre igualmente a prescrição:
 
-I - pendendo condição suspensiva;
+**I** - pendendo condição suspensiva;
 
-II - não estando vencido o prazo;
+**II** - não estando vencido o prazo;
 
-III - pendendo ação de evicção.
+**III** - pendendo ação de evicção.
 
 **Art. 200**. Quando a ação se originar de fato que deva ser apurado no
 juízo criminal, não correrá a prescrição antes da respectiva sentença
@@ -1394,19 +1391,19 @@ só aproveitam os outros se a obrigação for indivisível.
 **Art. 202**. A interrupção da prescrição, que somente poderá ocorrer uma
 vez, dar-se-á:
 
-I - por despacho do juiz, mesmo incompetente, que ordenar a citação, se
+**I** - por despacho do juiz, mesmo incompetente, que ordenar a citação, se
 o interessado a promover no prazo e na forma da lei processual;
 
-II - por protesto, nas condições do inciso antecedente;
+**II** - por protesto, nas condições do inciso antecedente;
 
-III - por protesto cambial;
+**III** - por protesto cambial;
 
-IV - pela apresentação do título de crédito em juízo de inventário ou em
+**IV** - pela apresentação do título de crédito em juízo de inventário ou em
 concurso de credores;
 
-V - por qualquer ato judicial que constitua em mora o devedor;
+**V** - por qualquer ato judicial que constitua em mora o devedor;
 
-VI - por qualquer ato inequívoco, ainda que extrajudicial, que importe
+**VI** - por qualquer ato inequívoco, ainda que extrajudicial, que importe
 reconhecimento do direito pelo devedor.
 
 **Parágrafo único.** A prescrição interrompida recomeça a correr da data do
@@ -1439,29 +1436,29 @@ fixado prazo menor.
 
 **§ 1º** Em um ano:
 
-I - a pretensão dos hospedeiros ou fornecedores de víveres destinados a
+**I** - a pretensão dos hospedeiros ou fornecedores de víveres destinados a
 consumo no próprio estabelecimento, para o pagamento da hospedagem ou
 dos alimentos;
 
-II - a pretensão do segurado contra o segurador, ou a deste contra
+**II** - a pretensão do segurado contra o segurador, ou a deste contra
 aquele, contado o prazo:
 
-a) para o segurado, no caso de seguro de responsabilidade civil, da data
+**a)** para o segurado, no caso de seguro de responsabilidade civil, da data
 em que é citado para responder à ação de indenização proposta pelo
 terceiro prejudicado, ou da data que a este indeniza, com a anuência do
 segurador;
 
-b) quanto aos demais seguros, da ciência do fato gerador da pretensão;
+**b)** quanto aos demais seguros, da ciência do fato gerador da pretensão;
 
-III - a pretensão dos tabeliães, auxiliares da justiça, serventuários
+**III** - a pretensão dos tabeliães, auxiliares da justiça, serventuários
 judiciais, árbitros e peritos, pela percepção de emolumentos, custas e
 honorários;
 
-IV - a pretensão contra os peritos, pela avaliação dos bens que entraram
+**IV** - a pretensão contra os peritos, pela avaliação dos bens que entraram
 para a formação do capital de sociedade anônima, contado da publicação
 da ata da assembléia que aprovar o laudo;
 
-V - a pretensão dos credores não pagos contra os sócios ou acionistas e
+**V** - a pretensão dos credores não pagos contra os sócios ou acionistas e
 os liquidantes, contado o prazo da publicação da ata de encerramento da
 liquidação da sociedade.
 
@@ -1470,39 +1467,39 @@ para haver prestações alimentares, a partir da data em que se vencerem.
 
 **§ 3º** Em três anos:
 
-I - a pretensão relativa a aluguéis de prédios urbanos ou rústicos;
+**I** - a pretensão relativa a aluguéis de prédios urbanos ou rústicos;
 
-II - a pretensão para receber prestações vencidas de rendas temporárias
+**II** - a pretensão para receber prestações vencidas de rendas temporárias
 ou vitalícias;
 
-III - a pretensão para haver juros, dividendos ou quaisquer prestações
+**III** - a pretensão para haver juros, dividendos ou quaisquer prestações
 acessórias, pagáveis, em períodos não maiores de um ano, com
 capitalização ou sem ela;
 
-IV - a pretensão de ressarcimento de enriquecimento sem causa;
+**IV** - a pretensão de ressarcimento de enriquecimento sem causa;
 
-V - a pretensão de reparação civil;
+**V** - a pretensão de reparação civil;
 
-VI - a pretensão de restituição dos lucros ou dividendos recebidos de
+**VI** - a pretensão de restituição dos lucros ou dividendos recebidos de
 má-fé, correndo o prazo da data em que foi deliberada a distribuição;
 
-VII - a pretensão contra as pessoas em seguida indicadas por violação da
+**VII** - a pretensão contra as pessoas em seguida indicadas por violação da
 lei ou do estatuto, contado o prazo:
 
-a) para os fundadores, da publicação dos atos constitutivos da sociedade
+**a)** para os fundadores, da publicação dos atos constitutivos da sociedade
 anônima;
 
-b) para os administradores, ou fiscais, da apresentação, aos sócios, do
+**b)** para os administradores, ou fiscais, da apresentação, aos sócios, do
 balanço referente ao exercício em que a violação tenha sido praticada,
 ou da reunião ou assembléia geral que dela deva tomar conhecimento;
 
-c) para os liquidantes, da primeira assembléia semestral posterior à
+**c)** para os liquidantes, da primeira assembléia semestral posterior à
 violação;
 
-VIII - a pretensão para haver o pagamento de título de crédito, a contar
+**VIII** - a pretensão para haver o pagamento de título de crédito, a contar
 do vencimento, ressalvadas as disposições de lei especial;
 
-IX - a pretensão do beneficiário contra o segurador, e a do terceiro
+**IX** - a pretensão do beneficiário contra o segurador, e a do terceiro
 prejudicado, no caso de seguro de responsabilidade civil obrigatório.
 
 **§ 4º** Em quatro anos, a
@@ -1510,15 +1507,15 @@ pretensão relativa à tutela, a contar da data da aprovação das contas.
 
 **§ 5º** Em cinco anos:
 
-I - a pretensão de cobrança de dívidas líquidas constantes de
+**I** - a pretensão de cobrança de dívidas líquidas constantes de
 instrumento público ou particular;
 
-II - a pretensão dos profissionais liberais em geral, procuradores
+**II** - a pretensão dos profissionais liberais em geral, procuradores
 judiciais, curadores e professores pelos seus honorários, contado o
 prazo da conclusão dos serviços, da cessação dos respectivos contratos
 ou mandato;
 
-III - a pretensão do vencedor para haver do vencido o que despendeu em
+**III** - a pretensão do vencedor para haver do vencido o que despendeu em
 juízo.
 
 #### CAPÍTULO II - Da Decadência
@@ -1544,15 +1541,15 @@ a alegação.
 **Art. 212**. Salvo o negócio a que se impõe forma especial, o fato jurídico
 pode ser provado mediante:
 
-I - confissão;
+**I** - confissão;
 
-II - documento;
+**II** - documento;
 
-III - testemunha;
+**III** - testemunha;
 
-IV - presunção;
+**IV** - presunção;
 
-V - perícia.
+**V** - perícia.
 
 **Art. 213**. Não tem eficácia a confissão se provém de quem não é capaz de
 dispor do direito a que se referem os fatos confessados.
@@ -1569,26 +1566,26 @@ dotado de fé pública, fazendo prova plena.
 **§ 1º** Salvo quando exigidos por
 lei outros requisitos, a escritura pública deve conter:
 
-I - data e local de sua realização;
+**I** - data e local de sua realização;
 
-II - reconhecimento da identidade e capacidade das partes e de quantos
+**II** - reconhecimento da identidade e capacidade das partes e de quantos
 hajam comparecido ao ato, por si, como representantes, intervenientes ou
 testemunhas;
 
-III - nome, nacionalidade, estado civil, profissão, domicílio e
+**III** - nome, nacionalidade, estado civil, profissão, domicílio e
 residência das partes e demais comparecentes, com a indicação, quando
 necessário, do regime de bens do casamento, nome do outro cônjuge e
 filiação;
 
-IV - manifestação clara da vontade das partes e dos intervenientes;
+**IV** - manifestação clara da vontade das partes e dos intervenientes;
 
-V - referência ao cumprimento das exigências legais e fiscais inerentes
+**V** - referência ao cumprimento das exigências legais e fiscais inerentes
 à legitimidade do ato;
 
-VI - declaração de ter sido lida na presença das partes e demais
+**VI** - declaração de ter sido lida na presença das partes e demais
 comparecentes, ou de que todos a leram;
 
-VII - assinatura das partes e dos demais comparecentes, bem como a do
+**VII** - assinatura das partes e dos demais comparecentes, bem como a do
 tabelião ou seu substituto legal, encerrando o ato.
 
 **§ 2º** Se algum comparecente não
@@ -1681,18 +1678,16 @@ escrito.
 
 **Art. 228**. Não podem ser admitidos como testemunhas:  
 
-I - os menores de dezesseis anos;
+**I** - os menores de dezesseis anos;
 
-II -
-([Revogado);](#)
+**II** - ([Revogado);](#)
 
-III -
-[(Revogado);](#)
+**III** - [(Revogado);](#)
 
-IV - o interessado no litígio, o amigo íntimo ou o inimigo capital das
+**IV** - o interessado no litígio, o amigo íntimo ou o inimigo capital das
 partes;
 
-V - os cônjuges, os ascendentes, os descendentes e os colaterais, até o
+**V** - os cônjuges, os ascendentes, os descendentes e os colaterais, até o
 terceiro grau de alguma das partes, por consangüinidade, ou afinidade.
 
 **§ 1º** Para a prova de fatos que
@@ -1880,9 +1875,9 @@ credor em relação aos outros coobrigados.
 exigir a dívida inteira; mas o devedor ou devedores se desobrigarão,
 pagando:
 
-I - a todos conjuntamente;
+**I** - a todos conjuntamente;
 
-II - a um, dando este caução de ratificação dos outros credores.
+**II** - a um, dando este caução de ratificação dos outros credores.
 
 **Art. 261**. Se um só dos credores receber a prestação por inteiro, a cada
 um dos outros assistirá o direito de exigir dele em dinheiro a parte que
@@ -2234,12 +2229,12 @@ condição, cabendo ao credor a prova de que deste teve ciência o devedor.
 **Art. 333**. Ao credor assistirá o direito de cobrar a dívida antes de
 vencido o prazo estipulado no contrato ou marcado neste Código:
 
-I - no caso de falência do devedor, ou de concurso de credores;
+**I** - no caso de falência do devedor, ou de concurso de credores;
 
-II - se os bens, hipotecados ou empenhados, forem penhorados em execução
+**II** - se os bens, hipotecados ou empenhados, forem penhorados em execução
 por outro credor;
 
-III - se cessarem, ou se se tornarem insuficientes, as garantias do
+**III** - se cessarem, ou se se tornarem insuficientes, as garantias do
 débito, fidejussórias, ou reais, e o devedor, intimado, se negar a
 reforçá-las.
 
@@ -2255,19 +2250,19 @@ forma legais.
 
 **Art. 335**. A consignação tem lugar:
 
-I - se o credor não puder, ou, sem justa causa, recusar receber o
+**I** - se o credor não puder, ou, sem justa causa, recusar receber o
 pagamento, ou dar quitação na devida forma;
 
-II - se o credor não for, nem mandar receber a coisa no lugar, tempo e
+**II** - se o credor não for, nem mandar receber a coisa no lugar, tempo e
 condição devidos;
 
-III - se o credor for incapaz de receber, for desconhecido, declarado
+**III** - se o credor for incapaz de receber, for desconhecido, declarado
 ausente, ou residir em lugar incerto ou de acesso perigoso ou difícil;
 
-IV - se ocorrer dúvida sobre quem deva legitimamente receber o objeto do
+**IV** - se ocorrer dúvida sobre quem deva legitimamente receber o objeto do
 pagamento;
 
-V - se pender litígio sobre o objeto do pagamento.
+**V** - se pender litígio sobre o objeto do pagamento.
 
 **Art. 336**. Para que a consignação tenha força de pagamento, será mister
 concorram, em relação às pessoas, ao objeto, modo e tempo, todos os
@@ -2315,21 +2310,21 @@ consignação.
 
 **Art. 346**. A sub-rogação opera-se, de pleno direito, em favor:
 
-I - do credor que paga a dívida do devedor comum;
+**I** - do credor que paga a dívida do devedor comum;
 
-II - do adquirente do imóvel hipotecado, que paga a credor hipotecário,
+**II** - do adquirente do imóvel hipotecado, que paga a credor hipotecário,
 bem como do terceiro que efetiva o pagamento para não ser privado de
 direito sobre imóvel;
 
-III - do terceiro interessado, que paga a dívida pela qual era ou podia
+**III** - do terceiro interessado, que paga a dívida pela qual era ou podia
 ser obrigado, no todo ou em parte.
 
 **Art. 347**. A sub-rogação é convencional:
 
-I - quando o credor recebe o pagamento de terceiro e expressamente lhe
+**I** - quando o credor recebe o pagamento de terceiro e expressamente lhe
 transfere todos os seus direitos;
 
-II - quando terceira pessoa empresta ao devedor a quantia precisa para
+**II** - quando terceira pessoa empresta ao devedor a quantia precisa para
 solver a dívida, sob a condição expressa de ficar o mutuante sub-rogado
 nos direitos do credor satisfeito.
 
@@ -2388,13 +2383,13 @@ dada, ressalvados os direitos de terceiros.
 
 **Art. 360**. Dá-se a novação:
 
-I - quando o devedor contrai com o credor nova dívida para extinguir e
+**I** - quando o devedor contrai com o credor nova dívida para extinguir e
 substituir a anterior;
 
-II - quando novo devedor sucede ao antigo, ficando este quite com o
+**II** - quando novo devedor sucede ao antigo, ficando este quite com o
 credor;
 
-III - quando, em virtude de obrigação nova, outro credor é substituído
+**III** - quando, em virtude de obrigação nova, outro credor é substituído
 ao antigo, ficando o devedor quite com este.
 
 **Art. 361**. Não havendo ânimo de novar, expresso ou tácito mas inequívoco,
@@ -2445,11 +2440,11 @@ obstam a compensação.
 **Art. 373**. A diferença de causa nas dívidas não impede a compensação,
 exceto:
 
-I - se provier de esbulho, furto ou roubo;
+**I** - se provier de esbulho, furto ou roubo;
 
-II - se uma se originar de comodato, depósito ou alimentos;
+**II** - se uma se originar de comodato, depósito ou alimentos;
 
-III - se uma for de coisa não suscetível de penhora.
+**III** - se uma for de coisa não suscetível de penhora.
 
 **Art. 374**. [(Revogado pela Lei nº 10.677, de
 22.5.2003)](#)
@@ -2576,10 +2571,10 @@ estabelecido para o pagamento e o da sua efetivação.
 
 **Art. 401**. Purga-se a mora:
 
-I - por parte do devedor, oferecendo este a prestação mais a importância
+**I** - por parte do devedor, oferecendo este a prestação mais a importância
 dos prejuízos decorrentes do dia da oferta;
 
-II - por parte do credor, oferecendo-se este a receber o pagamento e
+**II** - por parte do credor, oferecendo-se este a receber o pagamento e
 sujeitando-se aos efeitos da mora até a mesma data.
 
 #### CAPÍTULO III - Das Perdas e Danos
@@ -2720,17 +2715,17 @@ do caso.
 
 **Art. 428**. Deixa de ser obrigatória a proposta:
 
-I - se, feita sem prazo a pessoa presente, não foi imediatamente aceita.
+**I** - se, feita sem prazo a pessoa presente, não foi imediatamente aceita.
 Considera-se também presente a pessoa que contrata por telefone ou por
 meio de comunicação semelhante;
 
-II - se, feita sem prazo a pessoa ausente, tiver decorrido tempo
+**II** - se, feita sem prazo a pessoa ausente, tiver decorrido tempo
 suficiente para chegar a resposta ao conhecimento do proponente;
 
-III - se, feita a pessoa ausente, não tiver sido expedida a resposta
+**III** - se, feita a pessoa ausente, não tiver sido expedida a resposta
 dentro do prazo dado;
 
-IV - se, antes dela, ou simultaneamente, chegar ao conhecimento da outra
+**IV** - se, antes dela, ou simultaneamente, chegar ao conhecimento da outra
 parte a retratação do proponente.
 
 **Art. 429**. A oferta ao público equivale a proposta quando encerra os
@@ -2757,11 +2752,11 @@ chegar ao proponente a retratação do aceitante.
 **Art. 434**. Os contratos entre ausentes tornam-se perfeitos desde que a
 aceitação é expedida, exceto:
 
-I - no caso do artigo antecedente;
+**I** - no caso do artigo antecedente;
 
-II - se o proponente se houver comprometido a esperar resposta;
+**II** - se o proponente se houver comprometido a esperar resposta;
 
-III - se ela não chegar no prazo convencionado.
+**III** - se ela não chegar no prazo convencionado.
 
 **Art. 435**. Reputar-se-á celebrado o contrato no lugar em que foi
 proposto.
@@ -2858,12 +2853,12 @@ informado, não o assumiu.
 **Art. 450**. Salvo estipulação em contrário, tem direito o evicto, além da
 restituição integral do preço ou das quantias que pagou:
 
-I - à indenização dos frutos que tiver sido obrigado a restituir;
+**I** - à indenização dos frutos que tiver sido obrigado a restituir;
 
-II - à indenização pelas despesas dos contratos e pelos prejuízos que
+**II** - à indenização pelas despesas dos contratos e pelos prejuízos que
 diretamente resultarem da evicção;
 
-III - às custas judiciais e aos honorários do advogado por ele
+**III** - às custas judiciais e aos honorários do advogado por ele
 constituído.
 
 **Parágrafo único.** O preço, seja a evicção total ou parcial, será o do
@@ -2966,10 +2961,10 @@ partir do momento em que este foi celebrado.
 **Art. 470**. O contrato será eficaz somente entre os contratantes
 originários:
 
-I - se não houver indicação de pessoa, ou se o nomeado se recusar a
+**I** - se não houver indicação de pessoa, ou se o nomeado se recusar a
 aceitá-la;
 
-II - se a pessoa nomeada era insolvente, e a outra pessoa o desconhecia
+**II** - se a pessoa nomeada era insolvente, e a outra pessoa o desconhecia
 no momento da indicação.
 
 **Art. 471**. Se a pessoa a nomear era incapaz ou insolvente no momento da
@@ -3117,19 +3112,19 @@ cônjuge se o regime de bens for o da separação obrigatória.
 **Art. 497**. Sob pena de nulidade, não podem ser comprados, ainda que em
 hasta pública:
 
-I - pelos tutores, curadores, testamenteiros e administradores, os bens
+**I** - pelos tutores, curadores, testamenteiros e administradores, os bens
 confiados à sua guarda ou administração;
 
-II - pelos servidores públicos, em geral, os bens ou direitos da pessoa
+**II** - pelos servidores públicos, em geral, os bens ou direitos da pessoa
 jurídica a que servirem, ou que estejam sob sua administração direta ou
 indireta;
 
-III - pelos juízes, secretários de tribunais, arbitradores, peritos e
+**III** - pelos juízes, secretários de tribunais, arbitradores, peritos e
 outros serventuários ou auxiliares da justiça, os bens ou direitos sobre
 que se litigar em tribunal, juízo ou conselho, no lugar onde servirem,
 ou a que se estender a sua autoridade;
 
-IV - pelos leiloeiros e seus prepostos, os bens de cuja venda estejam
+**IV** - pelos leiloeiros e seus prepostos, os bens de cuja venda estejam
 encarregados.
 
 **Parágrafo único.** As proibições deste artigo estendem-se à cessão de
@@ -3344,10 +3339,10 @@ diretamente do comprador.
 **Art. 533**. Aplicam-se à troca as disposições referentes à compra e venda,
 com as seguintes modificações:
 
-I - salvo disposição em contrário, cada um dos contratantes pagará por
+**I** - salvo disposição em contrário, cada um dos contratantes pagará por
 metade as despesas com o instrumento da troca;
 
-II - é anulável a troca de valores desiguais entre ascendentes e
+**II** - é anulável a troca de valores desiguais entre ascendentes e
 descendentes, sem consentimento dos outros descendentes e do cônjuge do
 alienante.
 
@@ -3459,14 +3454,14 @@ liberalidade por ingratidão do donatário.
 
 **Art. 557**. Podem ser revogadas por ingratidão as doações:
 
-I - se o donatário atentou contra a vida do doador ou cometeu crime de
+**I** - se o donatário atentou contra a vida do doador ou cometeu crime de
 homicídio doloso contra ele;
 
-II - se cometeu contra ele ofensa física;
+**II** - se cometeu contra ele ofensa física;
 
-III - se o injuriou gravemente ou o caluniou;
+**III** - se o injuriou gravemente ou o caluniou;
 
-IV - se, podendo ministrá-los, recusou ao doador os alimentos de que
+**IV** - se, podendo ministrá-los, recusou ao doador os alimentos de que
 este necessitava.
 
 **Art. 558**. Pode ocorrer também a revogação quando o ofendido, nos casos
@@ -3498,13 +3493,13 @@ a indenizá-la pelo meio termo do seu valor.
 
 **Art. 564**. Não se revogam por ingratidão:
 
-I - as doações puramente remuneratórias;
+**I** - as doações puramente remuneratórias;
 
-II - as oneradas com encargo já cumprido;
+**II** - as oneradas com encargo já cumprido;
 
-III - as que se fizerem em cumprimento de obrigação natural;
+**III** - as que se fizerem em cumprimento de obrigação natural;
 
-IV - as feitas para determinado casamento.
+**IV** - as feitas para determinado casamento.
 
 #### CAPÍTULO V - Da Locação de Coisas
 
@@ -3514,11 +3509,11 @@ mediante certa retribuição.
 
 **Art. 566**. O locador é obrigado:
 
-I - a entregar ao locatário a coisa alugada, com suas pertenças, em
+**I** - a entregar ao locatário a coisa alugada, com suas pertenças, em
 estado de servir ao uso a que se destina, e a mantê-la nesse estado,
 pelo tempo do contrato, salvo cláusula expressa em contrário;
 
-II - a garantir-lhe, durante o tempo do contrato, o uso pacífico da
+**II** - a garantir-lhe, durante o tempo do contrato, o uso pacífico da
 coisa.
 
 **Art. 567**. Se, durante a locação, se deteriorar a coisa alugada, sem
@@ -3532,17 +3527,17 @@ responderá pelos seus vícios, ou defeitos, anteriores à locação.
 
 **Art. 569**. O locatário é obrigado:
 
-I - a servir-se da coisa alugada para os usos convencionados ou
+**I** - a servir-se da coisa alugada para os usos convencionados ou
 presumidos, conforme a natureza dela e as circunstâncias, bem como
 tratá-la com o mesmo cuidado como se sua fosse;
 
-II - a pagar pontualmente o aluguel nos prazos ajustados, e, em falta de
+**II** - a pagar pontualmente o aluguel nos prazos ajustados, e, em falta de
 ajuste, segundo o costume do lugar;
 
-III - a levar ao conhecimento do locador as turbações de terceiros, que
+**III** - a levar ao conhecimento do locador as turbações de terceiros, que
 se pretendam fundadas em direito;
 
-IV - a restituir a coisa, finda a locação, no estado em que a recebeu,
+**IV** - a restituir a coisa, finda a locação, no estado em que a recebeu,
 salvas as deteriorações naturais ao uso regular.
 
 **Art. 570**. Se o locatário empregar a coisa em uso diverso do ajustado, ou
@@ -3650,18 +3645,18 @@ seus fiadores.
 
 **Art. 589**. Cessa a disposição do artigo antecedente:
 
-I - se a pessoa, de cuja autorização necessitava o mutuário para
+**I** - se a pessoa, de cuja autorização necessitava o mutuário para
 contrair o empréstimo, o ratificar posteriormente;
 
-II - se o menor, estando ausente essa pessoa, se viu obrigado a contrair
+**II** - se o menor, estando ausente essa pessoa, se viu obrigado a contrair
 o empréstimo para os seus alimentos habituais;
 
-III - se o menor tiver bens ganhos com o seu trabalho. Mas, em tal caso,
+**III** - se o menor tiver bens ganhos com o seu trabalho. Mas, em tal caso,
 a execução do credor não lhes poderá ultrapassar as forças;
 
-IV - se o empréstimo reverteu em benefício do menor;
+**IV** - se o empréstimo reverteu em benefício do menor;
 
-V - se o menor obteve o empréstimo maliciosamente.
+**V** - se o menor obteve o empréstimo maliciosamente.
 
 **Art. 590**. O mutuante pode exigir garantia da restituição, se antes do
 vencimento o mutuário sofrer notória mudança em sua situação econômica.
@@ -3673,12 +3668,12 @@ se refere o art. 406, permitida a capitalização anual.
 **Art. 592**. Não se tendo convencionado expressamente, o prazo do mútuo
 será:
 
-I - até a próxima colheita, se o mútuo for de produtos agrícolas, assim
+**I** - até a próxima colheita, se o mútuo for de produtos agrícolas, assim
 para o consumo, como para semeadura;
 
-II - de trinta dias, pelo menos, se for de dinheiro;
+**II** - de trinta dias, pelo menos, se for de dinheiro;
 
-III - do espaço de tempo que declarar o mutuante, se for de qualquer
+**III** - do espaço de tempo que declarar o mutuante, se for de qualquer
 outra coisa fungível.
 
 #### CAPÍTULO VII - Da Prestação de Serviço
@@ -3714,13 +3709,13 @@ arbítrio, mediante prévio aviso, pode resolver o contrato.
 
 **Parágrafo único.** Dar-se-á o aviso:
 
-I - com antecedência de oito dias, se o salário se houver fixado por
+**I** - com antecedência de oito dias, se o salário se houver fixado por
 tempo de um mês, ou mais;
 
-II - com antecipação de quatro dias, se o salário se tiver ajustado por
+**II** - com antecipação de quatro dias, se o salário se tiver ajustado por
 semana, ou quinzena;
 
-III - de véspera, quando se tenha contratado por menos de sete dias.
+**III** - de véspera, quando se tenha contratado por menos de sete dias.
 
 **Art. 600**. Não se conta no prazo do contrato o tempo em que o prestador
 de serviço, por culpa sua, deixou de servir.
@@ -3876,15 +3871,15 @@ empreiteiro por perdas e danos.
 
 **Art. 625**. Poderá o empreiteiro suspender a obra:
 
-I - por culpa do dono, ou por motivo de força maior;
+**I** - por culpa do dono, ou por motivo de força maior;
 
-II - quando, no decorrer dos serviços, se manifestarem dificuldades
+**II** - quando, no decorrer dos serviços, se manifestarem dificuldades
 imprevisíveis de execução, resultantes de causas geológicas ou hídricas,
 ou outras semelhantes, de modo que torne a empreitada excessivamente
 onerosa, e o dono da obra se opuser ao reajuste do preço inerente ao
 projeto por ele elaborado, observados os preços;
 
-III - se as modificações exigidas pelo dono da obra, por seu vulto e
+**III** - se as modificações exigidas pelo dono da obra, por seu vulto e
 natureza, forem desproporcionais ao projeto aprovado, ainda que o dono
 se disponha a arcar com o acréscimo de preço.
 
@@ -3997,9 +3992,9 @@ regular-se-á pelo disposto acerca do mútuo.
 
 **Art. 647**. É depósito necessário:
 
-I - o que se faz em desempenho de obrigação legal;
+**I** - o que se faz em desempenho de obrigação legal;
 
-II - o que se efetua por ocasião de alguma calamidade, como o incêndio,
+**II** - o que se efetua por ocasião de alguma calamidade, como o incêndio,
 a inundação, o naufrágio ou o saque.
 
 **Art. 648**. O depósito a que se refere o inciso I do artigo antecedente,
@@ -4208,14 +4203,14 @@ do encargo despendeu.
 
 **Art. 682**. Cessa o mandato:
 
-I - pela revogação ou pela renúncia;
+**I** - pela revogação ou pela renúncia;
 
-II - pela morte ou interdição de uma das partes;
+**II** - pela morte ou interdição de uma das partes;
 
-III - pela mudança de estado que inabilite o mandante a conferir os
+**III** - pela mudança de estado que inabilite o mandante a conferir os
 poderes, ou o mandatário para os exercer;
 
-IV - pelo término do prazo ou pela conclusão do negócio.
+**IV** - pelo término do prazo ou pela conclusão do negócio.
 
 **Art. 683**. Quando o mandato contiver a cláusula de irrevogabilidade e o
 mandante o revogar, pagará perdas e danos.
@@ -5069,11 +5064,11 @@ município, livres e desembargados, quantos bastem para solver o débito.
 
 **Art. 828**. Não aproveita este benefício ao fiador:
 
-I - se ele o renunciou expressamente;
+**I** - se ele o renunciou expressamente;
 
-II - se se obrigou como principal pagador, ou devedor solidário;
+**II** - se se obrigou como principal pagador, ou devedor solidário;
 
-III - se o devedor for insolvente, ou falido.
+**III** - se o devedor for insolvente, ou falido.
 
 **Art. 829**. A fiança conjuntamente prestada a um só débito por mais de uma
 pessoa importa o compromisso de solidariedade entre elas, se
@@ -5120,12 +5115,12 @@ o caso do mútuo feito a pessoa menor.
 
 **Art. 838**. O fiador, ainda que solidário, ficará desobrigado:
 
-I - se, sem consentimento seu, o credor conceder moratória ao devedor;
+**I** - se, sem consentimento seu, o credor conceder moratória ao devedor;
 
-II - se, por fato do credor, for impossível a sub-rogação nos seus
+**II** - se, por fato do credor, for impossível a sub-rogação nos seus
 direitos e preferências;
 
-III - se o credor, em pagamento da dívida, aceitar amigavelmente do
+**III** - se o credor, em pagamento da dívida, aceitar amigavelmente do
 devedor objeto diverso do que este era obrigado a lhe dar, ainda que
 depois venha a perdê-lo por evicção.
 
@@ -5703,20 +5698,20 @@ culpa pelos danos causados pelos produtos postos em circulação.
 
 **Art. 932**. São também responsáveis pela reparação civil:
 
-I - os pais, pelos filhos menores que estiverem sob sua autoridade e em
+**I** - os pais, pelos filhos menores que estiverem sob sua autoridade e em
 sua companhia;
 
-II - o tutor e o curador, pelos pupilos e curatelados, que se acharem
+**II** - o tutor e o curador, pelos pupilos e curatelados, que se acharem
 nas mesmas condições;
 
-III - o empregador ou comitente, por seus empregados, serviçais e
+**III** - o empregador ou comitente, por seus empregados, serviçais e
 prepostos, no exercício do trabalho que lhes competir, ou em razão dele;
 
-IV - os donos de hotéis, hospedarias, casas ou estabelecimentos onde se
+**IV** - os donos de hotéis, hospedarias, casas ou estabelecimentos onde se
 albergue por dinheiro, mesmo para fins de educação, pelos seus hóspedes,
 moradores e educandos;
 
-V - os que gratuitamente houverem participado nos produtos do crime, até
+**V** - os que gratuitamente houverem participado nos produtos do crime, até
 a concorrente quantia.
 
 **Art. 933**. As pessoas indicadas nos incisos I a V do artigo antecedente,
@@ -5789,10 +5784,10 @@ ajustada, substituir-se-á pelo seu valor, em moeda corrente.
 **Art. 948**. No caso de homicídio, a indenização consiste, sem excluir
 outras reparações:
 
-I - no pagamento das despesas com o tratamento da vítima, seu funeral e
+**I** - no pagamento das despesas com o tratamento da vítima, seu funeral e
 o luto da família;
 
-II - na prestação de alimentos às pessoas a quem o morto os devia,
+**II** - na prestação de alimentos às pessoas a quem o morto os devia,
 levando-se em conta a duração provável da vida da vítima.
 
 **Art. 949**. No caso de lesão ou outra ofensa à saúde, o ofensor indenizará
@@ -5839,11 +5834,11 @@ artigo antecedente.
 
 **Parágrafo único.** Consideram-se ofensivos da liberdade pessoal:
 
-I - o cárcere privado;
+**I** - o cárcere privado;
 
-II - a prisão por queixa ou denúncia falsa e de má-fé;
+**II** - a prisão por queixa ou denúncia falsa e de má-fé;
 
-III - a prisão ilegal.
+**III** - a prisão ilegal.
 
 ### TÍTULO X - Das Preferências e Privilégios Creditórios
 
@@ -5863,11 +5858,11 @@ direitos reais.
 **Art. 959**. Conservam seus respectivos direitos os credores, hipotecários
 ou privilegiados:
 
-I - sobre o preço do seguro da coisa gravada com hipoteca ou privilégio,
+**I** - sobre o preço do seguro da coisa gravada com hipoteca ou privilégio,
 ou sobre a indenização devida, havendo responsável pela perda ou
 danificação da coisa;
 
-II - sobre o valor da indenização, se a coisa obrigada a hipoteca ou
+**II** - sobre o valor da indenização, se a coisa obrigada a hipoteca ou
 privilégio for desapropriada.
 
 **Art. 960**. Nos casos a que se refere o artigo antecedente, o devedor do
@@ -5890,60 +5885,60 @@ especial.
 
 <span id="art964"></span>Art. 964. Têm privilégio especial:
 
-I - sobre a coisa arrecadada e liquidada, o credor de custas e despesas
+**I** - sobre a coisa arrecadada e liquidada, o credor de custas e despesas
 judiciais feitas com a arrecadação e liquidação;
 
-II - sobre a coisa salvada, o credor por despesas de salvamento;
+**II** - sobre a coisa salvada, o credor por despesas de salvamento;
 
-III - sobre a coisa beneficiada, o credor por benfeitorias necessárias
+**III** - sobre a coisa beneficiada, o credor por benfeitorias necessárias
 ou úteis;
 
-IV - sobre os prédios rústicos ou urbanos, fábricas, oficinas, ou
+**IV** - sobre os prédios rústicos ou urbanos, fábricas, oficinas, ou
 quaisquer outras construções, o credor de materiais, dinheiro, ou
 serviços para a sua edificação, reconstrução, ou melhoramento;
 
-V - sobre os frutos agrícolas, o credor por sementes, instrumentos e
+**V** - sobre os frutos agrícolas, o credor por sementes, instrumentos e
 serviços à cultura, ou à colheita;
 
-VI - sobre as alfaias e utensílios de uso doméstico, nos prédios
+**VI** - sobre as alfaias e utensílios de uso doméstico, nos prédios
 rústicos ou urbanos, o credor de aluguéis, quanto às prestações do ano
 corrente e do anterior;
 
-VII - sobre os exemplares da obra existente na massa do editor, o autor
+**VII** - sobre os exemplares da obra existente na massa do editor, o autor
 dela, ou seus legítimos representantes, pelo crédito fundado contra
 aquele no contrato da edição;
 
-VIII - sobre o produto da colheita, para a qual houver concorrido com o
+**VIII** - sobre o produto da colheita, para a qual houver concorrido com o
 seu trabalho, e precipuamente a quaisquer outros créditos, ainda que
 reais, o trabalhador agrícola, quanto à dívida dos seus salários.
 
-IX - sobre os produtos do abate, o credor por animais.
+**IX** - sobre os produtos do abate, o credor por animais.
 
 <span id="art965"></span>Art. 965. Goza de privilégio geral, na ordem
 seguinte, sobre os bens do devedor:
 
-I - o crédito por despesa de seu funeral, feito segundo a condição do
+**I** - o crédito por despesa de seu funeral, feito segundo a condição do
 morto e o costume do lugar;
 
-II - o crédito por custas judiciais, ou por despesas com a arrecadação e
+**II** - o crédito por custas judiciais, ou por despesas com a arrecadação e
 liquidação da massa;
 
-III - o crédito por despesas com o luto do cônjuge sobrevivo e dos
+**III** - o crédito por despesas com o luto do cônjuge sobrevivo e dos
 filhos do devedor falecido, se foram moderadas;
 
-IV - o crédito por despesas com a doença de que faleceu o devedor, no
+**IV** - o crédito por despesas com a doença de que faleceu o devedor, no
 semestre anterior à sua morte;
 
-V - o crédito pelos gastos necessários à mantença do devedor falecido e
+**V** - o crédito pelos gastos necessários à mantença do devedor falecido e
 sua família, no trimestre anterior ao falecimento;
 
-VI - o crédito pelos impostos devidos à Fazenda Pública, no ano corrente
+**VI** - o crédito pelos impostos devidos à Fazenda Pública, no ano corrente
 e no anterior;
 
-VII - o crédito pelos salários dos empregados do serviço doméstico do
+**VII** - o crédito pelos salários dos empregados do serviço doméstico do
 devedor, nos seus derradeiros seis meses de vida;
 
-VIII - os demais créditos de privilégio geral.
+**VIII** - os demais créditos de privilégio geral.
 
 ## LIVRO II - Do Direito de Empresa
 
@@ -5966,14 +5961,14 @@ Empresas Mercantis da respectiva sede, antes do início de sua atividade.
 **Art. 968**. A inscrição do empresário far-se-á mediante requerimento que
 contenha:
 
-I - o seu nome, nacionalidade, domicílio, estado civil e, se casado, o
+**I** - o seu nome, nacionalidade, domicílio, estado civil e, se casado, o
 regime de bens;
 
-II - a firma, com a respectiva assinatura autógrafa;
+**II** - a firma, com a respectiva assinatura autógrafa;
 
-III - o capital;
+**III** - o capital;
 
-IV - o objeto e a sede da empresa.
+**IV** - o objeto e a sede da empresa.
 
 **§ 1º** Com as indicações
 estabelecidas neste artigo, a inscrição será tomada por termo no livro
@@ -6057,12 +6052,12 @@ contratos ou alterações contratuais de sociedade que envolva sócio
 incapaz, desde que atendidos, de forma conjunta, os seguintes
 pressupostos:
 
-I – o sócio incapaz não pode exercer a administração da
+**I** - o sócio incapaz não pode exercer a administração da
 sociedade;
 
-II – o capital social deve ser totalmente integralizado;
+**II** - o capital social deve ser totalmente integralizado;
 
-III – o sócio relativamente incapaz deve ser assistido e o absolutamente
+**III** - o sócio relativamente incapaz deve ser assistido e o absolutamente
 incapaz deve ser representado por seus representantes legais.
 
 **Art. 975**. Se o representante ou assistente do incapaz for pessoa que,
@@ -6259,27 +6254,27 @@ contas serão prestadas e julgadas no mesmo processo.
 **Art. 997**. A sociedade constitui-se mediante contrato escrito, particular
 ou público, que, além de cláusulas estipuladas pelas partes, mencionará:
 
-I - nome, nacionalidade, estado civil, profissão e residência dos
+**I** - nome, nacionalidade, estado civil, profissão e residência dos
 sócios, se pessoas naturais, e a firma ou a denominação, nacionalidade
 e sede dos sócios, se jurídicas;
 
-II - denominação, objeto, sede e prazo da sociedade;
+**II** - denominação, objeto, sede e prazo da sociedade;
 
-III - capital da sociedade, expresso em moeda corrente, podendo
+**III** - capital da sociedade, expresso em moeda corrente, podendo
 compreender qualquer espécie de bens, suscetíveis de avaliação
 pecuniária;
 
-IV - a quota de cada sócio no capital social, e o modo de realizá-la;
+**IV** - a quota de cada sócio no capital social, e o modo de realizá-la;
 
-V - as prestações a que se obriga o sócio, cuja contribuição consista em
+**V** - as prestações a que se obriga o sócio, cuja contribuição consista em
 serviços;
 
-VI - as pessoas naturais incumbidas da administração da sociedade, e
+**VI** - as pessoas naturais incumbidas da administração da sociedade, e
 seus poderes e atribuições;
 
-VII - a participação de cada sócio nos lucros e nas perdas;
+**VII** - a participação de cada sócio nos lucros e nas perdas;
 
-VIII - se os sócios respondem, ou não, subsidiariamente, pelas
+**VIII** - se os sócios respondem, ou não, subsidiariamente, pelas
 obrigações sociais.
 
 **Parágrafo único.** É ineficaz em relação a terceiros qualquer pacto
@@ -6431,12 +6426,12 @@ dos sócios decidir.
 ser oposto a terceiros se ocorrer pelo menos uma das seguintes
 hipóteses:
 
-I - se a limitação de poderes estiver inscrita ou averbada no registro
+**I** - se a limitação de poderes estiver inscrita ou averbada no registro
 próprio da sociedade;
 
-II - provando-se que era conhecida do terceiro;
+**II** - provando-se que era conhecida do terceiro;
 
-III - tratando-se de operação evidentemente estranha aos negócios da
+**III** - tratando-se de operação evidentemente estranha aos negócios da
 sociedade.
 
 **Art. 1.016**. Os administradores respondem solidariamente perante a
@@ -6506,11 +6501,11 @@ até que se liquide a sociedade.
 
 **Art. 1.028**. No caso de morte de sócio, liquidar-se-á sua quota, salvo:
 
-I - se o contrato dispuser diferentemente;
+**I** - se o contrato dispuser diferentemente;
 
-II - se os sócios remanescentes optarem pela dissolução da sociedade;
+**II** - se os sócios remanescentes optarem pela dissolução da sociedade;
 
-III - se, por acordo com os herdeiros, regular-se a substituição do
+**III** - se, por acordo com os herdeiros, regular-se a substituição do
 sócio falecido.
 
 **Art. 1.029**. Além dos casos previstos na lei ou no contrato, qualquer
@@ -6554,19 +6549,19 @@ requerer a averbação.
 
 **Art. 1.033**. Dissolve-se a sociedade quando ocorrer:
 
-I - o vencimento do prazo de duração, salvo se, vencido este e sem
+**I** - o vencimento do prazo de duração, salvo se, vencido este e sem
 oposição de sócio, não entrar a sociedade em liquidação, caso em que se
 prorrogará por tempo indeterminado;
 
-II - o consenso unânime dos sócios;
+**II** - o consenso unânime dos sócios;
 
-III - a deliberação dos sócios, por maioria absoluta, na sociedade de
+**III** - a deliberação dos sócios, por maioria absoluta, na sociedade de
 prazo indeterminado;
 
-IV - a falta de pluralidade de sócios, não reconstituída no prazo de
+**IV** - a falta de pluralidade de sócios, não reconstituída no prazo de
 cento e oitenta dias;
 
-V - a extinção, na forma da lei, de autorização para funcionar.
+**V** - a extinção, na forma da lei, de autorização para funcionar.
 
 **Parágrafo único.** Não se aplica o disposto no inciso IV caso o sócio
 remanescente, inclusive na hipótese de concentração de todas as cotas da
@@ -6579,9 +6574,9 @@ deste Código.
 **Art. 1.034**. A sociedade pode ser dissolvida judicialmente, a
 requerimento de qualquer dos sócios, quando:
 
-I - anulada a sua constituição;
+**I** - anulada a sua constituição;
 
-II - exaurido o fim social, ou verificada a sua inexeqüibilidade.
+**II** - exaurido o fim social, ou verificada a sua inexeqüibilidade.
 
 **Art. 1.035**. O contrato pode prever outras causas de dissolução, a serem
 verificadas judicialmente quando contestadas.
@@ -6614,10 +6609,10 @@ pessoa estranha à sociedade.
 **§ 1º** O liquidante pode ser
 destituído, a todo tempo:
 
-I - se eleito pela forma prevista neste artigo, mediante deliberação dos
+**I** - se eleito pela forma prevista neste artigo, mediante deliberação dos
 sócios;
 
-II - em qualquer caso, por via judicial, a requerimento de um ou mais
+**II** - em qualquer caso, por via judicial, a requerimento de um ou mais
 sócios, ocorrendo justa causa.
 
 **§ 2º** A liquidação da sociedade
@@ -6649,9 +6644,9 @@ a sociedade, pretender a liquidação da quota do devedor.
 
 **Parágrafo único.** Poderá fazê-lo quando:
 
-I - a sociedade houver sido prorrogada tacitamente;
+**I** - a sociedade houver sido prorrogada tacitamente;
 
-II - tendo ocorrido prorrogação contratual, for acolhida judicialmente
+**II** - tendo ocorrido prorrogação contratual, for acolhida judicialmente
 oposição do credor, levantada no prazo de noventa dias, contado da
 publicação do ato dilatório.
 
@@ -6702,9 +6697,9 @@ designarão quem os represente.
 
 **Art. 1.051**. Dissolve-se de pleno direito a sociedade:
 
-I - por qualquer das causas previstas no art. 1.044;
+**I** - por qualquer das causas previstas no art. 1.044;
 
-II - quando por mais de cento e oitenta dias perdurar a falta de uma das
+**II** - quando por mais de cento e oitenta dias perdurar a falta de uma das
 categorias de sócio.
 
 **Parágrafo único.** Na falta de sócio comanditado, os comanditários
@@ -6862,26 +6857,26 @@ anualmente, pela assembléia dos sócios que os eleger.
 contrato social, aos membros do conselho fiscal incumbem, individual ou
 conjuntamente, os deveres seguintes:
 
-I - examinar, pelo menos trimestralmente, os livros e papéis da
+**I** - examinar, pelo menos trimestralmente, os livros e papéis da
 sociedade e o estado da caixa e da carteira, devendo os administradores
 ou liquidantes prestar-lhes as informações solicitadas;
 
-II - lavrar no livro de atas e pareceres do conselho fiscal o resultado
+**II** - lavrar no livro de atas e pareceres do conselho fiscal o resultado
 dos exames referidos no inciso I deste artigo;
 
-III - exarar no mesmo livro e apresentar à assembléia anual dos sócios
+**III** - exarar no mesmo livro e apresentar à assembléia anual dos sócios
 parecer sobre os negócios e as operações sociais do exercício em que
 servirem, tomando por base o balanço patrimonial e o de resultado
 econômico;
 
-IV - denunciar os erros, fraudes ou crimes que descobrirem, sugerindo
+**IV** - denunciar os erros, fraudes ou crimes que descobrirem, sugerindo
 providências úteis à sociedade;
 
-V - convocar a assembléia dos sócios se a diretoria retardar por mais de
+**V** - convocar a assembléia dos sócios se a diretoria retardar por mais de
 trinta dias a sua convocação anual, ou sempre que ocorram motivos graves
 e urgentes;
 
-VI - praticar, durante o período da liquidação da sociedade, os atos a
+**VI** - praticar, durante o período da liquidação da sociedade, os atos a
 que se refere este artigo, tendo em vista as disposições especiais
 reguladoras da liquidação.
 
@@ -6899,23 +6894,23 @@ habilitado, mediante remuneração aprovada pela assembléia dos sócios.
 **Art. 1.071**. Dependem da deliberação dos sócios, além de outras matérias
 indicadas na lei ou no contrato:
 
-I - a aprovação das contas da administração;
+**I** - a aprovação das contas da administração;
 
-II - a designação dos administradores, quando feita em ato separado;
+**II** - a designação dos administradores, quando feita em ato separado;
 
-III - a destituição dos administradores;
+**III** - a destituição dos administradores;
 
-IV - o modo de sua remuneração, quando não estabelecido no contrato;
+**IV** - o modo de sua remuneração, quando não estabelecido no contrato;
 
-V - a modificação do contrato social;
+**V** - a modificação do contrato social;
 
-VI - a incorporação, a fusão e a dissolução da sociedade, ou a cessação
+**VI** - a incorporação, a fusão e a dissolução da sociedade, ou a cessação
 do estado de liquidação;
 
-VII - a nomeação e destituição dos liquidantes e o julgamento das suas
+**VII** - a nomeação e destituição dos liquidantes e o julgamento das suas
 contas;
 
-VIII - o pedido de concordata.
+**VIII** - o pedido de concordata.
 
 **Art. 1.072**. As deliberações dos sócios, obedecido o disposto no art.
 1.010, serão tomadas em reunião ou em assembléia, conforme previsto no
@@ -6950,14 +6945,13 @@ sobre a assembléia.
 
 **Art. 1.073**. A reunião ou a assembléia podem também ser convocadas:
 
-I - por sócio, quando os administradores retardarem a convocação, por
+**I** - por sócio, quando os administradores retardarem a convocação, por
 mais de sessenta dias, nos casos previstos em lei ou no contrato, ou por
 titulares de mais de um quinto do capital, quando não atendido, no prazo
 de oito dias, pedido de convocação fundamentado, com indicação das
 matérias a serem tratadas;
 
-II - pelo conselho fiscal, se houver, nos casos a que se refere o inciso
-V do art. 1.069.
+**II** - pelo conselho fiscal, se houver, nos casos a que se refere o inciso V do art. 1.069.
 
 **Art. 1.074**. A assembléia dos sócios instala-se com a presença, em
 primeira convocação, de titulares de no mínimo três quartos do capital
@@ -6993,13 +6987,13 @@ solicitar, será entregue cópia autenticada da ata.
 1º do art. 1.063, as
 deliberações dos sócios serão tomadas:
 
-I - pelos votos correspondentes, no mínimo, a três quartos do capital
+**I** - pelos votos correspondentes, no mínimo, a três quartos do capital
 social, nos casos previstos nos incisos V e VI do art. 1.071;
 
-II - pelos votos correspondentes a mais de metade do capital social, nos
+**II** - pelos votos correspondentes a mais de metade do capital social, nos
 casos previstos nos incisos II, III, IV e VIII do art. 1.071;
 
-III - pela maioria de votos dos presentes, nos demais casos previstos na
+**III** - pela maioria de votos dos presentes, nos demais casos previstos na
 lei ou no contrato, se este não exigir maioria mais elevada.
 
 **Art. 1.077**. Quando houver modificação do contrato, fusão da sociedade,
@@ -7012,12 +7006,12 @@ disposto no art. 1.031.
 por ano, nos quatro meses seguintes à ao término do exercício social,
 com o objetivo de:
 
-I - tomar as contas dos administradores e deliberar sobre o balanço
+**I** - tomar as contas dos administradores e deliberar sobre o balanço
 patrimonial e o de resultado econômico;
 
-II - designar administradores, quando for o caso;
+**II** - designar administradores, quando for o caso;
 
-III - tratar de qualquer outro assunto constante da ordem do dia.
+**III** - tratar de qualquer outro assunto constante da ordem do dia.
 
 **§ 1º** Até trinta dias antes da
 data marcada para a assembléia, os documentos referidos no inciso I
@@ -7067,9 +7061,9 @@ a modificação do contrato.
 **Art. 1.082**. Pode a sociedade reduzir o capital, mediante a
 correspondente modificação do contrato:
 
-I - depois de integralizado, se houver perdas irreparáveis;
+**I** - depois de integralizado, se houver perdas irreparáveis;
 
-II - se excessivo em relação ao objeto da sociedade.
+**II** - se excessivo em relação ao objeto da sociedade.
 
 **Art. 1.083**. No caso do inciso I do artigo antecedente, a redução do
 capital será realizada com a diminuição proporcional do valor nominal
@@ -7166,29 +7160,29 @@ Capítulo, ressalvada a legislação especial.
 
 **Art. 1.094**. São características da sociedade cooperativa:
 
-I - variabilidade, ou dispensa do capital social;
+**I** - variabilidade, ou dispensa do capital social;
 
-II - concurso de sócios em número mínimo necessário a compor a
+**II** - concurso de sócios em número mínimo necessário a compor a
 administração da sociedade, sem limitação de número máximo;
 
-III - limitação do valor da soma de quotas do capital social que cada
+**III** - limitação do valor da soma de quotas do capital social que cada
 sócio poderá tomar;
 
-IV - intransferibilidade das quotas do capital a terceiros estranhos à
+**IV** - intransferibilidade das quotas do capital a terceiros estranhos à
 sociedade, ainda que por herança;
 
-V - *quorum*, para a assembléia geral funcionar e deliberar, fundado no
+**V** - *quorum*, para a assembléia geral funcionar e deliberar, fundado no
 número de sócios presentes à reunião, e não no capital social
 representado;
 
-VI - direito de cada sócio a um só voto nas deliberações, tenha ou não
+**VI** - direito de cada sócio a um só voto nas deliberações, tenha ou não
 capital a sociedade, e qualquer que seja o valor de sua participação;
 
-VII - distribuição dos resultados, proporcionalmente ao valor das
+**VII** - distribuição dos resultados, proporcionalmente ao valor das
 operações efetuadas pelo sócio com a sociedade, podendo ser atribuído
 juro fixo ao capital realizado;
 
-VIII - indivisibilidade do fundo de reserva entre os sócios, ainda que
+**VIII** - indivisibilidade do fundo de reserva entre os sócios, ainda que
 em caso de dissolução da sociedade.
 
 **Art. 1.095**. Na sociedade cooperativa, a responsabilidade dos sócios pode
@@ -7215,11 +7209,11 @@ forma dos artigos seguintes.
 
 **Art. 1.098**. É controlada:
 
-I - a sociedade de cujo capital outra sociedade possua a maioria dos
+**I** - a sociedade de cujo capital outra sociedade possua a maioria dos
 votos nas deliberações dos quotistas ou da assembléia geral e o poder de
 eleger a maioria dos administradores;
 
-II - a sociedade cujo controle, referido no inciso antecedente, esteja
+**II** - a sociedade cujo controle, referido no inciso antecedente, esteja
 em poder de outra, mediante ações ou quotas possuídas por sociedades ou
 sociedades por esta já controladas.
 
@@ -7251,37 +7245,37 @@ investir-se-á nas funções, averbada a sua nomeação no registro próprio.
 
 **Art. 1.103**. Constituem deveres do liquidante:
 
-I - averbar e publicar a ata, sentença ou instrumento de dissolução da
+**I** - averbar e publicar a ata, sentença ou instrumento de dissolução da
 sociedade;
 
-II - arrecadar os bens, livros e documentos da sociedade, onde quer que
+**II** - arrecadar os bens, livros e documentos da sociedade, onde quer que
 estejam;
 
-III - proceder, nos quinze dias seguintes ao da sua investidura e com a
+**III** - proceder, nos quinze dias seguintes ao da sua investidura e com a
 assistência, sempre que possível, dos administradores, à elaboração do
 inventário e do balanço geral do ativo e do passivo;
 
-IV - ultimar os negócios da sociedade, realizar o ativo, pagar o passivo
+**IV** - ultimar os negócios da sociedade, realizar o ativo, pagar o passivo
 e partilhar o remanescente entre os sócios ou acionistas;
 
-V - exigir dos quotistas, quando insuficiente o ativo à solução do
+**V** - exigir dos quotistas, quando insuficiente o ativo à solução do
 passivo, a integralização de suas quotas e, se for o caso, as quantias
 necessárias, nos limites da responsabilidade de cada um e
 proporcionalmente à respectiva participação nas perdas, repartindo-se,
 entre os sócios solventes e na mesma proporção, o devido pelo
 insolvente;
 
-VI - convocar assembléia dos quotistas, cada seis meses, para apresentar
+**VI** - convocar assembléia dos quotistas, cada seis meses, para apresentar
 relatório e balanço do estado da liquidação, prestando conta dos atos
 praticados durante o semestre, ou sempre que necessário;
 
-VII - confessar a falência da sociedade e pedir concordata, de acordo
+**VII** - confessar a falência da sociedade e pedir concordata, de acordo
 com as formalidades prescritas para o tipo de sociedade liquidanda;
 
-VIII - finda a liquidação, apresentar aos sócios o relatório da
+**VIII** - finda a liquidação, apresentar aos sócios o relatório da
 liquidação e as suas contas finais;
 
-IX - averbar a ata da reunião ou da assembléia, ou o instrumento firmado
+**IX** - averbar a ata da reunião ou da assembléia, ou o instrumento firmado
 pelos sócios, que considerar encerrada a liquidação.
 
 **Parágrafo único.** Em todos os atos, documentos ou publicações, o
@@ -7513,23 +7507,23 @@ casos expressos em lei, ser acionista de sociedade anônima brasileira.
 **§ 1º** Ao requerimento de
 autorização devem juntar-se:
 
-I - prova de se achar a sociedade constituída conforme a lei de seu
+**I** - prova de se achar a sociedade constituída conforme a lei de seu
 país;
 
-II - inteiro teor do contrato ou do estatuto;
+**II** - inteiro teor do contrato ou do estatuto;
 
-III - relação dos membros de todos os órgãos da administração da
+**III** - relação dos membros de todos os órgãos da administração da
 sociedade, com nome, nacionalidade, profissão, domicílio e, salvo quanto
 a ações ao portador, o valor da participação de cada um no capital da
 sociedade;
 
-IV - cópia do ato que autorizou o funcionamento no Brasil e fixou o
+**IV** - cópia do ato que autorizou o funcionamento no Brasil e fixou o
 capital destinado às operações no território nacional;
 
-V - prova de nomeação do representante no Brasil, com poderes expressos
+**V** - prova de nomeação do representante no Brasil, com poderes expressos
 para aceitar as condições exigidas para a autorização;
 
-VI - último balanço.
+**VI** - último balanço.
 
 **§ 2º** Os documentos serão
 autenticados, de conformidade com a lei nacional da sociedade
@@ -7559,15 +7553,15 @@ documentos, a inscrição será feita por termo em livro especial para as
 sociedades estrangeiras, com número de ordem contínuo para todas as
 sociedades inscritas; no termo constarão:
 
-I - nome, objeto, duração e sede da sociedade no estrangeiro;
+**I** - nome, objeto, duração e sede da sociedade no estrangeiro;
 
-II - lugar da sucursal, filial ou agência, no País;
+**II** - lugar da sucursal, filial ou agência, no País;
 
-III - data e número do decreto de autorização;
+**III** - data e número do decreto de autorização;
 
-IV - capital destinado às operações no País;
+**IV** - capital destinado às operações no País;
 
-V - individuação do seu representante permanente.
+**V** - individuação do seu representante permanente.
 
 **§ 3º** Inscrita a sociedade,
 promover-se-á a publicação determinada no parágrafo único do art. 1.131.
@@ -7952,22 +7946,22 @@ extrínsecas exigidas para aquele.
 **Art. 1.186**. O livro Balancetes Diários e Balanços será escriturado de
 modo que registre:
 
-I - a posição diária de cada uma das contas ou títulos contábeis, pelo
+**I** - a posição diária de cada uma das contas ou títulos contábeis, pelo
 respectivo saldo, em forma de balancetes diários;
 
-II - o balanço patrimonial e o de resultado econômico, no encerramento
+**II** - o balanço patrimonial e o de resultado econômico, no encerramento
 do exercício.
 
 **Art. 1.187**. Na coleta dos elementos para o inventário serão observados
 os critérios de avaliação a seguir determinados:
 
-I - os bens destinados à exploração da atividade serão avaliados pelo
+**I** - os bens destinados à exploração da atividade serão avaliados pelo
 custo de aquisição, devendo, na avaliação dos que se desgastam ou
 depreciam com o uso, pela ação do tempo ou outros fatores, atender-se à
 desvalorização respectiva, criando-se fundos de amortização para
 assegurar-lhes a substituição ou a conservação do valor;
 
-II - os valores mobiliários, matéria-prima, bens destinados à alienação,
+**II** - os valores mobiliários, matéria-prima, bens destinados à alienação,
 ou que constituem produtos ou artigos da indústria ou comércio da
 empresa, podem ser estimados pelo custo de aquisição ou de fabricação,
 ou pelo preço corrente, sempre que este for inferior ao preço de custo,
@@ -7977,26 +7971,26 @@ a diferença entre este e o preço de custo não será levada em conta para
 a distribuição de lucros, nem para as percentagens referentes a fundos
 de reserva;
 
-III - o valor das ações e dos títulos de renda fixa pode ser determinado
+**III** - o valor das ações e dos títulos de renda fixa pode ser determinado
 com base na respectiva cotação da Bolsa de Valores; os não cotados e as
 participações não acionárias serão considerados pelo seu valor de
 aquisição;
 
-IV - os créditos serão considerados de conformidade com o presumível
+**IV** - os créditos serão considerados de conformidade com o presumível
 valor de realização, não se levando em conta os prescritos ou de difícil
 liqüidação, salvo se houver, quanto aos últimos, previsão equivalente.
 
 **Parágrafo único.** Entre os valores do ativo podem figurar, desde que se
 preceda, anualmente, à sua amortização:
 
-I - as despesas de instalação da sociedade, até o limite correspondente
+**I** - as despesas de instalação da sociedade, até o limite correspondente
 a dez por cento do capital social;
 
-II - os juros pagos aos acionistas da sociedade anônima, no período
+**II** - os juros pagos aos acionistas da sociedade anônima, no período
 antecedente ao início das operações sociais, à taxa não superior a doze
 por cento ao ano, fixada no estatuto;
 
-III - a quantia efetivamente paga a título de aviamento de
+**III** - a quantia efetivamente paga a título de aviamento de
 estabelecimento adquirido pelo empresário ou sociedade.
 
 **Art. 1.188**. O balanço patrimonial deverá exprimir, com fidelidade e
@@ -8105,9 +8099,9 @@ propriedade.
 
 **Art. 1.205**. A posse pode ser adquirida:
 
-I - pela própria pessoa que a pretende ou por seu representante;
+**I** - pela própria pessoa que a pretende ou por seu representante;
 
-II - por terceiro sem mandato, dependendo de ratificação.
+**II** - por terceiro sem mandato, dependendo de ratificação.
 
 **Art. 1.206**. A posse transmite-se aos herdeiros ou legatários do
 possuidor com os mesmos caracteres.
@@ -8207,31 +8201,31 @@ Disposições Gerais
 
 **Art. 1.225**. São direitos reais:
 
-I - a propriedade;
+**I** - a propriedade;
 
-II - a superfície;
+**II** - a superfície;
 
-III - as servidões;
+**III** - as servidões;
 
-IV - o usufruto;
+**IV** - o usufruto;
 
-V - o uso;
+**V** - o uso;
 
-VI - a habitação;
+**VI** - a habitação;
 
-VII - o direito do promitente comprador do imóvel;
+**VII** - o direito do promitente comprador do imóvel;
 
-VIII - o penhor;
+**VIII** - o penhor;
 
-IX - a hipoteca;
+**IX** - a hipoteca;
 
-X - a anticrese.
+**X** - a anticrese.
 
-XI - a concessão de uso especial para fins de moradia;
+**XI** - a concessão de uso especial para fins de moradia;
 
-XII - a concessão de direito real de uso; e
+**XII** - a concessão de direito real de uso; e
 
-XIII - a laje.
+**XIII** - a laje.
 
 **Art. 1.226**. Os direitos reais sobre coisas móveis, quando constituídos,
 ou transmitidos por atos entre vivos, só se adquirem com a tradição.
@@ -8434,15 +8428,15 @@ adquirente.
 
 **Art. 1.248**. A acessão pode dar-se:
 
-I - por formação de ilhas;
+**I** - por formação de ilhas;
 
-II - por aluvião;
+**II** - por aluvião;
 
-III - por avulsão;
+**III** - por avulsão;
 
-IV - por abandono de álveo;
+**IV** - por abandono de álveo;
 
-V - por plantações ou construções.
+**V** - por plantações ou construções.
 
 ##### Subseção I - Das Ilhas
 
@@ -8450,16 +8444,16 @@ V - por plantações ou construções.
 pertencem aos proprietários ribeirinhos fronteiros, observadas as regras
 seguintes:
 
-I - as que se formarem no meio do rio consideram-se acréscimos
+**I** - as que se formarem no meio do rio consideram-se acréscimos
 sobrevindos aos terrenos ribeirinhos fronteiros de ambas as margens, na
 proporção de suas testadas, até a linha que dividir o álveo em duas
 partes iguais;
 
-II - as que se formarem entre a referida linha e uma das margens
+**II** - as que se formarem entre a referida linha e uma das margens
 consideram-se acréscimos aos terrenos ribeirinhos fronteiros desse mesmo
 lado;
 
-III - as que se formarem pelo desdobramento de um novo braço do rio
+**III** - as que se formarem pelo desdobramento de um novo braço do rio
 continuam a pertencer aos proprietários dos terrenos à custa dos quais
 se constituíram.
 
@@ -8658,15 +8652,15 @@ arts. 1.272 e 1.273.
 **Art. 1.275**. Além das causas consideradas neste Código, perde-se a
 propriedade:
 
-I - por alienação;
+**I** - por alienação;
 
-II - pela renúncia;
+**II** - pela renúncia;
 
-III - por abandono;
+**III** - por abandono;
 
-IV - por perecimento da coisa;
+**IV** - por perecimento da coisa;
 
-V - por desapropriação.
+**V** - por desapropriação.
 
 **Parágrafo único.** Nos casos dos incisos I e II, os efeitos da perda da
 propriedade imóvel serão subordinados ao registro do título transmissivo
@@ -8961,10 +8955,10 @@ perdas e danos.
 **Art. 1.313**. O proprietário ou ocupante do imóvel é obrigado a tolerar
 que o vizinho entre no prédio, mediante prévio aviso, para:
 
-I - dele temporariamente usar, quando indispensável à reparação,
+**I** - dele temporariamente usar, quando indispensável à reparação,
 construção, reconstrução ou limpeza de sua casa ou do muro divisório;
 
-II - apoderar-se de coisas suas, inclusive animais que aí se encontrem
+**II** - apoderar-se de coisas suas, inclusive animais que aí se encontrem
 casualmente.
 
 **§ 1º** O disposto neste artigo
@@ -9138,13 +9132,13 @@ condomínio.
 testamento, registrado no Cartório de Registro de Imóveis, devendo
 constar daquele ato, além do disposto em lei especial:
 
-I - a discriminação e individualização das unidades de propriedade
+**I** - a discriminação e individualização das unidades de propriedade
 exclusiva, estremadas uma das outras e das partes comuns;
 
-II - a determinação da fração ideal atribuída a cada unidade,
+**II** - a determinação da fração ideal atribuída a cada unidade,
 relativamente ao terreno e partes comuns;
 
-III - o fim a que as unidades se destinam.
+**III** - o fim a que as unidades se destinam.
 
 **Art. 1.333**. A convenção que constitui o condomínio edilício deve ser
 subscrita pelos titulares de, no mínimo, dois terços das frações ideais
@@ -9157,18 +9151,18 @@ condomínio deverá ser registrada no Cartório de Registro de Imóveis.
 **Art. 1.334**. Além das cláusulas referidas no art. 1.332 e das que os
 interessados houverem por bem estipular, a convenção determinará:
 
-I - a quota proporcional e o modo de pagamento das contribuições dos
+**I** - a quota proporcional e o modo de pagamento das contribuições dos
 condôminos para atender às despesas ordinárias e extraordinárias do
 condomínio;
 
-II - sua forma de administração;
+**II** - sua forma de administração;
 
-III - a competência das assembléias, forma de sua convocação e quorum
+**III** - a competência das assembléias, forma de sua convocação e quorum
 exigido para as deliberações;
 
-IV - as sanções a que estão sujeitos os condôminos, ou possuidores;
+**IV** - as sanções a que estão sujeitos os condôminos, ou possuidores;
 
-V - o regimento interno.
+**V** - o regimento interno.
 
 **§ 1º** A convenção poderá ser
 feita por escritura pública ou por instrumento particular.
@@ -9180,25 +9174,25 @@ unidades autônomas.
 
 **Art. 1.335**. São direitos do condômino:
 
-I - usar, fruir e livremente dispor das suas unidades;
+**I** - usar, fruir e livremente dispor das suas unidades;
 
-II - usar das partes comuns, conforme a sua destinação, e contanto que
+**II** - usar das partes comuns, conforme a sua destinação, e contanto que
 não exclua a utilização dos demais compossuidores;
 
-III - votar nas deliberações da assembléia e delas participar, estando
+**III** - votar nas deliberações da assembléia e delas participar, estando
 quite.
 
 **Art. 1.336**. São deveres do condômino:
 
-I - contribuir para as despesas do condomínio na proporção das suas
+**I** - contribuir para as despesas do condomínio na proporção das suas
 frações ideais, salvo disposição em contrário na convenção;
 
-II - não realizar obras que comprometam a segurança da edificação;
+**II** - não realizar obras que comprometam a segurança da edificação;
 
-III - não alterar a forma e a cor da fachada, das partes e esquadrias
+**III** - não alterar a forma e a cor da fachada, das partes e esquadrias
 externas;
 
-IV - dar às suas partes a mesma destinação que tem a edificação, e não
+**IV** - dar às suas partes a mesma destinação que tem a edificação, e não
 as utilizar de maneira prejudicial ao sossego, salubridade e segurança
 dos possuidores, ou aos bons costumes.
 
@@ -9250,9 +9244,9 @@ condômino, ou de alguns deles, incumbem a quem delas se serve.
 
 **Art. 1.341**. A realização de obras no condomínio depende:
 
-I - se voluptuárias, de voto de dois terços dos condôminos;
+**I** - se voluptuárias, de voto de dois terços dos condôminos;
 
-II - se úteis, de voto da maioria dos condôminos.
+**II** - se úteis, de voto da maioria dos condôminos.
 
 **§ 1º** As obras ou reparações
 necessárias podem ser realizadas, independentemente de autorização, pelo
@@ -9304,28 +9298,28 @@ anos, o qual poderá renovar-se.
 
 **Art. 1.348**. Compete ao síndico:
 
-I - convocar a assembléia dos condôminos;
+**I** - convocar a assembléia dos condôminos;
 
-II - representar, ativa e passivamente, o condomínio, praticando, em
+**II** - representar, ativa e passivamente, o condomínio, praticando, em
 juízo ou fora dele, os atos necessários à defesa dos interesses comuns;
 
-III - dar imediato conhecimento à assembléia da existência de
+**III** - dar imediato conhecimento à assembléia da existência de
 procedimento judicial ou administrativo, de interesse do condomínio;
 
-IV - cumprir e fazer cumprir a convenção, o regimento interno e as
+**IV** - cumprir e fazer cumprir a convenção, o regimento interno e as
 determinações da assembléia;
 
-V - diligenciar a conservação e a guarda das partes comuns e zelar pela
+**V** - diligenciar a conservação e a guarda das partes comuns e zelar pela
 prestação dos serviços que interessem aos possuidores;
 
-VI - elaborar o orçamento da receita e da despesa relativa a cada ano;
+**VI** - elaborar o orçamento da receita e da despesa relativa a cada ano;
 
-VII - cobrar dos condôminos as suas contribuições, bem como impor e
+**VII** - cobrar dos condôminos as suas contribuições, bem como impor e
 cobrar as multas devidas;
 
-VIII - prestar contas à assembléia, anualmente e quando exigidas;
+**VIII** - prestar contas à assembléia, anualmente e quando exigidas;
 
-IX - realizar o seguro da edificação.
+**IX** - realizar o seguro da edificação.
 
 **§ 1º** Poderá a assembléia
 investir outra pessoa, em lugar do síndico, em poderes de representação.
@@ -9455,22 +9449,22 @@ arquivamento, a transferência da propriedade fiduciária.
 **Art. 1.362**. O contrato, que serve de título à propriedade fiduciária,
 conterá:
 
-I - o total da dívida, ou sua estimativa;
+**I** - o total da dívida, ou sua estimativa;
 
-II - o prazo, ou a época do pagamento;
+**II** - o prazo, ou a época do pagamento;
 
-III - a taxa de juros, se houver;
+**III** - a taxa de juros, se houver;
 
-IV - a descrição da coisa objeto da transferência, com os elementos
+**IV** - a descrição da coisa objeto da transferência, com os elementos
 indispensáveis à sua identificação.
 
 **Art. 1.363**. Antes de vencida a dívida, o devedor, a suas expensas e
 risco, pode usar a coisa segundo sua destinação, sendo obrigado, como
 depositário:
 
-I - a empregar na guarda da coisa a diligência exigida por sua natureza;
+**I** - a empregar na guarda da coisa a diligência exigida por sua natureza;
 
-II - a entregá-la ao credor, se a dívida não for paga no vencimento.
+**II** - a entregá-la ao credor, se a dívida não for paga no vencimento.
 
 **Art. 1.364**. Vencida a dívida, e não paga, fica o credor obrigado a
 vender, judicial ou extrajudicialmente, a coisa a terceiros, a aplicar o
@@ -9490,8 +9484,8 @@ pagamento da dívida e das despesas de cobrança, continuará o devedor
 obrigado pelo restante.
 
 **Art. 1.367**. A propriedade fiduciária em garantia de bens móveis ou
-imóveis sujeita-se às disposições do Capítulo I do Título X do Livro
-III da Parte Especial deste Código e, no que for específico, à
+imóveis sujeita-se às disposições do Capítulo I do Título X do Livro III
+da Parte Especial deste Código e, no que for específico, à
 legislação especial pertinente, não se equiparando, para quaisquer
 efeitos, à propriedade plena de que trata o art. 1.231.
 
@@ -9639,22 +9633,22 @@ cancelar, o consentimento do credor.
 judiciais, ao cancelamento do registro, embora o dono do prédio
 dominante lho impugne:
 
-I - quando o titular houver renunciado a sua servidão;
+**I** - quando o titular houver renunciado a sua servidão;
 
-II - quando tiver cessado, para o prédio dominante, a utilidade ou a
+**II** - quando tiver cessado, para o prédio dominante, a utilidade ou a
 comodidade, que determinou a constituição da servidão;
 
-III - quando o dono do prédio serviente resgatar a servidão.
+**III** - quando o dono do prédio serviente resgatar a servidão.
 
 **Art. 1.389**. Também se extingue a servidão, ficando ao dono do prédio
 serviente a faculdade de fazê-la cancelar, mediante a prova da extinção:
 
-I - pela reunião dos dois prédios no domínio da mesma pessoa;
+**I** - pela reunião dos dois prédios no domínio da mesma pessoa;
 
-II - pela supressão das respectivas obras por efeito de contrato, ou de
+**II** - pela supressão das respectivas obras por efeito de contrato, ou de
 outro título expresso;
 
-III - pelo não uso, durante dez anos contínuos.
+**III** - pelo não uso, durante dez anos contínuos.
 
 ### TÍTULO VI - Do Usufruto
 
@@ -9745,10 +9739,10 @@ resultantes do exercício regular do usufruto.
 
 **Art. 1.403**. Incumbem ao usufrutuário:
 
-I - as despesas ordinárias de conservação dos bens no estado em que os
+**I** - as despesas ordinárias de conservação dos bens no estado em que os
 recebeu;
 
-II - as prestações e os tributos devidos pela posse ou rendimento da
+**II** - as prestações e os tributos devidos pela posse ou rendimento da
 coisa usufruída.
 
 **Art. 1.404**. Incumbem ao dono as reparações extraordinárias e as que não
@@ -9798,27 +9792,27 @@ perda.
 **Art. 1.410**. O usufruto extingue-se, cancelando-se o registro no Cartório
 de Registro de Imóveis:
 
-I - pela renúncia ou morte do usufrutuário;
+**I** - pela renúncia ou morte do usufrutuário;
 
-II - pelo termo de sua duração;
+**II** - pelo termo de sua duração;
 
-III - pela extinção da pessoa jurídica, em favor de quem o usufruto foi
+**III** - pela extinção da pessoa jurídica, em favor de quem o usufruto foi
 constituído, ou, se ela perdurar, pelo decurso de trinta anos da data em
 que se começou a exercer;
 
-IV - pela cessação do motivo de que se origina;
+**IV** - pela cessação do motivo de que se origina;
 
-V - pela destruição da coisa, guardadas as disposições dos arts. 1.407,
+**V** - pela destruição da coisa, guardadas as disposições dos arts. 1.407,
 1.408, 2ª parte, e 1.409;
 
-VI - pela consolidação;
+**VI** - pela consolidação;
 
-VII - por culpa do usufrutuário, quando aliena, deteriora, ou deixa
+**VII** - por culpa do usufrutuário, quando aliena, deteriora, ou deixa
 arruinar os bens, não lhes acudindo com os reparos de conservação, ou
 quando, no usufruto de títulos de crédito, não dá às importâncias
 recebidas a aplicação prevista no parágrafo único do art. 1.395;
 
-VIII - Pelo não uso, ou não fruição, da coisa em que o usufruto recai
+**VIII** - Pelo não uso, ou não fruição, da coisa em que o usufruto recai
 (arts. 1.390 e 1.399).
 
 **Art. 1.411**. Constituído o usufruto em favor de duas ou mais pessoas,
@@ -9908,30 +9902,30 @@ quinze anos da data de sua constituição.
 **Art. 1.424**. Os contratos de penhor, anticrese ou hipoteca declararão,
 sob pena de não terem eficácia:
 
-I - o valor do crédito, sua estimação, ou valor máximo;
+**I** - o valor do crédito, sua estimação, ou valor máximo;
 
-II - o prazo fixado para pagamento;
+**II** - o prazo fixado para pagamento;
 
-III - a taxa dos juros, se houver;
+**III** - a taxa dos juros, se houver;
 
-IV - o bem dado em garantia com as suas especificações.
+**IV** - o bem dado em garantia com as suas especificações.
 
 **Art. 1.425**. A dívida considera-se vencida:
 
-I - se, deteriorando-se, ou depreciando-se o bem dado em segurança,
+**I** - se, deteriorando-se, ou depreciando-se o bem dado em segurança,
 desfalcar a garantia, e o devedor, intimado, não a reforçar ou
 substituir;
 
-II - se o devedor cair em insolvência ou falir;
+**II** - se o devedor cair em insolvência ou falir;
 
-III - se as prestações não forem pontualmente pagas, toda vez que deste
+**III** - se as prestações não forem pontualmente pagas, toda vez que deste
 modo se achar estipulado o pagamento. Neste caso, o recebimento
 posterior da prestação atrasada importa renúncia do credor ao seu
 direito de execução imediata;
 
-IV - se perecer o bem dado em garantia, e não for substituído;
+**IV** - se perecer o bem dado em garantia, e não for substituído;
 
-V - se se desapropriar o bem dado em garantia, hipótese na qual se
+**V** - se se desapropriar o bem dado em garantia, hipótese na qual se
 depositará a parte do preço que for necessária para o pagamento integral
 do credor.
 
@@ -9993,22 +9987,22 @@ de Títulos e Documentos.
 
 **Art. 1.433**. O credor pignoratício tem direito:
 
-I - à posse da coisa empenhada;
+**I** - à posse da coisa empenhada;
 
-II - à retenção dela, até que o indenizem das despesas devidamente
+**II** - à retenção dela, até que o indenizem das despesas devidamente
 justificadas, que tiver feito, não sendo ocasionadas por culpa sua;
 
-III - ao ressarcimento do prejuízo que houver sofrido por vício da coisa
+**III** - ao ressarcimento do prejuízo que houver sofrido por vício da coisa
 empenhada;
 
-IV - a promover a execução judicial, ou a venda amigável, se lhe
+**IV** - a promover a execução judicial, ou a venda amigável, se lhe
 permitir expressamente o contrato, ou lhe autorizar o devedor mediante
 procuração;
 
-V - a apropriar-se dos frutos da coisa empenhada que se encontra em seu
+**V** - a apropriar-se dos frutos da coisa empenhada que se encontra em seu
 poder;
 
-VI - a promover a venda antecipada, mediante prévia autorização
+**VI** - a promover a venda antecipada, mediante prévia autorização
 judicial, sempre que haja receio fundado de que a coisa empenhada se
 perca ou deteriore, devendo o preço ser depositado. O dono da coisa
 empenhada pode impedir a venda antecipada, substituindo-a, ou oferecendo
@@ -10024,38 +10018,38 @@ do credor.
 
 **Art. 1.435**. O credor pignoratício é obrigado:
 
-I - à custódia da coisa, como depositário, e a ressarcir ao dono a perda
+**I** - à custódia da coisa, como depositário, e a ressarcir ao dono a perda
 ou deterioração de que for culpado, podendo ser compensada na dívida,
 até a concorrente quantia, a importância da responsabilidade;
 
-II - à defesa da posse da coisa empenhada e a dar ciência, ao dono dela,
+**II** - à defesa da posse da coisa empenhada e a dar ciência, ao dono dela,
 das circunstâncias que tornarem necessário o exercício de ação
 possessória;
 
-III - a imputar o valor dos frutos, de que se apropriar (art. 1.433,
+**III** - a imputar o valor dos frutos, de que se apropriar (art. 1.433,
 inciso V) nas despesas de guarda e conservação, nos juros e no capital
 da obrigação garantida, sucessivamente;
 
-IV - a restituí-la, com os respectivos frutos e acessões, uma vez paga a
+**IV** - a restituí-la, com os respectivos frutos e acessões, uma vez paga a
 dívida;
 
-V - a entregar o que sobeje do preço, quando a dívida for paga, no caso
+**V** - a entregar o que sobeje do preço, quando a dívida for paga, no caso
 do inciso IV do art. 1.433.
 
 ##### Seção IV - Da Extinção do Penhor
 
 **Art. 1.436**. Extingue-se o penhor:
 
-I - extinguindo-se a obrigação;
+**I** - extinguindo-se a obrigação;
 
-II - perecendo a coisa;
+**II** - perecendo a coisa;
 
-III - renunciando o credor;
+**III** - renunciando o credor;
 
-IV - confundindo-se na mesma pessoa as qualidades de credor e de dono da
+**IV** - confundindo-se na mesma pessoa as qualidades de credor e de dono da
 coisa;
 
-V - dando-se a adjudicação judicial, a remissão ou a venda da coisa
+**V** - dando-se a adjudicação judicial, a remissão ou a venda da coisa
 empenhada, feita pelo credor ou por ele autorizada.
 
 **§ 1º** Presume-se a renúncia do
@@ -10107,15 +10101,15 @@ credenciar.
 
 **Art. 1.442**. Podem ser objeto de penhor:
 
-I - máquinas e instrumentos de agricultura;
+**I** - máquinas e instrumentos de agricultura;
 
-II - colheitas pendentes, ou em via de formação;
+**II** - colheitas pendentes, ou em via de formação;
 
-III - frutos acondicionados ou armazenados;
+**III** - frutos acondicionados ou armazenados;
 
-IV - lenha cortada e carvão vegetal;
+**IV** - lenha cortada e carvão vegetal;
 
-V - animais do serviço ordinário de estabelecimento agrícola.
+**V** - animais do serviço ordinário de estabelecimento agrícola.
 
 **Art. 1.443**. O penhor agrícola que recai sobre colheita pendente, ou em
 via de formação, abrange a imediatamente seguinte, no caso de
@@ -10225,16 +10219,16 @@ deste Título e, no que couber, pela presente Seção.
 **Art. 1.459**. Ao credor, em penhor de título de crédito, compete o direito
 de:
 
-I - conservar a posse do título e recuperá-la de quem quer que o
+**I** - conservar a posse do título e recuperá-la de quem quer que o
 detenha;
 
-II - usar dos meios judiciais convenientes para assegurar os seus
+**II** - usar dos meios judiciais convenientes para assegurar os seus
 direitos, e os do credor do título empenhado;
 
-III - fazer intimar ao devedor do título que não pague ao seu credor,
+**III** - fazer intimar ao devedor do título que não pague ao seu credor,
 enquanto durar o penhor;
 
-IV - receber a importância consubstanciada no título e os respectivos
+**IV** - receber a importância consubstanciada no título e os respectivos
 juros, se exigíveis, restituindo o título ao devedor, quando este solver
 a obrigação.
 
@@ -10282,12 +10276,12 @@ a prorrogação à margem do registro respectivo.
 
 **Art. 1.467**. São credores pignoratícios, independentemente de convenção:
 
-I - os hospedeiros, ou fornecedores de pousada ou alimento, sobre as
+**I** - os hospedeiros, ou fornecedores de pousada ou alimento, sobre as
 bagagens, móveis, jóias ou dinheiro que os seus consumidores ou
 fregueses tiverem consigo nas respectivas casas ou estabelecimentos,
 pelas despesas ou consumo que aí tiverem feito;
 
-II - o dono do prédio rústico ou urbano, sobre os bens móveis que o
+**II** - o dono do prédio rústico ou urbano, sobre os bens móveis que o
 rendeiro ou inquilino tiver guarnecendo o mesmo prédio, pelos aluguéis
 ou rendas.
 
@@ -10316,24 +10310,24 @@ caução idônea.
 
 **Art. 1.473**. Podem ser objeto de hipoteca:
 
-I - os imóveis e os acessórios dos imóveis conjuntamente com eles;
+**I** - os imóveis e os acessórios dos imóveis conjuntamente com eles;
 
-II - o domínio direto;
+**II** - o domínio direto;
 
-III - o domínio útil;
+**III** - o domínio útil;
 
-IV - as estradas de ferro;
+**IV** - as estradas de ferro;
 
-V - os recursos naturais a que se refere o art. 1.230, independentemente
+**V** - os recursos naturais a que se refere o art. 1.230, independentemente
 do solo onde se acham;
 
-VI - os navios;
+**VI** - os navios;
 
-VII - as aeronaves.
+**VII** - as aeronaves.
 
-VIII - o direito de uso especial para fins de moradia;
+**VIII** - o direito de uso especial para fins de moradia;
 
-IX - o direito real de uso;
+**IX** - o direito real de uso;
 
  X - a propriedade superficiária.
 
@@ -10341,8 +10335,8 @@ IX - o direito real de uso;
 lei especial.         [(Renumerado do parágrafo único pela Lei nº
 11.481, de 2007)](#)
 
-**§ 2º** Os direitos de garantia instituídos nas hipóteses dos incisos IX e
-X do caput deste artigo ficam limitados à duração da concessão ou
+**§ 2º** Os direitos de garantia instituídos nas hipóteses dos incisos IX e X
+do caput deste artigo ficam limitados à duração da concessão ou
 direito de superfície, caso tenham sido transferidos por período
 determinado.
 
@@ -10475,21 +10469,21 @@ art. 1.430, salvo anuência do credor.
 
 **Art. 1.489**. A lei confere hipoteca:
 
-I - às pessoas de direito público interno (art. 41) sobre os imóveis
+**I** - às pessoas de direito público interno (art. 41) sobre os imóveis
 pertencentes aos encarregados da cobrança, guarda ou administração dos
 respectivos fundos e rendas;
 
-II - aos filhos, sobre os imóveis do pai ou da mãe que passar a outras
+**II** - aos filhos, sobre os imóveis do pai ou da mãe que passar a outras
 núpcias, antes de fazer o inventário do casal anterior;
 
-III - ao ofendido, ou aos seus herdeiros, sobre os imóveis do
+**III** - ao ofendido, ou aos seus herdeiros, sobre os imóveis do
 delinqüente, para satisfação do dano causado pelo delito e pagamento
 das despesas judiciais;
 
-IV - ao co-herdeiro, para garantia do seu quinhão ou torna da partilha,
+**IV** - ao co-herdeiro, para garantia do seu quinhão ou torna da partilha,
 sobre o imóvel adjudicado ao herdeiro reponente;
 
-V - ao credor sobre o imóvel arrematado, para garantia do pagamento do
+**V** - ao credor sobre o imóvel arrematado, para garantia do pagamento do
 restante do preço da arrematação.
 
 **Art. 1.490**. O credor da hipoteca legal, ou quem o represente, poderá,
@@ -10554,17 +10548,17 @@ mas a especialização, em completando vinte anos, deve ser renovada.
 
 **Art. 1.499**. A hipoteca extingue-se:
 
-I - pela extinção da obrigação principal;
+**I** - pela extinção da obrigação principal;
 
-II - pelo perecimento da coisa;
+**II** - pelo perecimento da coisa;
 
-III - pela resolução da propriedade;
+**III** - pela resolução da propriedade;
 
-IV - pela renúncia do credor;
+**IV** - pela renúncia do credor;
 
-V - pela remição;
+**V** - pela remição;
 
-VI - pela arrematação ou adjudicação.
+**VI** - pela arrematação ou adjudicação.
 
 **Art. 1.500**. Extingue-se ainda a hipoteca com a averbação, no Registro de
 Imóveis, do cancelamento do registro, à vista da respectiva prova.
@@ -10699,17 +10693,17 @@ na proporção que venha a ser estipulada em contrato.
 **§ 1º** São partes que servem a
 todo o edifício:
 
-I - os alicerces, colunas, pilares, paredes-mestras e todas as partes
+**I** - os alicerces, colunas, pilares, paredes-mestras e todas as partes
 restantes que constituam a estrutura do prédio;
 
-II - o telhado ou os terraços de cobertura, ainda que destinados ao uso
+**II** - o telhado ou os terraços de cobertura, ainda que destinados ao uso
 exclusivo do titular da laje;
 
-III - as instalações gerais de água, esgoto, eletricidade, aquecimento,
+**III** - as instalações gerais de água, esgoto, eletricidade, aquecimento,
 ar condicionado, gás, comunicações e semelhantes que sirvam a todo o
 edifício; e
 
-IV - em geral, as coisas que sejam afetadas ao uso de todo o
+**IV** - em geral, as coisas que sejam afetadas ao uso de todo o
 edifício.
 
 **§ 2º** É assegurado, em
@@ -10738,9 +10732,9 @@ mais próxima à unidade sobreposta a ser alienada.
 **Art. 1.510-E**. A ruína da construção-base implica extinção do direito
 real de laje, salvo:
 
-I - se este tiver sido instituído sobre o subsolo;
+**I** - se este tiver sido instituído sobre o subsolo;
 
-II - se a construção-base não for reconstruída no prazo de cinco
+**II** - se a construção-base não for reconstruída no prazo de cinco
 anos.
 
 **Parágrafo único.** O disposto neste artigo não afasta o direito a eventual
@@ -10819,22 +10813,22 @@ cumprimento de pena criminal ou em caso de gravidez.
 
 **Art. 1.521**. Não podem casar:
 
-I - os ascendentes com os descendentes, seja o parentesco natural ou
+**I** - os ascendentes com os descendentes, seja o parentesco natural ou
 civil;
 
-II - os afins em linha reta;
+**II** - os afins em linha reta;
 
-III - o adotante com quem foi cônjuge do adotado e o adotado com quem o
+**III** - o adotante com quem foi cônjuge do adotado e o adotado com quem o
 foi do adotante;
 
-IV - os irmãos, unilaterais ou bilaterais, e demais colaterais, até o
+**IV** - os irmãos, unilaterais ou bilaterais, e demais colaterais, até o
 terceiro grau inclusive;
 
-V - o adotado com o filho do adotante;
+**V** - o adotado com o filho do adotante;
 
-VI - as pessoas casadas;
+**VI** - as pessoas casadas;
 
-VII - o cônjuge sobrevivente com o condenado por homicídio ou tentativa
+**VII** - o cônjuge sobrevivente com o condenado por homicídio ou tentativa
 de homicídio contra o seu consorte.
 
 **Art. 1.522**. Os impedimentos podem ser opostos, até o momento da
@@ -10847,17 +10841,17 @@ da existência de algum impedimento, será obrigado a declará-lo.
 
 **Art. 1.523**. Não devem casar:
 
-I - o viúvo ou a viúva que tiver filho do cônjuge falecido, enquanto não
+**I** - o viúvo ou a viúva que tiver filho do cônjuge falecido, enquanto não
 fizer inventário dos bens do casal e der partilha aos herdeiros;
 
-II - a viúva, ou a mulher cujo casamento se desfez por ser nulo ou ter
+**II** - a viúva, ou a mulher cujo casamento se desfez por ser nulo ou ter
 sido anulado, até dez meses depois do começo da viuvez, ou da dissolução
 da sociedade conjugal;
 
-III - o divorciado, enquanto não houver sido homologada ou decidida a
+**III** - o divorciado, enquanto não houver sido homologada ou decidida a
 partilha dos bens do casal;
 
-IV - o tutor ou o curador e os seus descendentes, ascendentes, irmãos,
+**IV** - o tutor ou o curador e os seus descendentes, ascendentes, irmãos,
 cunhados ou sobrinhos, com a pessoa tutelada ou curatelada, enquanto não
 cessar a tutela ou curatela, e não estiverem saldadas as respectivas
 contas.
@@ -10880,19 +10874,19 @@ também consangüíneos ou afins.
 por ambos os nubentes, de próprio punho, ou, a seu pedido, por
 procurador, e deve ser instruído com os seguintes documentos:
 
-I - certidão de nascimento ou documento equivalente;
+**I** - certidão de nascimento ou documento equivalente;
 
-II - autorização por escrito das pessoas sob cuja dependência legal
+**II** - autorização por escrito das pessoas sob cuja dependência legal
 estiverem, ou ato judicial que a supra;
 
-III - declaração de duas testemunhas maiores, parentes ou não, que
+**III** - declaração de duas testemunhas maiores, parentes ou não, que
 atestem conhecê-los e afirmem não existir impedimento que os iniba de
 casar;
 
-IV - declaração do estado civil, do domicílio e da residência atual dos
+**IV** - declaração do estado civil, do domicílio e da residência atual dos
 contraentes e de seus pais, se forem conhecidos;
 
-V - certidão de óbito do cônjuge falecido, de sentença declaratória de
+**V** - certidão de óbito do cônjuge falecido, de sentença declaratória de
 nulidade ou de anulação de casamento, transitada em julgado, ou do
 registro da sentença de divórcio.
 
@@ -10965,23 +10959,23 @@ assento no livro de registro. No assento, assinado pelo presidente do
 ato, pelos cônjuges, as testemunhas, e o oficial do registro, serão
 exarados:
 
-I - os prenomes, sobrenomes, datas de nascimento, profissão, domicílio e
+**I** - os prenomes, sobrenomes, datas de nascimento, profissão, domicílio e
 residência atual dos cônjuges;
 
-II - os prenomes, sobrenomes, datas de nascimento ou de morte, domicílio
+**II** - os prenomes, sobrenomes, datas de nascimento ou de morte, domicílio
 e residência atual dos pais;
 
-III - o prenome e sobrenome do cônjuge precedente e a data da dissolução
+**III** - o prenome e sobrenome do cônjuge precedente e a data da dissolução
 do casamento anterior;
 
-IV - a data da publicação dos proclamas e da celebração do casamento;
+**IV** - a data da publicação dos proclamas e da celebração do casamento;
 
-V - a relação dos documentos apresentados ao oficial do registro;
+**V** - a relação dos documentos apresentados ao oficial do registro;
 
-VI - o prenome, sobrenome, profissão, domicílio e residência atual das
+**VI** - o prenome, sobrenome, profissão, domicílio e residência atual das
 testemunhas;
 
-VII - o regime do casamento, com a declaração da data e do cartório em
+**VII** - o regime do casamento, com a declaração da data e do cartório em
 cujas notas foi lavrada a escritura antenupcial, quando o regime não for
 o da comunhão parcial, ou o obrigatoriamente estabelecido.
 
@@ -10991,11 +10985,11 @@ integralmente na escritura antenupcial.
 **Art. 1.538**. A celebração do casamento será imediatamente suspensa se
 algum dos contraentes:
 
-I - recusar a solene afirmação da sua vontade;
+**I** - recusar a solene afirmação da sua vontade;
 
-II - declarar que esta não é livre e espontânea;
+**II** - declarar que esta não é livre e espontânea;
 
-III - manifestar-se arrependido.
+**III** - manifestar-se arrependido.
 
 **Parágrafo único.** O nubente que, por algum dos fatos mencionados neste
 artigo, der causa à suspensão do ato, não será admitido a retratar-se no
@@ -11024,11 +11018,11 @@ em linha reta, ou, na colateral, até segundo grau.
 perante a autoridade judicial mais próxima, dentro em dez dias, pedindo
 que lhes tome por termo a declaração de:
 
-I - que foram convocadas por parte do enfermo;
+**I** - que foram convocadas por parte do enfermo;
 
-II - que este parecia em perigo de vida, mas em seu juízo;
+**II** - que este parecia em perigo de vida, mas em seu juízo;
 
-III - que, em sua presença, declararam os contraentes, livre e
+**III** - que, em sua presença, declararam os contraentes, livre e
 espontaneamente, receber-se por marido e mulher.
 
 **§ 1º** Autuado o pedido e
@@ -11107,9 +11101,9 @@ viverem ou tiverem vivido na posse do estado de casados.
 
 **Art. 1.548**. É nulo o casamento contraído:
 
-I - [(Revogado)](#);
+**I** - [(Revogado)](#);
 
-II - por infringência de impedimento.
+**II** - por infringência de impedimento.
 
 **Art. 1.549**. A decretação de nulidade de casamento, pelos motivos
 previstos no artigo antecedente, pode ser promovida mediante ação
@@ -11117,21 +11111,21 @@ direta, por qualquer interessado, ou pelo Ministério Público.
 
 **Art. 1.550**. É anulável o casamento: 
 
-I - de quem não completou a idade mínima para casar;
+**I** - de quem não completou a idade mínima para casar;
 
-II - do menor em idade núbil, quando não autorizado por seu
+**II** - do menor em idade núbil, quando não autorizado por seu
 representante legal;
 
-III - por vício da vontade, nos termos dos arts. 1.556 a 1.558;
+**III** - por vício da vontade, nos termos dos arts. 1.556 a 1.558;
 
-IV - do incapaz de consentir ou manifestar, de modo inequívoco, o
+**IV** - do incapaz de consentir ou manifestar, de modo inequívoco, o
 consentimento;
 
-V - realizado pelo mandatário, sem que ele ou o outro contraente
+**V** - realizado pelo mandatário, sem que ele ou o outro contraente
 soubesse da revogação do mandato, e não sobrevindo coabitação entre os
 cônjuges;
 
-VI - por incompetência da autoridade celebrante.
+**VI** - por incompetência da autoridade celebrante.
 
 **§ 1º** Equipara-se à revogação
 a invalidade do mandato judicialmente decretada.
@@ -11147,11 +11141,11 @@ resultou gravidez.
 **Art. 1.552**. A anulação do casamento dos menores de dezesseis anos será
 requerida:
 
-I - pelo próprio cônjuge menor;
+**I** - pelo próprio cônjuge menor;
 
-II - por seus representantes legais;
+**II** - por seus representantes legais;
 
-III - por seus ascendentes.
+**III** - por seus ascendentes.
 
 **Art. 1.553**. O menor que não atingiu a idade núbil poderá, depois de
 completá-la, confirmar seu casamento, com a autorização de seus
@@ -11183,20 +11177,19 @@ pessoa do outro.
 
 **Art. 1.557**. Considera-se erro essencial sobre a pessoa do outro cônjuge:
 
-I - o que diz respeito à sua identidade, sua honra e boa fama, sendo
+**I** - o que diz respeito à sua identidade, sua honra e boa fama, sendo
 esse erro tal que o seu conhecimento ulterior torne insuportável a vida
 em comum ao cônjuge enganado;
 
-II - a ignorância de crime, anterior ao casamento, que, por sua
+**II** - a ignorância de crime, anterior ao casamento, que, por sua
 natureza, torne insuportável a vida conjugal;
 
-III - a ignorância, anterior ao casamento, de defeito físico
+**III** - a ignorância, anterior ao casamento, de defeito físico
 irremediável que não caracterize deficiência ou de moléstia grave e
 transmissível, por contágio ou por herança, capaz de pôr em risco a
 saúde do outro cônjuge ou de sua descendência;
 
-IV -
-[(Revogado)](#).
+**IV** - [(Revogado)](#).
 
 **Art. 1.558**. É anulável o casamento em virtude de coação, quando o
 consentimento de um ou de ambos os cônjuges houver sido captado mediante
@@ -11211,13 +11204,13 @@ art. 1.557.
 **Art. 1.560**. O prazo para ser intentada a ação de anulação do casamento,
 a contar da data da celebração, é de:
 
-I - cento e oitenta dias, no caso do inciso IV do art. 1.550;
+**I** - cento e oitenta dias, no caso do inciso IV do art. 1.550;
 
-II - dois anos, se incompetente a autoridade celebrante;
+**II** - dois anos, se incompetente a autoridade celebrante;
 
-III - três anos, nos casos dos incisos I a IV do art. 1.557;
+**III** - três anos, nos casos dos incisos I a IV do art. 1.557;
 
-IV - quatro anos, se houver coação.
+**IV** - quatro anos, se houver coação.
 
 **§ 1º** Extingue-se, em cento e
 oitenta dias, o direito de anular o casamento dos menores de dezesseis
@@ -11255,9 +11248,9 @@ transitada em julgado.
 **Art. 1.564**. Quando o casamento for anulado por culpa de um dos cônjuges,
 este incorrerá:
 
-I - na perda de todas as vantagens havidas do cônjuge inocente;
+**I** - na perda de todas as vantagens havidas do cônjuge inocente;
 
-II - na obrigação de cumprir as promessas que lhe fez no contrato
+**II** - na obrigação de cumprir as promessas que lhe fez no contrato
 antenupcial.
 
 #### CAPÍTULO IX - Da Eficácia do Casamento
@@ -11275,15 +11268,15 @@ qualquer tipo de coerção por parte de instituições privadas ou públicas.
 
 **Art. 1.566**. São deveres de ambos os cônjuges:
 
-I - fidelidade recíproca;
+**I** - fidelidade recíproca;
 
-II - vida em comum, no domicílio conjugal;
+**II** - vida em comum, no domicílio conjugal;
 
-III - mútua assistência;
+**III** - mútua assistência;
 
-IV - sustento, guarda e educação dos filhos;
+**IV** - sustento, guarda e educação dos filhos;
 
-V - respeito e consideração mútuos.
+**V** - respeito e consideração mútuos.
 
 **Art. 1.567**. A direção da sociedade conjugal será exercida, em
 colaboração, pelo marido e pela mulher, sempre no interesse do casal e
@@ -11311,13 +11304,13 @@ da família, cabendo-lhe a administração dos bens.
 
 **Art. 1.571**. A sociedade conjugal termina:
 
-I - pela morte de um dos cônjuges;
+**I** - pela morte de um dos cônjuges;
 
-II - pela nulidade ou anulação do casamento;
+**II** - pela nulidade ou anulação do casamento;
 
-III - pela separação judicial;
+**III** - pela separação judicial;
 
-IV - pelo divórcio.
+**IV** - pelo divórcio.
 
 **§ 1º** O casamento válido só se
 dissolve pela morte de um dos cônjuges ou pelo divórcio, aplicando-se a
@@ -11351,17 +11344,17 @@ permitir, a meação dos adquiridos na constância da sociedade conjugal.
 **Art. 1.573**. Podem caracterizar a impossibilidade da comunhão de vida a
 ocorrência de algum dos seguintes motivos:
 
-I - adultério;
+**I** - adultério;
 
-II - tentativa de morte;
+**II** - tentativa de morte;
 
-III - sevícia ou injúria grave;
+**III** - sevícia ou injúria grave;
 
-IV - abandono voluntário do lar conjugal, durante um ano contínuo;
+**IV** - abandono voluntário do lar conjugal, durante um ano contínuo;
 
-V - condenação por crime infamante;
+**V** - condenação por crime infamante;
 
-VI - conduta desonrosa.
+**VI** - conduta desonrosa.
 
 **Parágrafo único.** O juiz poderá considerar outros fatos que tornem
 evidente a impossibilidade da vida em comum.
@@ -11399,12 +11392,12 @@ o regime de bens.
 perde o direito de usar o sobrenome do outro, desde que expressamente
 requerido pelo cônjuge inocente e se a alteração não acarretar:
 
-I - evidente prejuízo para a sua identificação;
+**I** - evidente prejuízo para a sua identificação;
 
-II - manifesta distinção entre o seu nome de família e o dos filhos
+**II** - manifesta distinção entre o seu nome de família e o dos filhos
 havidos da união dissolvida;
 
-III - dano grave reconhecido na decisão judicial.
+**III** - dano grave reconhecido na decisão judicial.
 
 **§ 1º** O cônjuge inocente na
 ação de separação judicial poderá renunciar, a qualquer momento, ao
@@ -11457,11 +11450,11 @@ o tempo de convívio com os filhos deve ser dividido de forma equilibrada
 com a mãe e com o pai, sempre tendo em vista as condições fáticas e os
 interesses dos filhos.
 
-I - (revogado);
+**I** - (revogado);
 
-II - (revogado);
+**II** - (revogado);
 
-III - (revogado).
+**III** - (revogado).
 
 **§ 3º** Na guarda compartilhada, a cidade considerada base de moradia dos
 filhos será aquela que melhor atender aos interesses dos filhos.
@@ -11478,11 +11471,11 @@ física e psicológica e a educação de seus filhos.
 **Art. 1.584**. A guarda, unilateral ou compartilhada, poderá
 ser:
 
-I – requerida, por consenso, pelo pai e pela mãe, ou por qualquer deles,
+**I** - requerida, por consenso, pelo pai e pela mãe, ou por qualquer deles,
 em ação autônoma de separação, de divórcio, de dissolução de união
 estável ou em medida cautelar;
 
-II – decretada pelo juiz, em atenção a necessidades específicas do
+**II** - decretada pelo juiz, em atenção a necessidades específicas do
 filho, ou em razão da distribuição de tempo necessário ao convívio deste
 com o pai e com a mãe.
 
@@ -11592,20 +11585,20 @@ designações discriminatórias relativas à filiação.
 
 **Art. 1.597**. Presumem-se concebidos na constância do casamento os filhos:
 
-I - nascidos cento e oitenta dias, pelo menos, depois de estabelecida a
+**I** - nascidos cento e oitenta dias, pelo menos, depois de estabelecida a
 convivência conjugal;
 
-II - nascidos nos trezentos dias subsequentes à dissolução da sociedade
+**II** - nascidos nos trezentos dias subsequentes à dissolução da sociedade
 conjugal, por morte, separação judicial, nulidade e anulação do
 casamento;
 
-III - havidos por fecundação artificial homóloga, mesmo que falecido o
+**III** - havidos por fecundação artificial homóloga, mesmo que falecido o
 marido;
 
-IV - havidos, a qualquer tempo, quando se tratar de embriões
+**IV** - havidos, a qualquer tempo, quando se tratar de embriões
 excedentários, decorrentes de concepção artificial homóloga;
 
-V - havidos por inseminação artificial heteróloga, desde que tenha
+**V** - havidos por inseminação artificial heteróloga, desde que tenha
 prévia autorização do marido.
 
 **Art. 1.598**. Salvo prova em contrário, se, antes de decorrido o prazo
@@ -11638,10 +11631,10 @@ registro de nascimento, salvo provando-se erro ou falsidade do registro.
 **Art. 1.605**. Na falta, ou defeito, do termo de nascimento, poderá
 provar-se a filiação por qualquer modo admissível em direito:
 
-I - quando houver começo de prova por escrito, proveniente dos pais,
+**I** - quando houver começo de prova por escrito, proveniente dos pais,
 conjunta ou separadamente;
 
-II - quando existirem veementes presunções resultantes de fatos já
+**II** - quando existirem veementes presunções resultantes de fatos já
 certos.
 
 **Art. 1.606**. A ação de prova de filiação compete ao filho, enquanto
@@ -11662,14 +11655,14 @@ das declarações nele contidas.
 **Art. 1.609**. O reconhecimento dos filhos havidos fora do casamento é
 irrevogável e será feito:
 
-I - no registro do nascimento;
+**I** - no registro do nascimento;
 
-II - por escritura pública ou escrito particular, a ser arquivado em
+**II** - por escritura pública ou escrito particular, a ser arquivado em
 cartório;
 
-III - por testamento, ainda que incidentalmente manifestado;
+**III** - por testamento, ainda que incidentalmente manifestado;
 
-IV - por manifestação direta e expressa perante o juiz, ainda que o
+**IV** - por manifestação direta e expressa perante o juiz, ainda que o
 reconhecimento não haja sido o objeto único e principal do ato que o
 contém.
 
@@ -11749,46 +11742,46 @@ dar-se-á tutor ao menor.
 conjugal, o pleno exercício do poder familiar, que consiste em, quanto
 aos filhos:
 
-I - dirigir-lhes a criação e a educação;
+**I** - dirigir-lhes a criação e a educação;
 
-II - exercer a guarda unilateral ou compartilhada nos termos do art.
+**II** - exercer a guarda unilateral ou compartilhada nos termos do art.
 1.584;
 
-III - conceder-lhes ou negar-lhes consentimento para casarem;
+**III** - conceder-lhes ou negar-lhes consentimento para casarem;
 
-IV - conceder-lhes ou negar-lhes consentimento para viajarem ao
+**IV** - conceder-lhes ou negar-lhes consentimento para viajarem ao
 exterior;
 
-V - conceder-lhes ou negar-lhes consentimento para mudarem sua
+**V** - conceder-lhes ou negar-lhes consentimento para mudarem sua
 residência permanente para outro Município;
 
-VI - nomear-lhes tutor por testamento ou documento autêntico, se o outro
+**VI** - nomear-lhes tutor por testamento ou documento autêntico, se o outro
 dos pais não lhe sobreviver, ou o sobrevivo não puder exercer o poder
 familiar;
 
-VII - representá-los judicial e extrajudicialmente até os 16 (dezesseis)
+**VII** - representá-los judicial e extrajudicialmente até os 16 (dezesseis)
 anos, nos atos da vida civil, e assisti-los, após essa idade, nos atos
 em que forem partes, suprindo-lhes o consentimento;
 
-VIII - reclamá-los de quem ilegalmente os detenha;
+**VIII** - reclamá-los de quem ilegalmente os detenha;
 
-IX - exigir que lhes prestem obediência, respeito e os serviços próprios
+**IX** - exigir que lhes prestem obediência, respeito e os serviços próprios
 de sua idade e condição.
 
 ##### Seção III - Da Suspensão e Extinção do Poder Familiar
 
 **Art. 1.635**. Extingue-se o poder familiar:
 
-I - pela morte dos pais ou do filho;
+**I** - pela morte dos pais ou do filho;
 
-II - pela emancipação, nos termos do art.
+**II** - pela emancipação, nos termos do art.
 5º, parágrafo único;
 
-III - pela maioridade;
+**III** - pela maioridade;
 
-IV - pela adoção;
+**IV** - pela adoção;
 
-V - por decisão judicial, na forma do artigo 1.638.
+**V** - por decisão judicial, na forma do artigo 1.638.
 
 Art 1.636. O pai ou a mãe que contrai novas núpcias, ou estabelece união
 estável, não perde, quanto aos filhos do relacionamento anterior, os
@@ -11811,16 +11804,16 @@ cuja pena exceda a dois anos de prisão.
 **Art. 1.638**. Perderá por ato judicial o poder familiar o pai ou a mãe
 que:
 
-I - castigar imoderadamente o filho;
+**I** - castigar imoderadamente o filho;
 
-II - deixar o filho em abandono;
+**II** - deixar o filho em abandono;
 
-III - praticar atos contrários à moral e aos bons costumes;
+**III** - praticar atos contrários à moral e aos bons costumes;
 
-IV - incidir, reiteradamente, nas faltas previstas no artigo
+**IV** - incidir, reiteradamente, nas faltas previstas no artigo
 antecedente.
 
-V - entregar de forma irregular o filho a terceiros para fins de
+**V** - entregar de forma irregular o filho a terceiros para fins de
 adoção.
 
 ### TÍTULO II -Do Direito Patrimonial
@@ -11852,43 +11845,43 @@ antenupcial por escritura pública, nas demais escolhas.
 
 **Art. 1.641**. É obrigatório o regime da separação de bens no casamento:
 
-I - das pessoas que o contraírem com inobservância das causas
+**I** - das pessoas que o contraírem com inobservância das causas
 suspensivas da celebração do casamento;
 
-II – da pessoa maior de 70 (setenta) anos;
+**II** - da pessoa maior de 70 (setenta) anos;
 
-III - de todos os que dependerem, para casar, de suprimento judicial.
+**III** - de todos os que dependerem, para casar, de suprimento judicial.
 
 **Art. 1.642**. Qualquer que seja o regime de bens, tanto o marido quanto a
 mulher podem livremente:
 
-I - praticar todos os atos de disposição e de administração necessários
-ao desempenho de sua profissão, com as limitações estabelecida no inciso
-I do art. 1.647;
+I. praticar todos os atos de disposição e de administração necessários
+ao desempenho de sua profissão, com as limitações estabelecida no inciso I
+do art. 1.647;
 
-II - administrar os bens próprios;
+**II** - administrar os bens próprios;
 
-III - desobrigar ou reivindicar os imóveis que tenham sido gravados ou
+**III** - desobrigar ou reivindicar os imóveis que tenham sido gravados ou
 alienados sem o seu consentimento ou sem suprimento judicial;
 
-IV - demandar a rescisão dos contratos de fiança e doação, ou a
+**IV** - demandar a rescisão dos contratos de fiança e doação, ou a
 invalidação do aval, realizados pelo outro cônjuge com infração do
 disposto nos incisos III e IV do art. 1.647;
 
-V - reivindicar os bens comuns, móveis ou imóveis, doados ou
+**V** - reivindicar os bens comuns, móveis ou imóveis, doados ou
 transferidos pelo outro cônjuge ao concubino, desde que provado que os
 bens não foram adquiridos pelo esforço comum destes, se o casal estiver
 separado de fato por mais de cinco anos;
 
-VI - praticar todos os atos que não lhes forem vedados expressamente.
+**VI** - praticar todos os atos que não lhes forem vedados expressamente.
 
 **Art. 1.643**. Podem os cônjuges, independentemente de autorização um do
 outro:
 
-I - comprar, ainda a crédito, as coisas necessárias à economia
+**I** - comprar, ainda a crédito, as coisas necessárias à economia
 doméstica;
 
-II - obter, por empréstimo, as quantias que a aquisição dessas coisas
+**II** - obter, por empréstimo, as quantias que a aquisição dessas coisas
 possa exigir.
 
 **Art. 1.644**. As dívidas contraídas para os fins do artigo antecedente
@@ -11904,13 +11897,13 @@ contra o cônjuge, que realizou o negócio jurídico, ou seus herdeiros.
 **Art. 1.647**. Ressalvado o disposto no art. 1.648, nenhum dos cônjuges
 pode, sem autorização do outro, exceto no regime da separação absoluta:
 
-I - alienar ou gravar de ônus real os bens imóveis;
+**I** - alienar ou gravar de ônus real os bens imóveis;
 
-II - pleitear, como autor ou réu, acerca desses bens ou direitos;
+**II** - pleitear, como autor ou réu, acerca desses bens ou direitos;
 
-III - prestar fiança ou aval;
+**III** - prestar fiança ou aval;
 
-IV - fazer doação, não sendo remuneratória, de bens comuns, ou dos que
+**IV** - fazer doação, não sendo remuneratória, de bens comuns, ou dos que
 possam integrar futura meação.
 
 **Parágrafo único.** São válidas as doações nupciais feitas aos filhos
@@ -11935,22 +11928,22 @@ pelo cônjuge a quem cabia concedê-la, ou por seus herdeiros.
 **Art. 1.651**. Quando um dos cônjuges não puder exercer a administração dos
 bens que lhe incumbe, segundo o regime de bens, caberá ao outro:
 
-I - gerir os bens comuns e os do consorte;
+**I** - gerir os bens comuns e os do consorte;
 
-II - alienar os bens móveis comuns;
+**II** - alienar os bens móveis comuns;
 
-III - alienar os imóveis comuns e os móveis ou imóveis do consorte,
+**III** - alienar os imóveis comuns e os móveis ou imóveis do consorte,
 mediante autorização judicial.
 
 **Art. 1.652**. O cônjuge, que estiver na posse dos bens particulares do
 outro, será para com este e seus herdeiros responsável:
 
-I - como usufrutuário, se o rendimento for comum;
+**I** - como usufrutuário, se o rendimento for comum;
 
-II - como procurador, se tiver mandato expresso ou tácito para os
+**II** - como procurador, se tiver mandato expresso ou tácito para os
 administrar;
 
-III - como depositário, se não for usufrutuário, nem administrador.
+**III** - como depositário, se não for usufrutuário, nem administrador.
 
 #### CAPÍTULO II - Do Pacto Antenupcial
 
@@ -11980,38 +11973,38 @@ artigos seguintes.
 
 **Art. 1.659**. Excluem-se da comunhão:
 
-I - os bens que cada cônjuge possuir ao casar, e os que lhe sobrevierem,
+**I** - os bens que cada cônjuge possuir ao casar, e os que lhe sobrevierem,
 na constância do casamento, por doação ou sucessão, e os sub-rogados em
 seu lugar;
 
-II - os bens adquiridos com valores exclusivamente pertencentes a um dos
+**II** - os bens adquiridos com valores exclusivamente pertencentes a um dos
 cônjuges em sub-rogação dos bens particulares;
 
-III - as obrigações anteriores ao casamento;
+**III** - as obrigações anteriores ao casamento;
 
-IV - as obrigações provenientes de atos ilícitos, salvo reversão em
+**IV** - as obrigações provenientes de atos ilícitos, salvo reversão em
 proveito do casal;
 
-V - os bens de uso pessoal, os livros e instrumentos de profissão;
+**V** - os bens de uso pessoal, os livros e instrumentos de profissão;
 
-VI - os proventos do trabalho pessoal de cada cônjuge;
+**VI** - os proventos do trabalho pessoal de cada cônjuge;
 
-VII - as pensões, meios-soldos, montepios e outras rendas semelhantes.
+**VII** - as pensões, meios-soldos, montepios e outras rendas semelhantes.
 
 **Art. 1.660**. Entram na comunhão:
 
-I - os bens adquiridos na constância do casamento por título oneroso,
+**I** - os bens adquiridos na constância do casamento por título oneroso,
 ainda que só em nome de um dos cônjuges;
 
-II - os bens adquiridos por fato eventual, com ou sem o concurso de
+**II** - os bens adquiridos por fato eventual, com ou sem o concurso de
 trabalho ou despesa anterior;
 
-III - os bens adquiridos por doação, herança ou legado, em favor de
+**III** - os bens adquiridos por doação, herança ou legado, em favor de
 ambos os cônjuges;
 
-IV - as benfeitorias em bens particulares de cada cônjuge;
+**IV** - as benfeitorias em bens particulares de cada cônjuge;
 
-V - os frutos dos bens comuns, ou dos particulares de cada cônjuge,
+**V** - os frutos dos bens comuns, ou dos particulares de cada cônjuge,
 percebidos na constância do casamento, ou pendentes ao tempo de cessar a
 comunhão.
 
@@ -12058,19 +12051,19 @@ com as exceções do artigo seguinte.
 
 **Art. 1.668**. São excluídos da comunhão:
 
-I - os bens doados ou herdados com a cláusula de incomunicabilidade e os
+**I** - os bens doados ou herdados com a cláusula de incomunicabilidade e os
 sub-rogados em seu lugar;
 
-II - os bens gravados de fideicomisso e o direito do herdeiro
+**II** - os bens gravados de fideicomisso e o direito do herdeiro
 fideicomissário, antes de realizada a condição suspensiva;
 
-III - as dívidas anteriores ao casamento, salvo se provierem de despesas
+**III** - as dívidas anteriores ao casamento, salvo se provierem de despesas
 com seus aprestos, ou reverterem em proveito comum;
 
-IV - as doações antenupciais feitas por um dos cônjuges ao outro com a
+**IV** - as doações antenupciais feitas por um dos cônjuges ao outro com a
 cláusula de incomunicabilidade;
 
-V - Os bens referidos nos incisos V a VII do art. 1.659.
+**V** - Os bens referidos nos incisos V a VII do art. 1.659.
 
 **Art. 1.669**. A incomunicabilidade dos bens enumerados no artigo
 antecedente não se estende aos frutos, quando se percebam ou vençam
@@ -12101,12 +12094,12 @@ cônjuge, que os poderá livremente alienar, se forem móveis.
 **Art. 1.674**. Sobrevindo a dissolução da sociedade conjugal, apurar-se-á o
 montante dos aqüestos, excluindo-se da soma dos patrimônios próprios:
 
-I - os bens anteriores ao casamento e os que em seu lugar se
+**I** - os bens anteriores ao casamento e os que em seu lugar se
 sub-rogaram;
 
-II - os que sobrevieram a cada cônjuge por sucessão ou liberalidade;
+**II** - os que sobrevieram a cada cônjuge por sucessão ou liberalidade;
 
-III - as dívidas relativas a esses bens.
+**III** - as dívidas relativas a esses bens.
 
 **Parágrafo único.** Salvo prova em contrário, presumem-se adquiridos
 durante o casamento os bens móveis.
@@ -12180,9 +12173,9 @@ Do Usufruto e da Administração dos Bens de Filhos Menores
 
 **Art. 1.689**. O pai e a mãe, enquanto no exercício do poder familiar:
 
-I - são usufrutuários dos bens dos filhos;
+**I** - são usufrutuários dos bens dos filhos;
 
-II - têm a administração dos bens dos filhos menores sob sua autoridade.
+**II** - têm a administração dos bens dos filhos menores sob sua autoridade.
 
 **Art. 1.690**. Compete aos pais, e na falta de um deles ao outro, com
 exclusividade, representar os filhos menores de dezesseis anos, bem como
@@ -12200,11 +12193,11 @@ interesse da prole, mediante prévia autorização do juiz.
 **Parágrafo único.** Podem pleitear a declaração de nulidade dos atos
 previstos neste artigo:
 
-I - os filhos;
+**I** - os filhos;
 
-II - os herdeiros;
+**II** - os herdeiros;
 
-III - o representante legal.
+**III** - o representante legal.
 
 **Art. 1.692**. Sempre que no exercício do poder familiar colidir o
 interesse dos pais com o do filho, a requerimento deste ou do Ministério
@@ -12212,17 +12205,17 @@ Público o juiz lhe dará curador especial.
 
 **Art. 1.693**. Excluem-se do usufruto e da administração dos pais:
 
-I - os bens adquiridos pelo filho havido fora do casamento, antes do
+**I** - os bens adquiridos pelo filho havido fora do casamento, antes do
 reconhecimento;
 
-II - os valores auferidos pelo filho maior de dezesseis anos, no
+**II** - os valores auferidos pelo filho maior de dezesseis anos, no
 exercício de atividade profissional e os bens com tais recursos
 adquiridos;
 
-III - os bens deixados ou doados ao filho, sob a condição de não serem
+**III** - os bens deixados ou doados ao filho, sob a condição de não serem
 usufruídos, ou administrados, pelos pais;
 
-IV - os bens que aos filhos couberem na herança, quando os pais forem
+**IV** - os bens que aos filhos couberem na herança, quando os pais forem
 excluídos da sucessão.
 
 ### SUBTÍTULO III  
@@ -12442,9 +12435,9 @@ impedidos de casar, constituem concubinato.
 
 **Art. 1.728**. Os filhos menores são postos em tutela:
 
-I - com o falecimento dos pais, ou sendo estes julgados ausentes;
+**I** - com o falecimento dos pais, ou sendo estes julgados ausentes;
 
-II - em caso de os pais decaírem do poder familiar.
+**II** - em caso de os pais decaírem do poder familiar.
 
 **Art. 1.729**. O direito de nomear tutor compete aos pais, em conjunto.
 
@@ -12457,9 +12450,9 @@ tempo de sua morte, não tinha o poder familiar.
 **Art. 1.731**. Em falta de tutor nomeado pelos pais incumbe a tutela aos
 parentes consangüíneos do menor, por esta ordem:
 
-I - aos ascendentes, preferindo o de grau mais próximo ao mais remoto;
+**I** - aos ascendentes, preferindo o de grau mais próximo ao mais remoto;
 
-II - aos colaterais até o terceiro grau, preferindo os mais próximos aos
+**II** - aos colaterais até o terceiro grau, preferindo os mais próximos aos
 mais remotos, e, no mesmo grau, os mais velhos aos mais moços; em
 qualquer dos casos, o juiz escolherá entre eles o mais apto a exercer a
 tutela em benefício do menor.
@@ -12467,11 +12460,11 @@ tutela em benefício do menor.
 **Art. 1.732**. O juiz nomeará tutor idôneo e residente no domicílio do
 menor:
 
-I - na falta de tutor testamentário ou legítimo;
+**I** - na falta de tutor testamentário ou legítimo;
 
-II - quando estes forem excluídos ou escusados da tutela;
+**II** - quando estes forem excluídos ou escusados da tutela;
 
-III - quando removidos por não idôneos o tutor legítimo e o
+**III** - quando removidos por não idôneos o tutor legítimo e o
 testamentário.
 
 **Art. 1.733**. Aos irmãos órfãos dar-se-á um só tutor.
@@ -12499,43 +12492,43 @@ nº 8.069, de 13 de julho de
 **Art. 1.735**. Não podem ser tutores e serão exonerados da tutela, caso a
 exerçam:
 
-I - aqueles que não tiverem a livre administração de seus bens;
+**I** - aqueles que não tiverem a livre administração de seus bens;
 
-II - aqueles que, no momento de lhes ser deferida a tutela, se acharem
+**II** - aqueles que, no momento de lhes ser deferida a tutela, se acharem
 constituídos em obrigação para com o menor, ou tiverem que fazer valer
 direitos contra este, e aqueles cujos pais, filhos ou cônjuges tiverem
 demanda contra o menor;
 
-III - os inimigos do menor, ou de seus pais, ou que tiverem sido por
+**III** - os inimigos do menor, ou de seus pais, ou que tiverem sido por
 estes expressamente excluídos da tutela;
 
-IV - os condenados por crime de furto, roubo, estelionato, falsidade,
+**IV** - os condenados por crime de furto, roubo, estelionato, falsidade,
 contra a família ou os costumes, tenham ou não cumprido pena;
 
-V - as pessoas de mau procedimento, ou falhas em probidade, e as
+**V** - as pessoas de mau procedimento, ou falhas em probidade, e as
 culpadas de abuso em tutorias anteriores;
 
-VI - aqueles que exercerem função pública incompatível com a boa
+**VI** - aqueles que exercerem função pública incompatível com a boa
 administração da tutela.
 
 ##### Seção III - Da Escusa dos Tutores
 
 **Art. 1.736**. Podem escusar-se da tutela:
 
-I - mulheres casadas;
+**I** - mulheres casadas;
 
-II - maiores de sessenta anos;
+**II** - maiores de sessenta anos;
 
-III - aqueles que tiverem sob sua autoridade mais de três filhos;
+**III** - aqueles que tiverem sob sua autoridade mais de três filhos;
 
-IV - os impossibilitados por enfermidade;
+**IV** - os impossibilitados por enfermidade;
 
-V - aqueles que habitarem longe do lugar onde se haja de exercer a
+**V** - aqueles que habitarem longe do lugar onde se haja de exercer a
 tutela;
 
-VI - aqueles que já exercerem tutela ou curatela;
+**VI** - aqueles que já exercerem tutela ou curatela;
 
-VII - militares em serviço.
+**VII** - militares em serviço.
 
 **Art. 1.737**. Quem não for parente do menor não poderá ser obrigado a
 aceitar a tutela, se houver no lugar parente idôneo, consangüíneo ou
@@ -12554,13 +12547,13 @@ logo pelas perdas e danos que o menor venha a sofrer.
 
 **Art. 1.740**. Incumbe ao tutor, quanto à pessoa do menor:
 
-I - dirigir-lhe a educação, defendê-lo e prestar-lhe alimentos, conforme
+**I** - dirigir-lhe a educação, defendê-lo e prestar-lhe alimentos, conforme
 os seus haveres e condição;
 
-II - reclamar do juiz que providencie, como houver por bem, quando o
+**II** - reclamar do juiz que providencie, como houver por bem, quando o
 menor haja mister correção;
 
-III - adimplir os demais deveres que normalmente cabem aos pais, ouvida
+**III** - adimplir os demais deveres que normalmente cabem aos pais, ouvida
 a opinião do menor, se este já contar doze anos de idade.
 
 **Art. 1.741**. Incumbe ao tutor, sob a inspeção do juiz, administrar os
@@ -12578,10 +12571,10 @@ parcial da tutela.
 
 **Art. 1.744**. A responsabilidade do juiz será:
 
-I - direta e pessoal, quando não tiver nomeado o tutor, ou não o houver
+**I** - direta e pessoal, quando não tiver nomeado o tutor, ou não o houver
 feito oportunamente;
 
-II - subsidiária, quando não tiver exigido garantia legal do tutor, nem
+**II** - subsidiária, quando não tiver exigido garantia legal do tutor, nem
 o removido, tanto que se tornou suspeito.
 
 **Art. 1.745**. Os bens do menor serão entregues ao tutor mediante termo
@@ -12599,32 +12592,32 @@ quando o pai ou a mãe não as houver fixado.
 
 **Art. 1.747**. Compete mais ao tutor:
 
-I - representar o menor, até os dezesseis anos, nos atos da vida civil,
+**I** - representar o menor, até os dezesseis anos, nos atos da vida civil,
 e assisti-lo, após essa idade, nos atos em que for parte;
 
-II - receber as rendas e pensões do menor, e as quantias a ele devidas;
+**II** - receber as rendas e pensões do menor, e as quantias a ele devidas;
 
-III - fazer-lhe as despesas de subsistência e educação, bem como as de
+**III** - fazer-lhe as despesas de subsistência e educação, bem como as de
 administração, conservação e melhoramentos de seus bens;
 
-IV - alienar os bens do menor destinados a venda;
+**IV** - alienar os bens do menor destinados a venda;
 
-V - promover-lhe, mediante preço conveniente, o arrendamento de bens de
+**V** - promover-lhe, mediante preço conveniente, o arrendamento de bens de
 raiz.
 
 **Art. 1.748**. Compete também ao tutor, com autorização do juiz:
 
-I - pagar as dívidas do menor;
+**I** - pagar as dívidas do menor;
 
-II - aceitar por ele heranças, legados ou doações, ainda que com
+**II** - aceitar por ele heranças, legados ou doações, ainda que com
 encargos;
 
-III - transigir;
+**III** - transigir;
 
-IV - vender-lhe os bens móveis, cuja conservação não convier, e os
+**IV** - vender-lhe os bens móveis, cuja conservação não convier, e os
 imóveis nos casos em que for permitido;
 
-V - propor em juízo as ações, ou nelas assistir o menor, e promover
+**V** - propor em juízo as ações, ou nelas assistir o menor, e promover
 todas as diligências a bem deste, assim como defendê-lo nos pleitos
 contra ele movidos.
 
@@ -12634,12 +12627,12 @@ tutor depende da aprovação ulterior do juiz.
 **Art. 1.749**. Ainda com a autorização judicial, não pode o tutor, sob pena
 de nulidade:
 
-I - adquirir por si, ou por interposta pessoa, mediante contrato
+**I** - adquirir por si, ou por interposta pessoa, mediante contrato
 particular, bens móveis ou imóveis pertencentes ao menor;
 
-II - dispor dos bens do menor a título gratuito;
+**II** - dispor dos bens do menor a título gratuito;
 
-III - constituir-se cessionário de crédito ou de direito, contra o
+**III** - constituir-se cessionário de crédito ou de direito, contra o
 menor.
 
 **Art. 1.750**. Os imóveis pertencentes aos menores sob tutela somente podem
@@ -12689,17 +12682,17 @@ obrigação, que o juiz fará efetiva, da referida aplicação.
 oficial, na forma do artigo antecedente, não se poderão retirar, senão
 mediante ordem do juiz, e somente:
 
-I - para as despesas com o sustento e educação do tutelado, ou a
+**I** - para as despesas com o sustento e educação do tutelado, ou a
 administração de seus bens;
 
-II - para se comprarem bens imóveis e títulos, obrigações ou letras, nas
+**II** - para se comprarem bens imóveis e títulos, obrigações ou letras, nas
 condições previstas no § 1º do
 artigo antecedente;
 
-III - para se empregarem em conformidade com o disposto por quem os
+**III** - para se empregarem em conformidade com o disposto por quem os
 houver doado, ou deixado;
 
-IV - para se entregarem aos órfãos, quando emancipados, ou maiores, ou,
+**IV** - para se entregarem aos órfãos, quando emancipados, ou maiores, ou,
 mortos eles, aos seus herdeiros.
 
 ##### Seção VI - Da Prestação de Contas
@@ -12742,18 +12735,18 @@ contas.
 
 **Art. 1.763**. Cessa a condição de tutelado:
 
-I - com a maioridade ou a emancipação do menor;
+**I** - com a maioridade ou a emancipação do menor;
 
-II - ao cair o menor sob o poder familiar, no caso de reconhecimento ou
+**II** - ao cair o menor sob o poder familiar, no caso de reconhecimento ou
 adoção.
 
 **Art. 1.764**. Cessam as funções do tutor:
 
-I - ao expirar o termo, em que era obrigado a servir;
+**I** - ao expirar o termo, em que era obrigado a servir;
 
-II - ao sobrevir escusa legítima;
+**II** - ao sobrevir escusa legítima;
 
-III - ao ser removido.
+**III** - ao ser removido.
 
 **Art. 1.765**. O tutor é obrigado a servir por espaço de dois anos.
 
@@ -12770,18 +12763,16 @@ incurso em incapacidade.
 
 **Art. 1.767**. Estão sujeitos a curatela:
 
-I - aqueles que, por causa transitória ou permanente, não puderem
+**I** - aqueles que, por causa transitória ou permanente, não puderem
 exprimir sua vontade;
 
-II -
-[(Revogado)](#);
+**II** - [(Revogado)](#);
 
-III - os ébrios habituais e os viciados em tóxico;
+**III** - os ébrios habituais e os viciados em tóxico;
 
-IV -
-[(Revogado)](#);
+**IV** - [(Revogado)](#);
 
-V - os pródigos.
+**V** - os pródigos.
 
 **Art. 1.768**. [(Revogado pela Lei n º 13.105, de
 2015)](#)
@@ -12951,16 +12942,16 @@ nº 646.721)](http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?inc
 [(Vide Recurso Extraordinário
 nº 878.694)](http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4744004)
 
-I - se concorrer com filhos comuns, terá direito a uma quota equivalente
+**I** - se concorrer com filhos comuns, terá direito a uma quota equivalente
 à que por lei for atribuída ao filho;
 
-II - se concorrer com descendentes só do autor da herança, tocar-lhe-á a
+**II** - se concorrer com descendentes só do autor da herança, tocar-lhe-á a
 metade do que couber a cada um daqueles;
 
-III - se concorrer com outros parentes sucessíveis, terá direito a um
+**III** - se concorrer com outros parentes sucessíveis, terá direito a um
 terço da herança;
 
-IV - não havendo parentes sucessíveis, terá direito à totalidade da
+**IV** - não havendo parentes sucessíveis, terá direito à totalidade da
 herança.
 
 #### CAPÍTULO II - Da Herança e de sua Administração
@@ -13011,15 +13002,15 @@ caso, de partilha da herança.
 **Art. 1.797**. Até o compromisso do inventariante, a administração da
 herança caberá, sucessivamente:
 
-I - ao cônjuge ou companheiro, se com o outro convivia ao tempo da
+**I** - ao cônjuge ou companheiro, se com o outro convivia ao tempo da
 abertura da sucessão;
 
-II - ao herdeiro que estiver na posse e administração dos bens, e, se
+**II** - ao herdeiro que estiver na posse e administração dos bens, e, se
 houver mais de um nessas condições, ao mais velho;
 
-III - ao testamenteiro;
+**III** - ao testamenteiro;
 
-IV - a pessoa de confiança do juiz, na falta ou escusa das indicadas nos
+**IV** - a pessoa de confiança do juiz, na falta ou escusa das indicadas nos
 incisos antecedentes, ou quando tiverem de ser afastadas por motivo
 grave levado ao conhecimento do juiz.
 
@@ -13031,12 +13022,12 @@ no momento da abertura da sucessão.
 **Art. 1.799**. Na sucessão testamentária podem ainda ser chamados a
 suceder:
 
-I - os filhos, ainda não concebidos, de pessoas indicadas pelo testador,
+**I** - os filhos, ainda não concebidos, de pessoas indicadas pelo testador,
 desde que vivas estas ao abrir-se a sucessão;
 
-II - as pessoas jurídicas;
+**II** - as pessoas jurídicas;
 
-III - as pessoas jurídicas, cuja organização for determinada pelo
+**III** - as pessoas jurídicas, cuja organização for determinada pelo
 testador sob a forma de fundação.
 
 **Art. 1.800**. No caso do inciso I do artigo antecedente, os bens da
@@ -13063,15 +13054,15 @@ herdeiros legítimos.
 
 **Art. 1.801**. Não podem ser nomeados herdeiros nem legatários:
 
-I - a pessoa que, a rogo, escreveu o testamento, nem o seu cônjuge ou
+**I** - a pessoa que, a rogo, escreveu o testamento, nem o seu cônjuge ou
 companheiro, ou os seus ascendentes e irmãos;
 
-II - as testemunhas do testamento;
+**II** - as testemunhas do testamento;
 
-III - o concubino do testador casado, salvo se este, sem culpa sua,
+**III** - o concubino do testador casado, salvo se este, sem culpa sua,
 estiver separado de fato do cônjuge há mais de cinco anos;
 
-IV - o tabelião, civil ou militar, ou o comandante ou escrivão, perante
+**IV** - o tabelião, civil ou militar, ou o comandante ou escrivão, perante
 quem se fizer, assim como o que fizer ou aprovar o testamento.
 
 **Art. 1.802**. São nulas as disposições testamentárias em favor de pessoas
@@ -13161,15 +13152,15 @@ devolvido aos demais herdeiros.
 
 **Art. 1.814**. São excluídos da sucessão os herdeiros ou legatários:
 
-I - que houverem sido autores, co-autores ou partícipes de homicídio
+**I** - que houverem sido autores, co-autores ou partícipes de homicídio
 doloso, ou tentativa deste, contra a pessoa de cuja sucessão se tratar,
 seu cônjuge, companheiro, ascendente ou descendente;
 
-II - que houverem acusado caluniosamente em juízo o autor da herança ou
+**II** - que houverem acusado caluniosamente em juízo o autor da herança ou
 incorrerem em crime contra a sua honra, ou de seu cônjuge ou
 companheiro;
 
-III - que, por violência ou meios fraudulentos, inibirem ou obstarem o
+**III** - que, por violência ou meios fraudulentos, inibirem ou obstarem o
 autor da herança de dispor livremente de seus bens por ato de última
 vontade.
 
@@ -13275,17 +13266,17 @@ nº 646.721)](http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?inc
 [(Vide Recurso Extraordinário
 nº 878.694)](http://www.stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4744004)
 
-I - aos descendentes, em concorrência com o cônjuge sobrevivente, salvo
+**I** - aos descendentes, em concorrência com o cônjuge sobrevivente, salvo
 se casado este com o falecido no regime da comunhão universal, ou no da
 separação obrigatória de bens (art. 1.640, parágrafo único); ou se, no
 regime da comunhão parcial, o autor da herança não houver deixado bens
 particulares;
 
-II - aos ascendentes, em concorrência com o cônjuge;
+**II** - aos ascendentes, em concorrência com o cônjuge;
 
-III - ao cônjuge sobrevivente;
+**III** - ao cônjuge sobrevivente;
 
-IV - aos colaterais.
+**IV** - aos colaterais.
 
 **Art. 1.830**. Somente é reconhecido direito sucessório ao cônjuge
 sobrevivente se, ao tempo da morte do outro, não estavam separados
@@ -13455,11 +13446,11 @@ da capacidade.
 
 **Art. 1.862**. São testamentos ordinários:
 
-I - o público;
+**I** - o público;
 
-II - o cerrado;
+**II** - o cerrado;
 
-III - o particular.
+**III** - o particular.
 
 **Art. 1.863**. É proibido o testamento conjuntivo, seja simultâneo,
 recíproco ou correspectivo.
@@ -13468,15 +13459,15 @@ recíproco ou correspectivo.
 
 **Art. 1.864**. São requisitos essenciais do testamento público:
 
-I - ser escrito por tabelião ou por seu substituto legal em seu livro de
+**I** - ser escrito por tabelião ou por seu substituto legal em seu livro de
 notas, de acordo com as declarações do testador, podendo este servir-se
 de minuta, notas ou apontamentos;
 
-II - lavrado o instrumento, ser lido em voz alta pelo tabelião ao
+**II** - lavrado o instrumento, ser lido em voz alta pelo tabelião ao
 testador e a duas testemunhas, a um só tempo; ou pelo testador, se o
 quiser, na presença destas e do oficial;
 
-III - ser o instrumento, em seguida à leitura, assinado pelo testador,
+**III** - ser o instrumento, em seguida à leitura, assinado pelo testador,
 pelas testemunhas e pelo tabelião.
 
 **Parágrafo único.** O testamento público pode ser escrito manualmente ou
@@ -13503,16 +13494,16 @@ fazendo-se de tudo circunstanciada menção no testamento.
 seu rogo, e por aquele assinado, será válido se aprovado pelo tabelião
 ou seu substituto legal, observadas as seguintes formalidades:
 
-I - que o testador o entregue ao tabelião em presença de duas
+**I** - que o testador o entregue ao tabelião em presença de duas
 testemunhas;
 
-II - que o testador declare que aquele é o seu testamento e quer que
+**II** - que o testador declare que aquele é o seu testamento e quer que
 seja aprovado;
 
-III - que o tabelião lavre, desde logo, o auto de aprovação, na presença
+**III** - que o tabelião lavre, desde logo, o auto de aprovação, na presença
 de duas testemunhas, e o leia, em seguida, ao testador e testemunhas;
 
-IV - que o auto de aprovação seja assinado pelo tabelião, pelas
+**IV** - que o auto de aprovação seja assinado pelo tabelião, pelas
 testemunhas e pelo testador.
 
 **Parágrafo único.** O testamento cerrado pode ser escrito mecanicamente,
@@ -13611,11 +13602,11 @@ o testamento cerrado.
 
 **Art. 1.886**. São testamentos especiais:
 
-I - o marítimo;
+**I** - o marítimo;
 
-II - o aeronáutico;
+**II** - o aeronáutico;
 
-III - o militar.
+**III** - o militar.
 
 **Art. 1.887**. Não se admitem outros testamentos especiais além dos
 contemplados neste Código.
@@ -13704,29 +13695,29 @@ observância da vontade do testador.
 
 **Art. 1.900**. É nula a disposição:
 
-I - que institua herdeiro ou legatário sob a condição captatória de que
+**I** - que institua herdeiro ou legatário sob a condição captatória de que
 este disponha, também por testamento, em benefício do testador, ou de
 terceiro;
 
-II - que se refira a pessoa incerta, cuja identidade não se possa
+**II** - que se refira a pessoa incerta, cuja identidade não se possa
 averiguar;
 
-III - que favoreça a pessoa incerta, cometendo a determinação de sua
+**III** - que favoreça a pessoa incerta, cometendo a determinação de sua
 identidade a terceiro;
 
-IV - que deixe a arbítrio do herdeiro, ou de outrem, fixar o valor do
+**IV** - que deixe a arbítrio do herdeiro, ou de outrem, fixar o valor do
 legado;
 
-V - que favoreça as pessoas a que se referem os arts. 1.801 e 1.802.
+**V** - que favoreça as pessoas a que se referem os arts. 1.801 e 1.802.
 
 **Art. 1.901**. Valerá a disposição:
 
-I - em favor de pessoa incerta que deva ser determinada por terceiro,
+**I** - em favor de pessoa incerta que deva ser determinada por terceiro,
 dentre duas ou mais pessoas mencionadas pelo testador, ou pertencentes a
 uma família, ou a um corpo coletivo, ou a um estabelecimento por ele
 designado;
 
-II - em remuneração de serviços prestados ao testador, por ocasião da
+**II** - em remuneração de serviços prestados ao testador, por ocasião da
 moléstia de que faleceu, ainda que fique ao arbítrio do herdeiro ou de
 outrem determinar o valor do legado.
 
@@ -13928,19 +13919,19 @@ neste Código quanto às doações de igual natureza.
 
 **Art. 1.939**. Caducará o legado:
 
-I - se, depois do testamento, o testador modificar a coisa legada, ao
+**I** - se, depois do testamento, o testador modificar a coisa legada, ao
 ponto de já não ter a forma nem lhe caber a denominação que possuía;
 
-II - se o testador, por qualquer título, alienar no todo ou em parte a
+**II** - se o testador, por qualquer título, alienar no todo ou em parte a
 coisa legada; nesse caso, caducará até onde ela deixou de pertencer ao
 testador;
 
-III - se a coisa perecer ou for evicta, vivo ou morto o testador, sem
+**III** - se a coisa perecer ou for evicta, vivo ou morto o testador, sem
 culpa do herdeiro ou legatário incumbido do seu cumprimento;
 
-IV - se o legatário for excluído da sucessão, nos termos do art. 1.815;
+**IV** - se o legatário for excluído da sucessão, nos termos do art. 1.815;
 
-V - se o legatário falecer antes do testador.
+**V** - se o legatário falecer antes do testador.
 
 **Art. 1.940**. Se o legado for de duas ou mais coisas alternativamente, e
 algumas delas perecerem, subsistirá quanto às restantes; perecendo parte
@@ -14070,25 +14061,25 @@ ou deserdados, em todos os casos em que podem ser excluídos da sucessão.
 **Art. 1.962**. Além das causas mencionadas no art. 1.814, autorizam a
 deserdação dos descendentes por seus ascendentes:
 
-I - ofensa física;
+**I** - ofensa física;
 
-II - injúria grave;
+**II** - injúria grave;
 
-III - relações ilícitas com a madrasta ou com o padrasto;
+**III** - relações ilícitas com a madrasta ou com o padrasto;
 
-IV - desamparo do ascendente em alienação mental ou grave enfermidade.
+**IV** - desamparo do ascendente em alienação mental ou grave enfermidade.
 
 **Art. 1.963**. Além das causas enumeradas no art. 1.814, autorizam a
 deserdação dos ascendentes pelos descendentes:
 
-I - ofensa física;
+**I** - ofensa física;
 
-II - injúria grave;
+**II** - injúria grave;
 
-III - relações ilícitas com a mulher ou companheira do filho ou a do
+**III** - relações ilícitas com a mulher ou companheira do filho ou a do
 neto, ou com o marido ou companheiro da filha ou o da neta;
 
-IV - desamparo do filho ou neto com deficiência mental ou grave
+**IV** - desamparo do filho ou neto com deficiência mental ou grave
 enfermidade.
 
 **Art. 1.964**. Somente com expressa declaração de causa pode a deserdação
@@ -14547,10 +14538,10 @@ nº 3.071, de
 **§ 1º** Nos aforamentos a que se
 refere este artigo é defeso:
 
-I - cobrar laudêmio ou prestação análoga nas transmissões de bem
+**I** - cobrar laudêmio ou prestação análoga nas transmissões de bem
 aforado, sobre o valor das construções ou plantações;
 
-II - constituir subenfiteuse.
+**II** - constituir subenfiteuse.
 
 **§ 2º** A enfiteuse dos terrenos
 de marinha e acrescidos regula-se por lei especial.
