@@ -37,7 +37,7 @@ Do ponto de vista editorial os *ordinais masculinos sublinhados* podem ser expre
 
 ### Preparo no p04-format 
 
-Primeira etapa, já realizada, ver [commit/084035f](https://github.com/ppKrauss/transcri-lex/commit/084035f4c9dd07d1e986ef9d2fc3e84f5852dfcb#diff-dc048e1267b5e68a0e009a6a1c0d3dee).
+Primeira etapa, **marcação das seções**. Já realizada, ver [commit/084035f](https://github.com/ppKrauss/transcri-lex/commit/084035f4c9dd07d1e986ef9d2fc3e84f5852dfcb#diff-dc048e1267b5e68a0e009a6a1c0d3dee).
 
 Como ainda não conhecemos o código do planalto, nem acompanhamos a confiabilidade das ferramentas, foram realizadas manualmente as conversões por regular expression no Atom:
 
@@ -48,9 +48,15 @@ De (busca) | Para (substituição) | parâmetros
 `\nCAP[IÍ]TULO\s+([IVDX]+)\s*\n` | `\n####CAPÍTULO $1 - ` | regex match-case
 `\nSe[cç][aã]o\s+([IVDX]+)\s*\n` | `\n#####Seção $1 - ` | regex match-case
 
-sempre olhando um a um, evitando *replace-all* justamente para manter a verificação humana neste primeiro experimento.
+sempre olhando um a um, evitando *replace-all* justamente para manter a verificação humana neste primeiro experimento. Exceção "Seção Única".
 
-Segunda etapa...
+Segunda etapa, **marcação dos artigos e parágrafos**. Já realizada, ver [commit/0ecdc5b](https://github.com/ppKrauss/transcri-lex/commit/0ecdc5b58ccd5e860b1ced8356441c03c668cfc1#diff-dc048e1267b5e68a0e009a6a1c0d3dee).
+
+De (busca) | Para (substituição) | parâmetros 
+-----------|--------------------|----------
+`\nArt\.\s*((?:\d+|\d\.\d+)[º\-A-Z]*)\.?\s*` | `\n**Art. $1**. ` | regex match-case
+`\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1** ` | regex match-case
+`\nParágrafo único\s*\.?\s*` | `\n**Parágrafo único.** ` | regex match-case
 
 ## Outros documentos
 
