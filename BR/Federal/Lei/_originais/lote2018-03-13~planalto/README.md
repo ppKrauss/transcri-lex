@@ -2,7 +2,6 @@
 
 Conversão do HTML oficial disponivel para o formato `HTML5-lex2`, especializado de  [HTML5-onlyContent](https://github.com/okfn-brasil/HTML5-onlyContent).
 
-
 0. [`curl`](https://en.wikipedia.org/wiki/CURL) para *download* do HTML origonal oferecido pelo site do Planalto.
 1. conversão para UTF-8 (não foi respeitado o padrão ePING);
 2. conversão, via [`pandoc`](https://en.wikipedia.org/wiki/Pandoc), do HTML para [formato Markdown GFM](https://en.wikipedia.org/wiki/Markdown#GFM);
@@ -34,7 +33,7 @@ pandoc -f html-native_divs-native_spans -t gfm \
 
 Em seguida o `pandoc0` tem seus elementos básicos corrigidos (poderiam já ser convertidos em pipe), para se tornar o markdown de referência inicial para os diffs e versionamento no *git*.
 
-Do ponto de vista editorial os ordinais masculinos podem ser expressos por meio de UTF-8, conforme testes de fonte em  [testFonts.htm](../testFonts.htm). A conversão foi por substituição direta de  `<sup><span class="underline">o</span></sup>` por `º`.  Os intralinks antes marcados com o nome do arquivo, foram convertidos para a referência relativa &mdash; por exemplo `L10406.htm#capituloii` em `#capituloii`. De qualquer forma poderão ser eliminados.
+Do ponto de vista editorial os *ordinais masculinos sublinhados* podem ser expressos por meio de UTF-8, conforme testes de fonte em  [testFonts.htm](../testFonts.htm). A conversão foi por substituição direta de  `<sup><span class="underline">o</span></sup>` por `º`.  Os intralinks antes marcados com o nome do arquivo, foram convertidos para a referência relativa &mdash; por exemplo `L10406.htm#capituloii` em `#capituloii`. De qualquer forma poderão ser eliminados.
 
 ### Preparo no p04-format 
 
@@ -52,8 +51,6 @@ De (busca) | Para (substituição) | parâmetros
 sempre olhando um a um, evitando *replace-all* justamente para manter a verificação humana neste primeiro experimento.
 
 Segunda etapa...
-
-
 
 ## Outros documentos
 
