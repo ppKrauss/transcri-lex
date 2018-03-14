@@ -76,8 +76,8 @@ Quarta etapa. **Normalização e marcação dos itens**.
 
 De (busca) | Para (substituição) | parâmetros 
 -----------|---------------------|----------
-`\n(I+|IV|VI*?|IX|XI*?|X+|X?L)\s+[\-–]\s*` | `\n**$1** - ` | regex match-case
-`\n([a-z])\)\s*` | `\n**$1)** `| regex match-case
+`\n(I+\|IV\|VI*?\|IX\|XI*?\|X+\|X?L)\s+[\-–]\s*` | `\n**$1** - ` | regex match-case
+`\n([a-z])\)\s*` | `\n**$1)** ` | regex match-case
 
 ### Preparos finais
 Conversão de volta para HTML,
