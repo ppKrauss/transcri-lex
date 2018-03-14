@@ -54,7 +54,7 @@ Segunda etapa, **marcação dos artigos e parágrafos**. Já realizada, ver [com
 
 De (busca) | Para (substituição) | parâmetros 
 -----------|--------------------|----------
-`\nArt\.\s*((?:\d+|\d\.\d+)[º\-A-Z]*)\.?\s*` | `\n**Art. $1**. ` | regex match-case
+`\nArt\.\s*((?:\d+\|\d\.\d+)[º\-A-Z]*)\.?\s*` | `\n**Art. $1**. ` | regex match-case
 `\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1** ` | regex match-case
 `\nParágrafo único\s*\.?\s*` | `\n**Parágrafo único.** ` | regex match-case
 
