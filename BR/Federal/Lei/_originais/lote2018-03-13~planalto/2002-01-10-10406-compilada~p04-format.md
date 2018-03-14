@@ -31,51 +31,30 @@ concepção, os direitos do nascituro.
 
 **Art. 3º**. São absolutamente
 incapazes de exercer pessoalmente os atos da vida civil os menores de 16
-(dezesseis) anos.         [(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+(dezesseis) anos.
 
 I - [(Revogado)](#);
-          [(Redação dada pela Lei nº 13.146, de
-2015)](#)     
-[(Vigência)](#)
 
 II -
-[(Revogado)](#);         
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+[(Revogado)](#);
 
 III -
-[(Revogado)](#).        
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+[(Revogado)](#).
 
 **Art. 4º**. São incapazes,
-relativamente a certos atos ou à maneira de os exercer:          
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+relativamente a certos atos ou à maneira de os exercer:
 
 I - os maiores de dezesseis e menores de dezoito anos;
 
-II - os ébrios habituais e os viciados em tóxico;         [(Redação dada
-pela Lei nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+II - os ébrios habituais e os viciados em tóxico;
 
 III - aqueles que, por causa transitória ou permanente, não puderem
-exprimir sua vontade;           [(Redação dada pela Lei nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+exprimir sua vontade;
 
 IV - os pródigos.
 
 **Parágrafo único.** A capacidade dos indígenas será regulada por
-legislação especial.            [(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+legislação especial.
 
 **Art. 5º**. A menoridade cessa aos
 dezoito anos completos, quando a pessoa fica habilitada à prática de
@@ -359,9 +338,7 @@ II - os Estados, o Distrito Federal e os Territórios;
 
 III - os Municípios;
 
-IV - as autarquias, inclusive as associações públicas;          
-[(Redação dada pela Lei nº 11.107, de
-2005)](#)
+IV - as autarquias, inclusive as associações públicas;
 
 V - as demais entidades de caráter público criadas por lei.
 
@@ -387,34 +364,25 @@ II - as sociedades;
 
 III - as fundações.
 
-IV - as organizações religiosas;        [(Incluído pela Lei nº 10.825,
-de 22.12.2003)](#)
+IV - as organizações religiosas;
 
-V - os partidos políticos.        [(Incluído pela Lei nº 10.825, de
-22.12.2003)](#)
+V - os partidos políticos.
 
-VI - as empresas individuais de responsabilidade limitada.       
-[(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+VI - as empresas individuais de responsabilidade limitada.
 
 **§ 1º** São livres a criação, a
 organização, a estruturação interna e o funcionamento das organizações
 religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou
 registro dos atos constitutivos e necessários ao seu
-funcionamento.           [(Incluído pela Lei nº 10.825, de
-22.12.2003)](#)
+funcionamento.
 
 **§ 2º** As disposições
 concernentes às associações aplicam-se subsidiariamente às sociedades
-que são objeto do Livro II da Parte Especial deste Código.         
-[(Incluído pela Lei nº 10.825, de
-22.12.2003)](#)
+que são objeto do Livro II da Parte Especial deste Código.
 
 **§ 3º** Os partidos políticos
 serão organizados e funcionarão conforme o disposto em lei
-específica.          [(Incluído pela Lei nº 10.825, de
-22.12.2003)](#)
+específica.
 
 **Art. 45**. Começa a existência legal das pessoas jurídicas de direito
 privado com a inscrição do ato constitutivo no respectivo registro,
@@ -504,15 +472,13 @@ III - os direitos e deveres dos associados;
 IV - as fontes de recursos para sua manutenção;
 
 V – o modo de constituição e de funcionamento dos órgãos
-deliberativos;          [(Redação dada pela Lei nº 11.127, de
-2005)](#)
+deliberativos;
 
 VI - as condições para a alteração das disposições estatutárias e para a
 dissolução.
 
 VII – a forma de gestão administrativa e de aprovação das respectivas
-contas.          [(Incluído pela Lei nº 11.127, de
-2005)](#)
+contas.
 
 **Art. 55**. Os associados devem ter iguais direitos, mas o estatuto poderá
 instituir categorias com vantagens especiais.
@@ -527,8 +493,7 @@ herdeiro, salvo disposição diversa do estatuto.
 
 **Art. 57**. A exclusão do associado só é admissível havendo justa causa,
 assim reconhecida em procedimento que assegure direito de defesa e de
-recurso, nos termos previstos no estatuto.           [(Redação dada pela
-Lei nº 11.127, de 2005)](#)
+recurso, nos termos previstos no estatuto.
 
 **Parágrafo único.** [(Revogado pela Lei nº 11.127, de
 2005)](#)
@@ -537,26 +502,20 @@ Lei nº 11.127, de 2005)](#)
 função que lhe tenha sido legitimamente conferido, a não ser nos casos
 e pela forma previstos na lei ou no estatuto.
 
-**Art. 59**. Compete privativamente à assembléia geral:         [(Redação
-dada pela Lei nº 11.127, de
-2005)](#)
+**Art. 59**. Compete privativamente à assembléia geral:
 
-I – destituir os administradores;         [(Redação dada pela Lei nº
-11.127, de 2005)](#)
+I – destituir os administradores;
 
-II – alterar o estatuto.         [(Redação dada pela Lei nº 11.127, de
-2005)](#)
+II – alterar o estatuto.
 
 **Parágrafo único.** Para as deliberações a que se referem os incisos I e II
 deste artigo é exigido deliberação da assembléia especialmente convocada
 para esse fim, cujo quorum será o estabelecido no estatuto, bem como os
-critérios de eleição dos administradores.         [(Redação dada pela
-Lei nº 11.127, de 2005)](#)
+critérios de eleição dos administradores.
 
 **Art. 60**. A convocação dos órgãos deliberativos far-se-á na forma do
 estatuto, garantido a 1/5 (um quinto) dos associados o direito de
-promovê-la.           [(Redação dada pela Lei nº 11.127, de
-2005)](#)
+promovê-la.
 
 **Art. 61**. Dissolvida a associação, o remanescente do seu patrimônio
 líquido, depois de deduzidas, se for o caso, as quotas ou frações
@@ -585,43 +544,32 @@ fim a que se destina, e declarando, se quiser, a maneira de
 administrá-la.
 
 **Parágrafo único.** A fundação somente poderá constituir-se para fins
-de:        [(Redação dada pela Lei nº 13.151, de
-2015)](#)
+de:
 
-I – assistência social;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+I – assistência social;
 
 II – cultura, defesa e conservação do patrimônio histórico e
-artístico;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+artístico;
 
-III – educação;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+III – educação;
 
-IV – saúde;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+IV – saúde;
 
-V – segurança alimentar e nutricional;        [(Incluído pela Lei nº
-13.151, de 2015)](#)
+V – segurança alimentar e nutricional;
 
 VI – defesa, preservação e conservação do meio ambiente e promoção do
-desenvolvimento sustentável;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+desenvolvimento sustentável;
 
 VII – pesquisa científica, desenvolvimento de tecnologias alternativas,
 modernização de sistemas de gestão, produção e divulgação de informações
-e conhecimentos técnicos e científicos;        [(Incluído pela Lei nº
-13.151, de 2015)](#)
+e conhecimentos técnicos e científicos;
 
 VIII – promoção da ética, da cidadania, da democracia e dos direitos
-humanos;        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+humanos;
 
-IX – atividades religiosas; e        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+IX – atividades religiosas; e
 
-X – (VETADO).        [(Incluído pela Lei nº 13.151, de
-2015)](#)
+X – (VETADO).
 
 **Art. 63**. Quando insuficientes para constituir a fundação, os bens a ela
 destinados serão, se de outro modo não dispuser o instituidor,
@@ -646,9 +594,7 @@ incumbência caberá ao Ministério Público.
 situadas.
 
 **§ 1** ~~º~~ Se funcionarem no Distrito Federal ou em Território, caberá o
-encargo ao Ministério Público do Distrito Federal e Territórios.       
-[(Redação dada pela Lei nº 13.151, de
-2015)](#)
+encargo ao Ministério Público do Distrito Federal e Territórios.
 
 **§ 2º** Se estenderem a atividade
 por mais de um Estado, caberá o encargo, em cada um deles, ao respectivo
@@ -665,8 +611,7 @@ II - não contrarie ou desvirtue o fim desta;
 III – seja aprovada pelo órgão do Ministério Público no prazo máximo de
 45 (quarenta e cinco) dias, findo o qual ou no caso de o Ministério
 Público a denegar, poderá o juiz supri-la, a requerimento do
-interessado.        [(Redação dada pela Lei nº 13.151, de
-2015)](#)
+interessado.
 
 **Art. 68**. Quando a alteração não houver sido aprovada por votação
 unânime, os administradores da fundação, ao submeterem o estatuto ao
@@ -1728,8 +1673,7 @@ revestido de requisitos especiais, e pode ser ilidida pela comprovação
 da falsidade ou inexatidão dos lançamentos.
 
 **Art. 227**. [(Revogado pela Lei n º 13.105, de
-2015)](#)      
-[(Vigência)](#)
+2015)](#)
 
 **Parágrafo único.** Qualquer que seja o valor do negócio jurídico, a prova
 testemunhal é admissível como subsidiária ou complementar da prova por
@@ -1740,16 +1684,10 @@ escrito.
 I - os menores de dezesseis anos;
 
 II -
-([Revogado);](#)           
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+([Revogado);](#)
 
 III -
-[(Revogado);](#)           
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+[(Revogado);](#)
 
 IV - o interessado no litígio, o amigo íntimo ou o inimigo capital das
 partes;
@@ -1759,24 +1697,17 @@ terceiro grau de alguma das partes, por consangüinidade, ou afinidade.
 
 **§ 1º** Para a prova de fatos que
 só elas conheçam, pode o juiz admitir o depoimento das pessoas a que se
-refere este artigo.         [(Redação dada pela Lei nº 13.146, de
-2015)](#)          
-[(Vigência)](#)
+refere este artigo.
 
 **§ 2º** A pessoa com deficiência
 poderá testemunhar em igualdade de condições com as demais pessoas,
-sendo-lhe assegurados todos os recursos de tecnologia assistiva.        
-[(Incluído pela Lei nº 13.146, de
-2015)](#)  
-[(Vigência)](#)
+sendo-lhe assegurados todos os recursos de tecnologia assistiva.
 
 **Art. 229**. [(Revogado pela Lei n º 13.105, de
-2015)](#)       
-[(Vigência)](#)
+2015)](#)
 
 **Art. 230**. [(Revogado pela Lei n º 13.105, de
-2015)](#)        
-[(Vigência)](#)
+2015)](#)
 
 **Art. 231**. Aquele que se nega a submeter-se a exame médico necessário não
 poderá aproveitar-se de sua recusa.
@@ -2017,9 +1948,7 @@ exceções pessoais oponíveis aos outros.
 **Art. 274**. O julgamento contrário a um dos credores solidários não
 atinge os demais, mas o julgamento favorável aproveita-lhes, sem
 prejuízo de exceção pessoal que o devedor tenha direito de invocar em
-relação a qualquer deles.            [(Redação dada pela Lei nº 13.105,
-de 2015)](#)          
-[(Vigência)](#)
+relação a qualquer deles.
 
 ##### Seção III - Da Solidariedade Passiva
 
@@ -2961,8 +2890,7 @@ correspondente ao desfalque sofrido. Se não for considerável, caberá
 somente direito a indenização.
 
 **Art. 456**. [(Revogado pela Lei n º 13.105, de
-2015)](#)         
-[(Vigência)](#)
+2015)](#)
 
 **Art. 457**. Não pode o adquirente demandar pela evicção, se sabia que a
 coisa era alheia ou litigiosa.
@@ -4488,15 +4416,12 @@ conforme as instruções recebidas.
 
 **Art. 723**. O corretor é obrigado a executar a mediação com diligência e
 prudência, e a prestar ao cliente, espontaneamente, todas as informações
-sobre o andamento do negócio.           [(Redação dada pela Lei nº
-12.236, de 2010 )](#)
+sobre o andamento do negócio.
 
 **Parágrafo único.** Sob pena de responder por perdas e danos, o corretor
 prestará ao cliente todos os esclarecimentos acerca da segurança ou do
 risco do negócio, das alterações de valores e de outros fatores que
-possam influir nos resultados da incumbência.             [( Incluído
-pela Lei nº 12.236, de 2010
-)](#)
+possam influir nos resultados da incumbência.
 
 **Art. 724**. A remuneração do corretor, se não estiver fixada em lei, nem
 ajustada entre as partes, será arbitrada segundo a natureza do negócio e
@@ -5100,9 +5025,7 @@ credor uma obrigação assumida pelo devedor, caso este não a cumpra.
 **Art. 819**. A fiança dar-se-á por escrito, e não admite interpretação
 extensiva.
 
-**Art. 819-A**. [(VETADO)](#)          
-[(Incluído pela Lei nº 10.931, de
-2004)](#)
+**Art. 819-A**. [(VETADO)](#)
 
 **Art. 820**. Pode-se estipular a fiança, ainda que sem consentimento do
 devedor ou contra a sua vontade.
@@ -5994,9 +5917,7 @@ VIII - sobre o produto da colheita, para a qual houver concorrido com o
 seu trabalho, e precipuamente a quaisquer outros créditos, ainda que
 reais, o trabalhador agrícola, quanto à dívida dos seus salários.
 
-IX - sobre os produtos do abate, o credor por animais.         
-[(Incluído pela Lei nº 13.176, de
-2015)](#)
+IX - sobre os produtos do abate, o credor por animais.
 
 <span id="art965"></span>Art. 965. Goza de privilégio geral, na ordem
 seguinte, sobre os bens do devedor:
@@ -6067,8 +5988,7 @@ ocorrentes.
 solicitar ao Registro Público de Empresas Mercantis a transformação de
 seu registro de empresário para registro de sociedade empresária,
 observado, no que couber, o disposto nos arts. 1.113 a 1.115 deste
-Código.          [(Incluído pela Lei Complementar nº 128, de
-2008)](#)
+Código.
 
 **§ 4º** O processo de abertura,
 registro, alteração e baixa do microempreendedor individual de que trata
@@ -6079,17 +5999,14 @@ simplificado, preferentemente eletrônico, opcional para o empreendedor,
 na forma a ser disciplinada pelo Comitê para Gestão da Rede Nacional
 para a Simplificação do Registro e da Legalização de Empresas e Negócios
 - CGSIM, de que trata o inciso III do art.
-2º da mesma Lei.         
-[(Incluído pela Lei nº 12.470, de
-2011)](#)
+2º da mesma Lei.
 
 **§ 5º** Para fins do disposto no
 **§ 4º** , poderão ser dispensados
 o uso da firma, com a respectiva assinatura autógrafa, o capital,
 requerimentos, demais assinaturas, informações relativas à
 nacionalidade, estado civil e regime de bens, bem como remessa de
-documentos, na forma estabelecida pelo CGSIM.            [(Incluído pela
-Lei nº 12.470, de 2011)](#)
+documentos, na forma estabelecida pelo CGSIM.
 
 **Art. 969**. O empresário que instituir sucursal, filial ou agência, em
 lugar sujeito à jurisdição de outro Registro Público de Empresas
@@ -6138,21 +6055,15 @@ devendo tais fatos constar do alvará que conceder a autorização.
 Empresas Mercantis a cargo das Juntas Comerciais deverá registrar
 contratos ou alterações contratuais de sociedade que envolva sócio
 incapaz, desde que atendidos, de forma conjunta, os seguintes
-pressupostos:           [(Incluído pela Lei nº 12.399, de
-2011)](#)
+pressupostos:
 
 I – o sócio incapaz não pode exercer a administração da
-sociedade;        [(Incluído pela Lei nº 12.399, de
-2011)](#)
+sociedade;
 
-II – o capital social deve ser totalmente integralizado;       
- [(Incluído pela Lei nº 12.399, de
-2011)](#)
+II – o capital social deve ser totalmente integralizado;
 
 III – o sócio relativamente incapaz deve ser assistido e o absolutamente
-incapaz deve ser representado por seus representantes legais.          
-[(Incluído pela Lei nº 12.399, de
-2011)](#)
+incapaz deve ser representado por seus representantes legais.
 
 **Art. 975**. Se o representante ou assistente do incapaz for pessoa que,
 por disposição de lei, não puder exercer atividade de empresário,
@@ -6193,55 +6104,35 @@ antes de arquivados e averbados no Registro Público de Empresas
 Mercantis.
 
 ### TÍTULO I-A - DA EMPRESA INDIVIDUAL DE RESPONSABILIDADE LIMITADA
-[(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
 
 **Art. 980-A**. A empresa individual de responsabilidade limitada será
 constituída por uma única pessoa titular da totalidade do capital
 social, devidamente integralizado, que não será inferior a 100 (cem)
-vezes o maior salário-mínimo vigente no País.           [(Incluído pela
-Lei nº 12.441, de 2011)](#)
-[(Vigência)](#)
+vezes o maior salário-mínimo vigente no País.
 
 **§ 1º** O nome empresarial deverá ser formado pela inclusão da expressão
 "EIRELI" após a firma ou a denominação social da empresa individual de
-responsabilidade limitada.          [(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+responsabilidade limitada.
 
 **§ 2º** A pessoa natural que constituir empresa individual de
 responsabilidade limitada somente poderá figurar em uma única empresa
-dessa modalidade.           [(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+dessa modalidade.
 
 **§ 3º** A empresa individual de responsabilidade limitada também poderá
 resultar da concentração das quotas de outra modalidade societária num
 único sócio, independentemente das razões que motivaram tal
-concentração.          [(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+concentração.
 
-**§ 4º** [( VETADO)](#). [(Incluído
-pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+**§ 4º** [( VETADO)](#).
 
 **§ 5º** Poderá ser atribuída à empresa individual de responsabilidade
 limitada constituída para a prestação de serviços de qualquer natureza a
 remuneração decorrente da cessão de direitos patrimoniais de autor ou de
 imagem, nome, marca ou voz de que seja detentor o titular da pessoa
-jurídica, vinculados à atividade profissional.           [(Incluído
-pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+jurídica, vinculados à atividade profissional.
 
 **§ 6º** Aplicam-se à empresa individual de responsabilidade limitada, no
-que couber, as regras previstas para as sociedades limitadas.        
-[(Incluído pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+que couber, as regras previstas para as sociedades limitadas.
 
 ### TÍTULO II - Da Sociedade
 
@@ -6683,9 +6574,7 @@ sociedade sob sua titularidade, requeira, no Registro Público de
 Empresas Mercantis, a transformação do registro da sociedade para
 empresário individual ou para empresa individual de responsabilidade
 limitada, observado, no que couber, o disposto nos arts. 1.113 a 1.115
-deste Código.           [(Redação dada pela Lei nº 12.441, de
-2011)](#)
-[(Vigência)](#)
+deste Código.
 
 **Art. 1.034**. A sociedade pode ser dissolvida judicialmente, a
 requerimento de qualquer dos sócios, quando:
@@ -6897,8 +6786,7 @@ qualidade.
 **Art. 1.061**. A designação de administradores não sócios dependerá de
 aprovação da unanimidade dos sócios, enquanto o capital não estiver
 integralizado, e de 2/3 (dois terços), no mínimo, após a
-integralização.            [(Redação dada pela Lei nº 12.375, de
-2010)](#)
+integralização.
 
 **Art. 1.062**. O administrador designado em ato separado investir-se-á no
 cargo mediante termo de posse no livro de atas da administração.
@@ -7233,8 +7121,7 @@ causas previstas no art. 1.044.
 
 #### CAPÍTULO V - Da Sociedade Anônima
 
-##### Seção Única  
-Da Caracterização
+##### Seção Única - Da Caracterização
 
 **Art. 1.088**. Na sociedade anônima ou companhia, o capital divide-se em
 ações, obrigando-se cada sócio ou acionista somente pelo preço de
@@ -8340,15 +8227,11 @@ IX - a hipoteca;
 
 X - a anticrese.
 
-XI - a concessão de uso especial para fins de moradia;        
-[(Incluído pela Lei nº 11.481, de
-2007)](#)
+XI - a concessão de uso especial para fins de moradia;
 
-XII - a concessão de direito real de uso; e         [(Redação dada pela
-Lei nº 13.465, de 2017)](#)
+XII - a concessão de direito real de uso; e
 
-XIII - a laje.         [(Incluído pela Lei nº 13.465, de
-2017)](#)
+XIII - a laje.
 
 **Art. 1.226**. Os direitos reais sobre coisas móveis, quando constituídos,
 ou transmitidos por atos entre vivos, só se adquirem com a tradição.
@@ -8492,15 +8375,12 @@ até 250m² (duzentos e cinquenta metros quadrados) cuja propriedade
 divida com ex-cônjuge ou ex-companheiro que abandonou o lar,
 utilizando-o para sua moradia ou de sua família, adquirir-lhe-á o
 domínio integral, desde que não seja proprietário de outro imóvel
-urbano ou rural.          [(Incluído pela Lei nº 12.424, de
-2011)](#)
+urbano ou rural.
 
 **§ 1º** O direito previsto no
 caput não será reconhecido ao mesmo possuidor mais de uma vez. 
 
-**§ 2º** [(VETADO)](#).          
-[(Incluído pela Lei nº 12.424, de
-2011)](#)
+**§ 2º** [(VETADO)](#).
 
 **Art. 1.241**. Poderá o possuidor requerer ao juiz seja declarada
 adquirida, mediante usucapião, a propriedade imóvel.
@@ -9233,8 +9113,7 @@ outras partes comuns, sujeitam-se a propriedade exclusiva, podendo ser
 alienadas e gravadas livremente por seus proprietários, exceto os
 abrigos para veículos, que não poderão ser alienados ou alugados a
 pessoas estranhas ao condomínio, salvo autorização expressa na convenção
-de condomínio.          [(Redação dada pela Lei nº 12.607, de
-2012)](#)
+de condomínio.
 
 **§ 2º** O solo, a estrutura do
 prédio, o telhado, a rede geral de distribuição de água, esgoto, gás e
@@ -9246,9 +9125,7 @@ divididos.
 **§ 3º** A cada unidade
 imobiliária caberá, como parte inseparável, uma fração ideal no solo e
 nas outras partes comuns, que será identificada em forma decimal ou
-ordinária no instrumento de instituição do condomínio.           
-[(Redação dada pela Lei nº 10.931, de
-2004)](#)
+ordinária no instrumento de instituição do condomínio.
 
 **§ 4º** Nenhuma unidade
 imobiliária pode ser privada do acesso ao logradouro público.
@@ -9314,9 +9191,7 @@ quite.
 **Art. 1.336**. São deveres do condômino:
 
 I - contribuir para as despesas do condomínio na proporção das suas
-frações ideais, salvo disposição em contrário na convenção;        
-[(Redação dada pela Lei nº 10.931, de
-2004)](#)
+frações ideais, salvo disposição em contrário na convenção;
 
 II - não realizar obras que comprometam a segurança da edificação;
 
@@ -9480,8 +9355,7 @@ reunir, o juiz decidirá, a requerimento de qualquer condômino.
 **Art. 1.351**. Depende da aprovação de 2/3 (dois terços) dos votos dos
 condôminos a alteração da convenção; a mudança da destinação do
 edifício, ou da unidade imobiliária, depende da aprovação pela
-unanimidade dos condôminos.           [(Redação dada pela Lei nº 10.931,
-de 2004)](#)
+unanimidade dos condôminos.
 
 **Art. 1.352**. Salvo quando exigido quorum especial, as deliberações da
 assembléia serão tomadas, em primeira convocação, por maioria de votos
@@ -9528,26 +9402,20 @@ proporção a que se refere o §
 
 ##### Seção IV  - Do Condomínio de Lotes  
 
-**[(Incluído pela Lei nº 13.465, de 2017)](#)**
-
 **Art. 1.358-A**. Pode haver, em terrenos, partes designadas de lotes que
 são propriedade exclusiva e partes que são propriedade comum dos
-condôminos.                  [(Incluído pela Lei nº 13.465, de
-2017)](#)
+condôminos.
 
 **§ 1º** A fração ideal de cada condômino poderá ser proporcional à área do
 solo de cada unidade autônoma, ao respectivo potencial construtivo ou a
-outros critérios indicados no ato de instituição.    [(Incluído pela Lei
-nº 13.465, de 2017)](#)
+outros critérios indicados no ato de instituição.
 
 **§ 2º** Aplica-se, no que couber, ao condomínio de lotes o disposto sobre
 condomínio edilício neste Capítulo, respeitada a legislação
-urbanística.   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+urbanística.
 
 **§ 3º** Para fins de incorporação imobiliária, a implantação de toda a
-infraestrutura ficará a cargo do empreendedor.  [(Incluído pela Lei nº
-13.465, de 2017)](#)
+infraestrutura ficará a cargo do empreendedor.
 
 #### CAPÍTULO VIII - Da Propriedade Resolúvel
 
@@ -9625,9 +9493,7 @@ obrigado pelo restante.
 imóveis sujeita-se às disposições do Capítulo I do Título X do Livro
 III da Parte Especial deste Código e, no que for específico, à
 legislação especial pertinente, não se equiparando, para quaisquer
-efeitos, à propriedade plena de que trata o art. 1.231.         
-[(Redação dada pela Lei nº 13.043, de
-2014)](#)
+efeitos, à propriedade plena de que trata o art. 1.231.
 
 **Art. 1.368**. O terceiro, interessado ou não, que pagar a dívida, se
 sub-rogará de pleno direito no crédito e na propriedade fiduciária.
@@ -9636,13 +9502,11 @@ sub-rogará de pleno direito no crédito e na propriedade fiduciária.
 titularidade fiduciária submetem-se à disciplina específica das
 respectivas leis especiais, somente se aplicando as disposições deste
 Código naquilo que não for incompatível com a legislação
-especial.          [(Incluído pela Lei nº 10.931, de
-2004)](#)
+especial.
 
 **Art. 1.368-B**. A alienação fiduciária em garantia de bem móvel ou imóvel
 confere direito real de aquisição ao fiduciante, seu cessionário ou
-sucessor.         [(Incluído pela Lei nº 13.043, de
-2014)](#)
+sucessor.
 
 **Parágrafo único.** O credor fiduciário que se tornar proprietário pleno
 do bem, por efeito de realização da garantia, mediante consolidação da
@@ -9651,8 +9515,7 @@ transmitida a propriedade plena, passa a responder pelo pagamento dos
 tributos sobre a propriedade e a posse, taxas, despesas condominiais e
 quaisquer outros encargos, tributários ou não, incidentes sobre o bem
 objeto da garantia, a partir da data em que vier a ser imitido na posse
-direta do bem.         [(Incluído pela Lei nº 13.043, de
-2014)](#)
+direta do bem.
 
 ### TÍTULO IV - Da Superfície
 
@@ -10221,8 +10084,7 @@ pignoratícia, na forma determinada em lei especial.
 
 **Art. 1.439**. O penhor agrícola e o penhor pecuário não podem ser
 convencionados por prazos superiores aos das obrigações
-garantidas.           [(Redação dada pela Lei nº 12.873, de
-2013)](#)
+garantidas.
 
 **§ 1º** Embora vencidos os
 prazos, permanece a garantia, enquanto subsistirem os bens que a
@@ -10469,15 +10331,11 @@ VI - os navios;
 
 VII - as aeronaves.
 
-VIII - o direito de uso especial para fins de moradia;         
-[(Incluído pela Lei nº 11.481, de
-2007)](#)
+VIII - o direito de uso especial para fins de moradia;
 
-IX - o direito real de uso;        [(Incluído pela Lei nº 11.481, de
-2007)](#)
+IX - o direito real de uso;
 
- X - a propriedade superficiária.          [(Incluído pela Lei nº
-11.481, de 2007)](#)
+ X - a propriedade superficiária.
 
 **§ 1º** A hipoteca dos navios e das aeronaves reger-se-á pelo disposto em
 lei especial.         [(Renumerado do parágrafo único pela Lei nº
@@ -10486,8 +10344,7 @@ lei especial.         [(Renumerado do parágrafo único pela Lei nº
 **§ 2º** Os direitos de garantia instituídos nas hipóteses dos incisos IX e
 X do caput deste artigo ficam limitados à duração da concessão ou
 direito de superfície, caso tenham sido transferidos por período
-determinado.        [(Incluído pela Lei nº 11.481, de
-2007)](#)
+determinado.
 
 **Art. 1.474**. A hipoteca abrange todas as acessões, melhoramentos ou
 construções do imóvel. Subsistem os ônus reais constituídos e
@@ -10562,12 +10419,10 @@ hipoteca importância excedente à da compra e o que suportar custas e
 despesas judiciais.
 
 **Art. 1.482**. [(Revogado pela Lei n º 13.105, de
-2015)](#)      
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.483**. [(Revogado pela Lei n º 13.105, de
-2015)](#)        
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.484**. É lícito aos interessados fazer constar das escrituras o
 valor entre si ajustado dos imóveis hipotecados, o qual, devidamente
@@ -10579,8 +10434,7 @@ poderá prorrogar-se a hipoteca, até 30 (trinta) anos da data do
 contrato. Desde que perfaça esse prazo, só poderá subsistir o contrato
 de hipoteca reconstituindo-se por novo título e novo registro; e, nesse
 caso, lhe será mantida a precedência, que então lhe
-competir.             [(Redação dada pela Lei nº 10.931, de
-2004)](#)
+competir.
 
 **Art. 1.486**. Podem o credor e o devedor, no ato constitutivo da hipoteca,
 autorizar a emissão da correspondente cédula hipotecária, na forma e
@@ -10795,133 +10649,102 @@ desapropriação.
 antes do vencimento da dívida, pagando a sua totalidade à data do pedido
 de remição e imitir-se-á, se for o caso, na sua posse.
 
-### TÍTULO XI - DA LAJE   
-[(Incluído pela Lei nº 13.465, de
-2017)](#)
+### TÍTULO XI - DA LAJE
 
 **Art. 1.510-A**. O proprietário de uma construção-base poderá ceder a
 superfície superior ou inferior de sua construção a fim de que o titular
 da laje mantenha unidade distinta daquela originalmente construída sobre
-o solo.                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+o solo.
 
 **§ 1º** O direito real de laje
 contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados,
 tomados em projeção vertical, como unidade imobiliária autônoma, não
 contemplando as demais áreas edificadas ou não pertencentes ao
-proprietário da construção-base.                    [(Incluído pela Lei
-nº 13.465, de 2017)](#)
+proprietário da construção-base.
 
 **§ 2º** O titular do direito
 real de laje responderá pelos encargos e tributos que incidirem sobre a
-sua unidade.                    [(Incluído pela Lei nº 13.465, de
-2017)](#)
+sua unidade.
 
 **§ 3º** Os titulares da laje,
 unidade imobiliária autônoma constituída em matrícula própria, poderão
-dela usar, gozar e dispor.                     [(Incluído pela Lei nº
-13.465, de 2017)](#)
+dela usar, gozar e dispor.
 
 **§ 4º** A instituição do direito
 real de laje não implica a atribuição de fração ideal de terreno ao
 titular da laje ou a participação proporcional em áreas já edificadas.
-                    [(Incluído pela Lei nº 13.465, de
-2017)](#)
 
 **§ 5º** Os Municípios e o
 Distrito Federal poderão dispor sobre posturas edilícias e urbanísticas
-associadas ao direito real de laje.                   [(Incluído pela
-Lei nº 13.465, de 2017)](#)
+associadas ao direito real de laje.
 
 **§ 6º** O titular da laje poderá
 ceder a superfície de sua construção para a instituição de um sucessivo
 direito real de laje, desde que haja autorização expressa dos titulares
 da construção-base e das demais lajes, respeitadas as posturas edilícias
-e urbanísticas vigentes.                  [(Incluído pela Lei nº 13.465,
-de 2017)](#)
+e urbanísticas vigentes.
 
 **Art. 1.510-B**. É expressamente vedado ao titular da laje prejudicar com
 obras novas ou com falta de reparação a segurança, a linha arquitetônica
 ou o arranjo estético do edifício, observadas as posturas previstas em
-legislação local.                  [(Incluído pela Lei nº 13.465, de
-2017)](#)
+legislação local.
 
 **Art. 1.510-C**. Sem prejuízo, no que couber, das normas aplicáveis aos
 condomínios edilícios, para fins do direito real de laje, as despesas
 necessárias à conservação e fruição das partes que sirvam a todo o
 edifício e ao pagamento de serviços de interesse comum serão
 partilhadas entre o proprietário da construção-base e o titular da laje,
-na proporção que venha a ser estipulada em contrato.                   
-[(Incluído pela Lei nº 13.465, de
-2017)](#)
+na proporção que venha a ser estipulada em contrato.
 
 **§ 1º** São partes que servem a
-todo o edifício:                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+todo o edifício:
 
 I - os alicerces, colunas, pilares, paredes-mestras e todas as partes
-restantes que constituam a estrutura do prédio;                   
-[(Incluído pela Lei nº 13.465, de
-2017)](#)
+restantes que constituam a estrutura do prédio;
 
 II - o telhado ou os terraços de cobertura, ainda que destinados ao uso
-exclusivo do titular da laje;                   [(Incluído pela Lei nº
-13.465, de 2017)](#)
+exclusivo do titular da laje;
 
 III - as instalações gerais de água, esgoto, eletricidade, aquecimento,
 ar condicionado, gás, comunicações e semelhantes que sirvam a todo o
-edifício; e                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+edifício; e
 
 IV - em geral, as coisas que sejam afetadas ao uso de todo o
-edifício.                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+edifício.
 
 **§ 2º** É assegurado, em
 qualquer caso, o direito de qualquer interessado em promover reparações
 urgentes na construção na forma do parágrafo único do art. 249 deste
-Código.                  [(Incluído pela Lei nº 13.465, de
-2017)](#)
+Código.
 
 **Art. 1.510-D**. Em caso de alienação de qualquer das unidades
 sobrepostas, terão direito de preferência, em igualdade de condições com
 terceiros, os titulares da construção-base e da laje, nessa ordem, que
 serão cientificados por escrito para que se manifestem no prazo de
 trinta dias, salvo se o contrato dispuser de modo
-diverso.                   [(Incluído pela Lei nº 13.465,
-de 2017)](#)
+diverso.
 
 **§ 1º** O titular da
 construção-base ou da laje a quem não se der conhecimento da alienação
 poderá, mediante depósito do respectivo preço, haver para si a parte
 alienada a terceiros, se o requerer no prazo decadencial de cento e
-oitenta dias, contado da data de alienação.                   [(Incluído
-pela Lei nº 13.465, de
-2017)](#)
+oitenta dias, contado da data de alienação.
 
 **§ 2º** Se houver mais de uma
 laje, terá preferência, sucessivamente, o titular das lajes ascendentes
 e o titular das lajes descendentes, assegurada a prioridade para a laje
-mais próxima à unidade sobreposta a ser alienada.                 
-[(Incluído pela Lei nº 13.465, de
-2017)](#)
+mais próxima à unidade sobreposta a ser alienada.
 
 **Art. 1.510-E**. A ruína da construção-base implica extinção do direito
-real de laje, salvo:                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+real de laje, salvo:
 
-I - se este tiver sido instituído sobre o subsolo;                  
-[(Incluído pela Lei nº 13.465, de
-2017)](#)
+I - se este tiver sido instituído sobre o subsolo;
 
 II - se a construção-base não for reconstruída no prazo de cinco
-anos.                   [(Incluído pela Lei nº 13.465, de
-2017)](#)
+anos.
 
 **Parágrafo único.** O disposto neste artigo não afasta o direito a eventual
-reparação civil contra o culpado pela ruína.                  [(Incluído
-pela Lei nº 13.465, de
-2017)](#)
+reparação civil contra o culpado pela ruína.
 
 ## LIVRO IV - Do Direito de Família
 
@@ -10983,9 +10806,7 @@ legais, enquanto não atingida a maioridade civil.
 disposto no parágrafo único do art. 1.631.
 
 **Art. 1.518**. Até a celebração do casamento podem os pais ou tutores
-revogar a autorização.          [(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+revogar a autorização.
 
 **Art. 1.519**. A denegação do consentimento, quando injusta, pode ser
 suprida pelo juiz.
@@ -11076,16 +10897,10 @@ nulidade ou de anulação de casamento, transitada em julgado, ou do
 registro da sentença de divórcio.
 
 **Art. 1.526**. A habilitação será feita pessoalmente perante o oficial do
-Registro Civil, com a audiência do Ministério Público.         
-[(Redação dada pela Lei nº 12.133, de
-2009)](#)        
-[Vigência](#art2)
+Registro Civil, com a audiência do Ministério Público.
 
 **Parágrafo único.** Caso haja impugnação do oficial, do Ministério Público
-ou de terceiro, a habilitação será submetida ao juiz.         [(Incluído
-pela Lei nº 12.133, de
-2009)](#)        
-[Vigência](#art2)
+ou de terceiro, a habilitação será submetida ao juiz.
 
 **Art. 1.527**. Estando em ordem a documentação, o oficial extrairá o
 edital, que se afixará durante quinze dias nas circunscrições do
@@ -11292,10 +11107,7 @@ viverem ou tiverem vivido na posse do estado de casados.
 
 **Art. 1.548**. É nulo o casamento contraído:
 
-I - [(Revogado)](#);       
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+I - [(Revogado)](#);
 
 II - por infringência de impedimento.
 
@@ -11322,17 +11134,12 @@ cônjuges;
 VI - por incompetência da autoridade celebrante.
 
 **§ 1º** Equipara-se à revogação
-a invalidade do mandato judicialmente decretada.          [(Redação dada
-pela Lei nº 13.146, de
-2015)](#)         
-[(Vigência)](#)
+a invalidade do mandato judicialmente decretada.
 
 **§ 2º** A pessoa com deficiência
 mental ou intelectual em idade núbia poderá contrair matrimônio,
 expressando sua vontade diretamente ou por meio de seu responsável ou
-curador.        [(Incluído pela Lei nº 13.146, de
-2015)](#)  
-[(Vigência)](#)
+curador.
 
 **Art. 1.551**. Não se anulará, por motivo de idade, o casamento de que
 resultou gravidez.
@@ -11386,16 +11193,10 @@ natureza, torne insuportável a vida conjugal;
 III - a ignorância, anterior ao casamento, de defeito físico
 irremediável que não caracterize deficiência ou de moléstia grave e
 transmissível, por contágio ou por herança, capaz de pôr em risco a
-saúde do outro cônjuge ou de sua descendência;             [(Redação
-dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+saúde do outro cônjuge ou de sua descendência;
 
 IV -
-[(Revogado)](#).          
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)         
-[(Vigência)](#)
+[(Revogado)](#).
 
 **Art. 1.558**. É anulável o casamento em virtude de coação, quando o
 consentimento de um ou de ambos os cônjuges houver sido captado mediante
@@ -11642,107 +11443,84 @@ defender-se, poderá fazê-lo o curador, o ascendente ou o irmão.
 
 #### CAPÍTULO XI - Da Proteção da Pessoa dos Filhos
 
-**Art. 1.583**. A guarda será unilateral ou compartilhada.         
-[(Redação dada pela Lei nº 11.698, de
-2008).](#)
+**Art. 1.583**. A guarda será unilateral ou compartilhada.
 
 **§ 1º** Compreende-se por guarda
 unilateral a atribuída a um só dos genitores ou a alguém que o substitua
 (art. 1.584, § 5º) e, por
 guarda compartilhada a responsabilização conjunta e o exercício de
 direitos e deveres do pai e da mãe que não vivam sob o mesmo teto,
-concernentes ao poder familiar dos filhos comuns.         [(Incluído
-pela Lei nº 11.698, de
-2008).](#)
+concernentes ao poder familiar dos filhos comuns.
 
 **§ 2º** Na guarda compartilhada,
 o tempo de convívio com os filhos deve ser dividido de forma equilibrada
 com a mãe e com o pai, sempre tendo em vista as condições fáticas e os
-interesses dos filhos.           [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+interesses dos filhos.
 
-I - (revogado);  [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+I - (revogado);
 
-II - (revogado);  [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+II - (revogado);
 
-III - (revogado).         [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+III - (revogado).
 
 **§ 3º** Na guarda compartilhada, a cidade considerada base de moradia dos
-filhos será aquela que melhor atender aos interesses dos filhos.       
-  [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+filhos será aquela que melhor atender aos interesses dos filhos.
 
-**§ 4º** [(VETADO)](#).        
-[(Incluído pela Lei nº 11.698, de
-2008).](#)
+**§ 4º** [(VETADO)](#).
 
 **§ 5º** A guarda unilateral obriga o pai ou a mãe que não a detenha a
 supervisionar os interesses dos filhos, e, para possibilitar tal
 supervisão, qualquer dos genitores sempre será parte legítima para
 solicitar informações e/ou prestação de contas, objetivas ou subjetivas,
 em assuntos ou situações que direta ou indiretamente afetem a saúde
-física e psicológica e a educação de seus filhos.          [(Incluído
-pela Lei nº 13.058, de
-2014)](#)
+física e psicológica e a educação de seus filhos.
 
 **Art. 1.584**. A guarda, unilateral ou compartilhada, poderá
-ser:           [(Redação dada pela Lei nº 11.698, de
-2008).](#)
+ser:
 
 I – requerida, por consenso, pelo pai e pela mãe, ou por qualquer deles,
 em ação autônoma de separação, de divórcio, de dissolução de união
-estável ou em medida cautelar;       [(Incluído pela Lei nº 11.698, de
-2008).](#)
+estável ou em medida cautelar;
 
 II – decretada pelo juiz, em atenção a necessidades específicas do
 filho, ou em razão da distribuição de tempo necessário ao convívio deste
-com o pai e com a mãe.          [(Incluído pela Lei nº 11.698, de
-2008).](#)
+com o pai e com a mãe.
 
 **§ 1º** Na audiência de
 conciliação, o juiz informará ao pai e à mãe o significado da guarda
 compartilhada, a sua importância, a similitude de deveres e direitos
 atribuídos aos genitores e as sanções pelo descumprimento de suas
-cláusulas.          [(Incluído pela Lei nº 11.698, de
-2008).](#)
+cláusulas.
 
 **§ 2º** Quando não houver acordo
 entre a mãe e o pai quanto à guarda do filho, encontrando-se ambos os
 genitores aptos a exercer o poder familiar, será aplicada a guarda
 compartilhada, salvo se um dos genitores declarar ao magistrado que não
-deseja a guarda do menor.        [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+deseja a guarda do menor.
 
 **§ 3º** Para estabelecer as
 atribuições do pai e da mãe e os períodos de convivência sob guarda
 compartilhada, o juiz, de ofício ou a requerimento do Ministério
 Público, poderá basear-se em orientação técnico-profissional ou de
 equipe interdisciplinar, que deverá visar à divisão equilibrada do tempo
-com o pai e com a mãe.         [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+com o pai e com a mãe.
 
 **§ 4º** A alteração não
 autorizada ou o descumprimento imotivado de cláusula de guarda
 unilateral ou compartilhada poderá implicar a redução de prerrogativas
-atribuídas ao seu detentor.          [(Redação dada pela Lei nº 13.058,
-de 2014)](#)
+atribuídas ao seu detentor.
 
 **§ 5º** Se o juiz verificar que
 o filho não deve permanecer sob a guarda do pai ou da mãe, deferirá a
 guarda a pessoa que revele compatibilidade com a natureza da medida,
 considerados, de preferência, o grau de parentesco e as relações de
-afinidade e afetividade.           [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+afinidade e afetividade.
 
 **§ 6º** Qualquer estabelecimento
 público ou privado é obrigado a prestar informações a qualquer dos
 genitores sobre os filhos destes, sob pena de multa de R$ 200,00
 (duzentos reais) a R$ 500,00 (quinhentos reais) por dia pelo não
-atendimento da solicitação.           [(Incluído pela Lei nº 13.058, de
-2014)](#)
+atendimento da solicitação.
 
 **Art. 1.585**. Em sede de medida cautelar de separação de corpos, em sede
 de medida cautelar de guarda ou em outra sede de fixação liminar de
@@ -11750,8 +11528,7 @@ guarda, a decisão sobre guarda de filhos, mesmo que provisória, será
 proferida preferencialmente após a oitiva de ambas as partes perante o
 juiz, salvo se a proteção aos interesses dos filhos exigir a concessão
 de liminar sem a oitiva da outra parte, aplicando-se as disposições do
-art. 1.584.           [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+art. 1.584.
 
 **Art. 1.586**. Havendo motivos graves, poderá o juiz, em qualquer caso, a
 bem dos filhos, regular de maneira diferente da estabelecida nos artigos
@@ -11771,8 +11548,7 @@ educação.
 
 **Parágrafo único.** O direito de visita estende-se a qualquer dos avós, a
 critério do juiz, observados os interesses da criança ou do
-adolescente.       [(Incluído pela Lei nº 12.398, de
-2011)](#)
+adolescente.
 
 **Art. 1.590**. As disposições relativas à guarda e prestação de alimentos
 aos filhos menores estendem-se aos maiores incapazes.
@@ -11933,23 +11709,16 @@ declarado nulo, ainda mesmo sem as condições do putativo.
 
 **Art. 1.618**. A adoção de crianças e adolescentes será deferida na forma
 prevista pela Lei nº 8.069, de
-13 de julho de 1990 - Estatuto da Criança e do Adolescente.         
-[(Redação dada pela Lei nº 12.010, de
-2009)](#)  
-[Vigência](#)
+13 de julho de 1990 - Estatuto da Criança e do Adolescente.
 
 **Art. 1.619**. A adoção de maiores de 18 (dezoito) anos dependerá da
 assistência efetiva do poder público e de sentença constitutiva,
 aplicando-se, no que couber, as regras gerais da Lei
 nº 8.069, de 13 de julho de
-1990 - Estatuto da Criança e do Adolescente.        [(Redação dada pela
-Lei nº 12.010, de
-2009)](#)        
-[Vigência](#)
+1990 - Estatuto da Criança e do Adolescente.
 
 **Art. 1.620**. a 1.629.          [(Revogados pela Lei nº 12.010, de
-2009)](#)       
-[Vigência](#)
+2009)](#)
 
 #### CAPÍTULO V - Do Poder FAMILIAR
 
@@ -11978,46 +11747,33 @@ dar-se-á tutor ao menor.
 
 **Art. 1.634**. Compete a ambos os pais, qualquer que seja a sua situação
 conjugal, o pleno exercício do poder familiar, que consiste em, quanto
-aos filhos:          [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+aos filhos:
 
-I - dirigir-lhes a criação e a educação;          [(Redação dada pela
-Lei nº 13.058, de 2014)](#)
+I - dirigir-lhes a criação e a educação;
 
 II - exercer a guarda unilateral ou compartilhada nos termos do art.
-1.584;         [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+1.584;
 
-III - conceder-lhes ou negar-lhes consentimento para casarem;         
-[(Redação dada pela Lei nº 13.058, de
-2014)](#)
+III - conceder-lhes ou negar-lhes consentimento para casarem;
 
 IV - conceder-lhes ou negar-lhes consentimento para viajarem ao
-exterior;          [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+exterior;
 
 V - conceder-lhes ou negar-lhes consentimento para mudarem sua
-residência permanente para outro Município;         [(Redação dada pela
-Lei nº 13.058, de 2014)](#)
+residência permanente para outro Município;
 
 VI - nomear-lhes tutor por testamento ou documento autêntico, se o outro
 dos pais não lhe sobreviver, ou o sobrevivo não puder exercer o poder
-familiar;        [(Redação dada pela Lei nº 13.058, de
-2014)](#)
+familiar;
 
 VII - representá-los judicial e extrajudicialmente até os 16 (dezesseis)
 anos, nos atos da vida civil, e assisti-los, após essa idade, nos atos
-em que forem partes, suprindo-lhes o consentimento;         [(Redação
-dada pela Lei nº 13.058, de
-2014)](#)
+em que forem partes, suprindo-lhes o consentimento;
 
-VIII - reclamá-los de quem ilegalmente os detenha;         [(Incluído
-pela Lei nº 13.058, de
-2014)](#)
+VIII - reclamá-los de quem ilegalmente os detenha;
 
 IX - exigir que lhes prestem obediência, respeito e os serviços próprios
-de sua idade e condição.         [(Incluído pela Lei nº 13.058, de
-2014)](#)
+de sua idade e condição.
 
 ##### Seção III - Da Suspensão e Extinção do Poder Familiar
 
@@ -12065,8 +11821,7 @@ IV - incidir, reiteradamente, nas faltas previstas no artigo
 antecedente.
 
 V - entregar de forma irregular o filho a terceiros para fins de
-adoção.  [(Incluído pela Lei nº 13.509, de
-2017)](#)
+adoção.
 
 ### TÍTULO II -Do Direito Patrimonial
 
@@ -12100,8 +11855,7 @@ antenupcial por escritura pública, nas demais escolhas.
 I - das pessoas que o contraírem com inobservância das causas
 suspensivas da celebração do casamento;
 
-II – da pessoa maior de 70 (setenta) anos;           [(Redação dada pela
-Lei nº 12.344, de 2010)](#)
+II – da pessoa maior de 70 (setenta) anos;
 
 III - de todos os que dependerem, para casar, de suprimento judicial.
 
@@ -12680,9 +12434,7 @@ pedido dos companheiros ao juiz e assento no Registro Civil.
 **Art. 1.727**. As relações não eventuais entre o homem e a mulher,
 impedidos de casar, constituem concubinato.
 
-### TÍTULO IV - Da Tutela, da Curatela e da Tomada de Decisão Apoiada  
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)
+### TÍTULO IV - Da Tutela, da Curatela e da Tomada de Decisão Apoiada
 
 #### CAPÍTULO I - Da Tutela
 
@@ -12740,10 +12492,7 @@ desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do
 poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em
 programa de colocação familiar, na forma prevista pela Lei
 nº 8.069, de 13 de julho de
-1990 - Estatuto da Criança e do Adolescente.          [(Redação dada
-pela Lei nº 12.010, de
-2009)](#)        
-[Vigência](#)
+1990 - Estatuto da Criança e do Adolescente.
 
 ##### Seção II - Dos Incapazes de Exercer a Tutela
 
@@ -13022,52 +12771,35 @@ incurso em incapacidade.
 **Art. 1.767**. Estão sujeitos a curatela:
 
 I - aqueles que, por causa transitória ou permanente, não puderem
-exprimir sua vontade;          [(Redação dada pela Lei nº 13.146, de
-2015)](#) 
-[(Vigência)](#)
+exprimir sua vontade;
 
 II -
-[(Revogado)](#);       
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+[(Revogado)](#);
 
-III - os ébrios habituais e os viciados em tóxico;          [(Redação
-dada pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+III - os ébrios habituais e os viciados em tóxico;
 
 IV -
-[(Revogado)](#);       
-[(Redação dada pela Lei nº 13.146, de
-2015)](#)     
-[(Vigência)](#)
+[(Revogado)](#);
 
 V - os pródigos.
 
 **Art. 1.768**. [(Revogado pela Lei n º 13.105, de
-2015)](#)    
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.769**. [(Revogado pela Lei n º 13.105, de
-2015)](#)    
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.770**. [(Revogado pela Lei n º 13.105, de
-2015)](#)     
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.771**. [(Revogado pela Lei n º 13.105, de
-2015)](#)     
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.772**. [(Revogado pela Lei n º 13.105, de
-2015)](#)     
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.773**. [(Revogado pela Lei n º 13.105, de
-2015)](#)     
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.774**. Aplicam-se à curatela as disposições concernentes à tutela,
 com as modificações dos artigos seguintes.
@@ -13087,21 +12819,15 @@ mencionadas neste artigo, compete ao juiz a escolha do curador.
 
 **Art. 1.775-A**. Na nomeação de curador para a pessoa com deficiência, o
 juiz poderá estabelecer curatela compartilhada a mais de uma
-pessoa.          [(Incluído pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+pessoa.
 
 **Art. 1.776**. [(Revogado pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+2015)](#)
 
 **Art. 1.777**. As pessoas referidas no [inciso I do art. 1.767](#art1767i)
 receberão todo o apoio necessário para ter preservado o direito à
 convivência familiar e comunitária, sendo evitado o seu recolhimento em
-estabelecimento que os afaste desse convívio.          [(Redação dada
-pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+estabelecimento que os afaste desse convívio.
 
 **Art. 1.778**. A autoridade do curador estende-se à pessoa e aos bens dos
 filhos do curatelado, observado o art.
@@ -13116,8 +12842,7 @@ grávida a mulher, e não tendo o poder familiar.
 nascituro.
 
 **Art. 1.780**. [(Revogado pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+2015)](#)
 
 ##### Seção III - Do Exercício da Curatela
 
@@ -13133,101 +12858,66 @@ administração.
 casamento for de comunhão universal, não será obrigado à prestação de
 contas, salvo determinação judicial.
 
-> > CAPÍTULO III
-> >
-> > **Da Tomada de Decisão Apoiada  
-> > **[(Incluído pela Lei nº 13.146, de
-> > 2015)](#) 
-> > [(Vigência)](#)
+##  CAPÍTULO III - Da Tomada de Decisão Apoiada  
 
 **Art. 1.783-A**. A tomada de decisão apoiada é o processo pelo qual a
 pessoa com deficiência elege pelo menos 2 (duas) pessoas idôneas, com
 as quais mantenha vínculos e que gozem de sua confiança, para
 prestar-lhe apoio na tomada de decisão sobre atos da vida civil,
 fornecendo-lhes os elementos e informações necessários para que possa
-exercer sua capacidade.       [(Incluído pela Lei nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+exercer sua capacidade.
 
 **§ 1º** Para formular pedido de
 tomada de decisão apoiada, a pessoa com deficiência e os apoiadores
 devem apresentar termo em que constem os limites do apoio a ser
 oferecido e os compromissos dos apoiadores, inclusive o prazo de
 vigência do acordo e o respeito à vontade, aos direitos e aos
-interesses da pessoa que devem apoiar.       [(Incluído pela Lei nº
-13.146, de 2015)](#)      
-[(Vigência)](#)
+interesses da pessoa que devem apoiar.
 
 **§ 2º** O pedido de tomada de
 decisão apoiada será requerido pela pessoa a ser apoiada, com indicação
 expressa das pessoas aptas a prestarem o apoio previsto no **caput** **
-deste artigo.      [(Incluído pela Lei nº 13.146, de
-2015)](#) 
-[(Vigência)](#)
+deste artigo.
 
 **§ 3º** Antes de se pronunciar
 sobre o pedido de tomada de decisão apoiada, o juiz, assistido por
 equipe multidisciplinar, após oitiva do Ministério Público, ouvirá
-pessoalmente o requerente e as pessoas que lhe prestarão apoio.       
-[(Incluído pela Lei nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+pessoalmente o requerente e as pessoas que lhe prestarão apoio.
 
 **§ 4º** A decisão tomada por
 pessoa apoiada terá validade e efeitos sobre terceiros, sem restrições,
-desde que esteja inserida nos limites do apoio acordado.      
-[(Incluído pela Lei nº 13.146, de
-2015)](#)        
-[(Vigência)](#)
+desde que esteja inserida nos limites do apoio acordado.
 
 **§ 5º** Terceiro com quem a
 pessoa apoiada mantenha relação negocial pode solicitar que os
 apoiadores contra-assinem o contrato ou acordo, especificando, por
-escrito, sua função em relação ao apoiado.        [(Incluído pela Lei nº
-13.146, de 2015)](#)      
-[(Vigência)](#)
+escrito, sua função em relação ao apoiado.
 
 **§ 6º** Em caso de negócio
 jurídico que possa trazer risco ou prejuízo relevante, havendo
 divergência de opiniões entre a pessoa apoiada e um dos apoiadores,
 deverá o juiz, ouvido o Ministério Público, decidir sobre a
-questão.         [(Incluído pela Lei nº 13.146, de
-2015)](#)     
-[(Vigência)](#)
+questão.
 
 **§ 7º** Se o apoiador agir com
 negligência, exercer pressão indevida ou não adimplir as obrigações
 assumidas, poderá a pessoa apoiada ou qualquer pessoa apresentar
-denúncia ao Ministério Público ou ao juiz.        [(Incluído pela Lei
-nº 13.146, de
-2015)](#)      
-[(Vigência)](#)
+denúncia ao Ministério Público ou ao juiz.
 
 **§ 8º** Se procedente a
 denúncia, o juiz destituirá o apoiador e nomeará, ouvida a pessoa
 apoiada e se for de seu interesse, outra pessoa para prestação de apoio.
-       [(Incluído pela Lei nº 13.146, de
-2015)](#) 
-[(Vigência)](#)
 
 **§ 9º** A pessoa apoiada pode, a
 qualquer tempo, solicitar o término de acordo firmado em processo de
-tomada de decisão apoiada.         [(Incluído pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+tomada de decisão apoiada.
 
 **§ 10.** O apoiador pode solicitar ao juiz a exclusão de sua participação
 do processo de tomada de decisão apoiada, sendo seu desligamento
-condicionado à manifestação do juiz sobre a matéria.         [(Incluído
-pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+condicionado à manifestação do juiz sobre a matéria.
 
 **§ 11.** Aplicam-se à tomada de decisão apoiada, no que couber, as
-disposições referentes à prestação de contas na curatela.       
-[(Incluído pela Lei nº 13.146, de
-2015)](#)       
-[(Vigência)](#)
+disposições referentes à prestação de contas na curatela.
 
 ## LIVRO V - Do Direito das Sucessões
 
@@ -13495,14 +13185,11 @@ sucessão.
 
 **§ 1º** Parágrafo único. O
 direito de demandar a exclusão do herdeiro ou legatário extingue-se em
-quatro anos, contados da abertura da sucessão.                 [(Redação
-dada pela Lei nº 13.532, de
-2017)](#)
+quatro anos, contados da abertura da sucessão.
 
 **§ 2º** Na hipótese do inciso I
 do art. 1.814, o Ministério Público tem legitimidade para demandar a
-exclusão do herdeiro ou legatário.                 [(Incluído pela Lei
-nº 13.532, de 2017)](#)
+exclusão do herdeiro ou legatário.
 
 **Art. 1.817**. São válidas as alienações onerosas de bens hereditários a
 terceiros de boa-fé, e os atos de administração legalmente praticados
@@ -14787,10 +14474,7 @@ quota que corresponderia ao indenizado.
 #### CAPÍTULO VII - Da Anulação da Partilha
 
 **Art. 2.027**. A partilha é anulável pelos vícios e defeitos que
-invalidam, em geral, os negócios jurídicos.           [(Redação dada
-pela Lei nº 13.105, de
-2015)](#)         
-[(Vigência)](#)
+invalidam, em geral, os negócios jurídicos.
 
 **Parágrafo único.** Extingue-se em um ano o direito de anular a partilha.
 
@@ -14815,13 +14499,10 @@ nos casos a que se refere o §
 
 **Art. 2.031**. As associações, sociedades e fundações, constituídas na
 forma das leis anteriores, bem como os empresários, deverão se adaptar
-às disposições deste Código até 11 de janeiro de 2007.           
-[(Redação dada pela Lei nº 11.127, de
-2005)](#)
+às disposições deste Código até 11 de janeiro de 2007.
 
   Parágrafo único. O disposto neste artigo não se aplica às organizações
-religiosas nem aos partidos políticos.           [(Incluído pela Lei nº
-10.825, de 22.12.2003))](#)
+religiosas nem aos partidos políticos.
 
 **Art. 2.032**. As fundações, instituídas segundo a legislação anterior,
 inclusive as de fins diversos dos previstos no parágrafo único do art.
