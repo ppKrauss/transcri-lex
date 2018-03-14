@@ -58,6 +58,18 @@ De (busca) | Para (substituição) | parâmetros
 `\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1** ` | regex match-case
 `\nParágrafo único\s*\.?\s*` | `\n**Parágrafo único.** ` | regex match-case
 
+Terceira etapa. [Commit b786b50](https://github.com/ppKrauss/transcri-lex/commit/b786b507007d95b526308ba81d81bfac04042f9d). Eliminação dos links, resumo:
+```
+\s*\n\[\(\s*Redação.+?\n.+?\)\]\([^\)]+\)  nada
+\s*\[\(\s*Redação.+?\n.+?\)\]\([^\)]+\) nada 
+\s*\n\[\(\s*Vigência\)\]\(#\)  nada
+\s*\n\[\(\s*Incluído.+?\n.+?\)\]\(#\)
+\s*\[\(\s*Incluído.+?\n.+?\)\]\(#\)
+\s*\[\(\s*Incluído.*?\n.*?\).?\]\(#\)
+\s*\n\[Vigência\]\(#.*\)
+```
+Alguns casos com 3 linhas foram removidos manualmente por `\s*\[\(\s*Incluído`.
+
 ## Outros documentos
 
 Lotes de transcrição são conjuntos de documentos... Neste caso, o nosso primeiro teste, optamos por trabalhar com um só documento.
