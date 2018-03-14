@@ -7,6 +7,8 @@ Conversão do HTML oficial disponivel para o formato `HTML5-lex2`, especializado
 2. conversão, via [`pandoc`](https://en.wikipedia.org/wiki/Pandoc), do HTML para [formato Markdown GFM](https://en.wikipedia.org/wiki/Markdown#GFM);
 3. Correção dos ordinais masculunos (convertendo-os de HTML para UTF-8) e dos intralinks, do que se criou uma versão de referncia `~p03-ref`. A partir dela pode-se comparar se houveram atualizações no Planalto.
 4. Cópia inicial do  `p03-ref` para se completar a transcrição com assistência humana.  Todas as alterações (software ou humanas)  serão daí em diante mantidas no git, sob o arquivo `~p04-format`. 
+5. Volta do documento revisado para HTML, `~p05-pandoc`. Neste momento já temos uma DTD *lex1*.
+6. Transformação do *HTML-lex1* em *HTML5-lex2* (estruturado com seções e listas devidamente hierarquizadas), `~p06-format`.
 
 Cada um desses passos ficam registrados nos respectivos arquivos, ou seja, de final `~p01-utf8.htm`, `~p02-pandoc0`, `~p03-ref.md`, etc.
 
@@ -58,7 +60,7 @@ De (busca) | Para (substituição) | parâmetros
 `\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1** ` | regex match-case
 `\nParágrafo único\s*\.?\s*` | `\n**Parágrafo único.** ` | regex match-case
 
-Terceira etapa. [Commit b786b50](https://github.com/ppKrauss/transcri-lex/commit/b786b507007d95b526308ba81d81bfac04042f9d). Eliminação dos links, resumo:
+Terceira etapa. [Commit b786b50](https://github.com/ppKrauss/transcri-lex/commit/b786b507007d95b526308ba81d81bfac04042f9d). **Eliminação dos links explicativos** (ficam apenas os indicativos de revogação), resumo:
 ```
 \s*\n\[\(\s*Redação.+?\n.+?\)\]\([^\)]+\)  nada
 \s*\[\(\s*Redação.+?\n.+?\)\]\([^\)]+\) nada 
@@ -69,6 +71,22 @@ Terceira etapa. [Commit b786b50](https://github.com/ppKrauss/transcri-lex/commit
 \s*\n\[Vigência\]\(#.*\)
 ```
 Alguns casos com 3 linhas foram removidos manualmente por `\s*\[\(\s*Incluído`.
+
+Quarta etapa. **Normalização e marcação dos itens**.
+
+De (busca) | Para (substituição) | parâmetros 
+-----------|---------------------|----------
+`\n(I+|IV|VI*?|IX|XI*?|X+|X?L)\s+[\-–]\s*` | `\n**$1** - ` | regex match-case
+`\n([a-z])\)\s*` | `\n**$1)** `| regex match-case
+
+### Preparos finais
+Conversão de volta para HTML,
+
+```sh
+pandoc -s -t HTML5 --template pandocExtras/html5.tpl  2002-01-10-10406-compilada~p04-format.md \
+  > 2002-01-10-10406-compilada~p05-pandoc.htm
+```
+Software de estruturação ...
 
 ## Outros documentos
 
