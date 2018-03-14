@@ -49,6 +49,7 @@ De (busca) | Para (substituição) | parâmetros
 `\nT[IÍ]TULO\s+([IVDX]+)\s*\n` | `\n###TÍTULO $1 - ` | regex match-case
 `\nCAP[IÍ]TULO\s+([IVDX]+)\s*\n` | `\n####CAPÍTULO $1 - ` | regex match-case
 `\nSe[cç][aã]o\s+([IVDX]+)\s*\n` | `\n#####Seção $1 - ` | regex match-case
+&nbsp; (errata: adicionar um espaço no final da string de substituição)
 
 sempre olhando um a um, evitando *replace-all* justamente para manter a verificação humana neste primeiro experimento. Exceção "Seção Única".
 
@@ -57,8 +58,9 @@ Segunda etapa, **marcação dos artigos e parágrafos**. Já realizada, ver [com
 De (busca) | Para (substituição) | parâmetros 
 -----------|--------------------|----------
 `\nArt\.\s*((?:\d+\|\d\.\d+)[º\-A-Z]*)\.?\s*` | `\n**Art. $1**. ` | regex match-case
-`\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1** ` | regex match-case
+`\n§\s*([\d\.]+º?)[\s\.\-]*` | `\n**§ $1**\ ` | regex match-case
 `\nParágrafo único\s*\.?\s*` | `\n**Parágrafo único.** ` | regex match-case
+&nbsp; (errata: adicionar um espaço no final da string de substituição)
 
 Terceira etapa. [Commit b786b50](https://github.com/ppKrauss/transcri-lex/commit/b786b507007d95b526308ba81d81bfac04042f9d). **Eliminação dos links explicativos** (ficam apenas os indicativos de revogação), resumo:
 ```
@@ -78,6 +80,7 @@ De (busca) | Para (substituição) | parâmetros
 -----------|---------------------|----------
 `\n(I+\|IV\|VI*?\|IX\|XI*?\|X+\|X?L)\s+[\-–]\s*` | `\n**$1** - ` | regex match-case
 `\n([a-z])\)\s*` | `\n**$1)** ` | regex match-case
+&nbsp; (errata: adicionar um espaço no final da string de substituição)
 
 ### Preparos finais
 Conversão de volta para HTML,
