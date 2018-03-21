@@ -10744,8 +10744,7 @@ reparação civil contra o culpado pela ruína.
 
 ### TÍTULO I -Do Direito Pessoal
 
-### SUBTÍTULO I  
-Do Casamento
+### SUBTÍTULO I Do Casamento
 
 #### CAPÍTULO I - Disposições Gerais
 
@@ -12849,7 +12848,7 @@ administração.
 casamento for de comunhão universal, não será obrigado à prestação de
 contas, salvo determinação judicial.
 
-##  CAPÍTULO III - Da Tomada de Decisão Apoiada  
+####  CAPÍTULO III - Da Tomada de Decisão Apoiada  
 
 **Art. 1.783-A**. A tomada de decisão apoiada é o processo pelo qual a
 pessoa com deficiência elege pelo menos 2 (duas) pessoas idôneas, com
@@ -12867,7 +12866,7 @@ interesses da pessoa que devem apoiar.
 
 **§ 2º** O pedido de tomada de
 decisão apoiada será requerido pela pessoa a ser apoiada, com indicação
-expressa das pessoas aptas a prestarem o apoio previsto no **caput** **
+expressa das pessoas aptas a prestarem o apoio previsto no **caput**
 deste artigo.
 
 **§ 3º** Antes de se pronunciar
