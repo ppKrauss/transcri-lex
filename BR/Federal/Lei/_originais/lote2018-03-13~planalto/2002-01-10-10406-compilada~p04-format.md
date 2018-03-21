@@ -10744,7 +10744,7 @@ reparação civil contra o culpado pela ruína.
 
 ### TÍTULO I -Do Direito Pessoal
 
-### SUBTÍTULO I Do Casamento
+### SUBTÍTULO - I Do Casamento
 
 #### CAPÍTULO I - Disposições Gerais
 
@@ -11545,8 +11545,7 @@ adolescente.
 **Art. 1.590**. As disposições relativas à guarda e prestação de alimentos
 aos filhos menores estendem-se aos maiores incapazes.
 
-### SUBTÍTULO II  
-Das Relações de Parentesco
+### SUBTÍTULO II - Das Relações de Parentesco
 
 #### CAPÍTULO I - Disposições Gerais
 
@@ -11817,8 +11816,7 @@ adoção.
 
 ### TÍTULO II -Do Direito Patrimonial
 
-### SUBTÍTULO I  
-Do Regime de Bens entre os Cônjuges
+### SUBTÍTULO I - Do Regime de Bens entre os Cônjuges
 
 #### CAPÍTULO I - Disposições Gerais
 
@@ -12167,8 +12165,7 @@ livremente alienar ou gravar de ônus real.
 despesas do casal na proporção dos rendimentos de seu trabalho e de seus
 bens, salvo estipulação em contrário no pacto antenupcial.
 
-### SUBTÍTULO II  
-Do Usufruto e da Administração dos Bens de Filhos Menores
+### SUBTÍTULO II - Do Usufruto e da Administração dos Bens de Filhos Menores
 
 **Art. 1.689**. O pai e a mãe, enquanto no exercício do poder familiar:
 
@@ -12217,8 +12214,7 @@ usufruídos, ou administrados, pelos pais;
 **IV** - os bens que aos filhos couberem na herança, quando os pais forem
 excluídos da sucessão.
 
-### SUBTÍTULO III  
-Dos Alimentos
+### SUBTÍTULO III - Dos Alimentos
 
 **Art. 1.694**. Podem os parentes, os cônjuges ou companheiros pedir uns aos
 outros os alimentos de que necessitem para viver de modo compatível com
@@ -12309,8 +12305,7 @@ constante da sentença de divórcio.
 **Art. 1.710**. As prestações alimentícias, de qualquer natureza, serão
 atualizadas segundo índice oficial regularmente estabelecido.
 
-### SUBTÍTULO IV  
-Do Bem de Família
+### SUBTÍTULO IV - Do Bem de Família
 
 **Art. 1.711**. Podem os cônjuges, ou a entidade familiar, mediante
 escritura pública ou testamento, destinar parte de seu patrimônio para
